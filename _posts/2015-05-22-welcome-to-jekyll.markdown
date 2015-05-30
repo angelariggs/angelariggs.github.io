@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to my site!"
+title:  "Welcome!"
 date:   2015-05-30
 ---
 Hello, interwebs! I'm Angela - it's nice to meet you!
