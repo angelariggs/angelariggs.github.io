@@ -1,7 +1,7 @@
 # Site settings
 title: Musings of a Junior Dev
 email: riggs.ang@gmail.com
-description: Site Description
+description: Blog and portfolio site | Angela Riggs
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "angelariggs.github.io/" # the base hostname & protocol for your site
 twitter_username: AngelaRiggs_

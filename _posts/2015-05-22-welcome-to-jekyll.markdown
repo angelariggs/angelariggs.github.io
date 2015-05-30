@@ -1,25 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-05-22 13:37:25
-categories: jekyll update
+title:  "Welcome to my site!"
+date:   2015-05-30
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello, interwebs! I'm Angela - it's nice to meet you!
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+What's that? Oh, of course - I'd be happy to tell you a bit about myself!
 
-Jekyll also offers powerful support for code snippets:
+I've been in Portland for almost two years now (July 1st will mark the happy occasion of our move from Florida), and currently hang my hat in St. Johns, along with [Josh](http://joshriggs.net/) (my husband) and [Frank](https://instagram.com/p/sL96HQFL82/) (our adorable puppins).
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Before May, I was a teacher with an awesome cohort of 3-5-year-olds; my days revolved around reading, science and math experiments, and hugs. I still love hugs, but I'm changing my career path and becoming a JavaScript developer. I'm one month into a Full-Stack Javascript bootcamp at Portland Code School, and I love it! Some of the projects I've created are a calculator, an old-school text adventure game, and a static-site generator; and I've already had my first struggle with [imposter syndrome](https://storify.com/angelariggs/imposter-syndrome). 
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+I'm finding that, at its best, coding is exciting, creative, collaborative, and fun. And when coding is at its best, it's also challenging, scary, and stubborn. It's all a part of the whole, and I'm really excited to be a part of it!
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
