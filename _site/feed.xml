@@ -5,12 +5,12 @@
     <description>Blog and portfolio site | Angela Riggs</description>
     <link>angelariggs.github.io//</link>
     <atom:link href="angelariggs.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 May 2015 12:06:21 -0700</pubDate>
-    <lastBuildDate>Sat, 30 May 2015 12:06:21 -0700</lastBuildDate>
+    <pubDate>Sat, 30 May 2015 12:55:16 -0700</pubDate>
+    <lastBuildDate>Sat, 30 May 2015 12:55:16 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Welcome to my site!</title>
+        <title>Welcome!</title>
         <description>&lt;p&gt;Hello, interwebs! I’m Angela - it’s nice to meet you!&lt;/p&gt;
 
 &lt;p&gt;What’s that? Oh, of course - I’d be happy to tell you a bit about myself!&lt;/p&gt;
@@ -18,15 +18,14 @@
 &lt;p&gt;I’ve been in Portland for almost two years now (July 1st will mark the happy occasion of our move from Florida), and currently hang my hat in St. Johns, along with &lt;a href=&quot;http://joshriggs.net/&quot;&gt;Josh&lt;/a&gt; (my husband) and &lt;a href=&quot;https://instagram.com/p/sL96HQFL82/&quot;&gt;Frank&lt;/a&gt; (our adorable puppins).&lt;/p&gt;
 
 &lt;p&gt;Before May, I was a teacher with an awesome cohort of 3-5-year-olds; my days revolved around reading, science and math experiments, and hugs. I still love hugs, but I’m changing my career path and becoming a JavaScript developer. I’m one month into a Full-Stack Javascript bootcamp at Portland Code School, and I love it! Some of the projects I’ve created are a calculator, an old-school text adventure game, and a static-site generator; and I’ve already had my first struggle with &lt;a href=&quot;https://storify.com/angelariggs/imposter-syndrome&quot;&gt;imposter syndrome&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’m finding that, at its best, coding is exciting, creative, collaborative, and fun. And when coding is at its best, it’s also challenging, scary, and stubborn. It’s all a part of the whole, and I’m really excited to be a part of it!&lt;/p&gt;
+
 </description>
         <pubDate>Sat, 30 May 2015 00:00:00 -0700</pubDate>
-        <link>angelariggs.github.io//jekyll/update/2015/05/30/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">angelariggs.github.io//jekyll/update/2015/05/30/welcome-to-jekyll.html</guid>
+        <link>angelariggs.github.io//2015/05/30/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">angelariggs.github.io//2015/05/30/welcome-to-jekyll.html</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
