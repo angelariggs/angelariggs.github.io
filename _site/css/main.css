@@ -1,3 +1,9 @@
+@import url(http://fonts.googleapis.com/css?family=Stint+Ultra+Expanded|Ultra|Slabo+13px);
+/*
+font-family: 'Stint Ultra Expanded', cursive;
+font-family: 'Ultra', serif;
+font-family: 'Slabo 13px', serif;
+*/
 /**
  * Reset some basic elements
  */
@@ -11,13 +17,16 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: 'Stint Ultra Expanded', serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
   color: #111;
-  background-color: #fdfdfd;
+  background-color: #105B63;
   -webkit-text-size-adjust: 100%; }
+
+body header.site-header {
+  font-family: 'Stint Ultra Expanded', serif;
+  color: #DB9E36; }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
