@@ -6,6 +6,12 @@ Fonts
 @import url(http://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,400italic,700|Open+Sans:700,600,400);
 
 /*
+coral: #ff5f60;
+pink: #f51a6c;
+grey: #2F3538;
+*/
+
+/*
 font-family: 'Gentium Book Basic', serif;
 font-family: 'Open Sans', sans-serif;
 */
@@ -35,7 +41,7 @@ body {
     line-height: $base-line-height;
     font-weight: 300;
     color: $text-color;
-    background-color: #105B63;
+    background-color: #2F3538;
     -webkit-text-size-adjust: 100%;
 }
 
@@ -45,13 +51,13 @@ Header
 
 body header.site-header div.wrapper a.site-title {
     font-family: 'Open Sans', sans-serif;
-    color: #BD4932; 
+    color: #f51a6c; 
     font-weight: 600;
 }
 
 body header.site-header div.wrapper nav.site-nav div.trigger a {
     font-family: 'Open Sans', sans-serif;
-    color: #BD4932; 
+    color: #f51a6c; 
     font-weight: 600;
     font-size: 20px;
 }
@@ -61,7 +67,7 @@ Posts section
 ********************/
 body div.page-content div.wrapper div.home h1 {
     font-family: 'Open Sans', sans-serif;
-    color: #DB9E36;
+    color: #f51a6c;
     font-weight: 600;
 }
 
@@ -71,17 +77,64 @@ body div.page-content div.wrapper div.home ul {
 
 body div div div.home ul.post-list li h2 a {
     font-family: 'Gentium Book Basic', serif;
-    color: #FFD34E;
+    color: #f51a6c;
 }
 
 body div div div.home ul.post-list li span.post-meta {
     font-size: 20px;
-    color: #BD4932;
+    color: #fff;
 }
 
 body div div div.home ul.post-list li h2 a:hover {
-    color: #FFFAD5;
+    color: #fff;
     text-decoration: none;
+}
+
+/********************
+Footer
+********************/
+body footer.site-footer div.wrapper h2.footer-heading {
+    font-family: 'Open Sans', sans-serif;
+    color: #f51a6c;
+}
+
+body footer div div div ul.contact-list li {
+    font-family: 'Gentium Book Basic', serif;
+    color: #fff;
+}
+
+body footer div div div ul.contact-list li a {
+    font-family: 'Gentium Book Basic', serif;
+    color: #fff;
+}
+
+body footer div div div ul.contact-list li a:hover {
+    font-family: 'Gentium Book Basic', serif;
+    color: #f51a6c;
+} 
+
+body footer div div div ul li a span.username {
+    color: #fff;
+    font-family: 'Gentium Book Basic', serif;
+}
+
+body footer div div div ul li a:hover span.username {
+    color: #f51a6c;
+}
+
+body footer div div div.footer-col.footer-col-3 p {
+    font-family: 'Gentium Book Basic', serif;
+    color: #f51a6c;
+}
+
+
+/********************
+About Page
+********************/
+
+body div div div.post header.post-header h1 {
+    color: #fff;
+    font-family: 'Gentium Book Basic', serif;
 }
 
 
