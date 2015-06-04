@@ -1,4 +1,14 @@
-@import url(http://fonts.googleapis.com/css?family=Stint+Ultra+Expanded|Ultra|Slabo+13px);
+/********************
+Fonts
+********************/
+
+/*@import url(http://fonts.googleapis.com/css?family=Stint+Ultra+Expanded|Ultra|Slabo+13px);*/
+@import url(http://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,400italic,700|Open+Sans:700,600,400);
+
+/*
+font-family: 'Gentium Book Basic', serif;
+font-family: 'Open Sans', sans-serif;
+*/
 
 /*
 font-family: 'Stint Ultra Expanded', cursive;
@@ -17,9 +27,9 @@ dl, dd, ol, ul, figure {
 
 
 
-/**
- * Basic styling
- */
+/********************
+Body
+********************/
 body {
     font-size: $base-font-size;
     line-height: $base-line-height;
@@ -29,11 +39,50 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
-body header.site-header {
-    font-family: 'Stint Ultra Expanded', serif;
-    color: #DB9E36; 
+/********************
+Header
+********************/
+
+body header.site-header div.wrapper a.site-title {
+    font-family: 'Open Sans', sans-serif;
+    color: #BD4932; 
+    font-weight: 600;
 }
 
+body header.site-header div.wrapper nav.site-nav div.trigger a {
+    font-family: 'Open Sans', sans-serif;
+    color: #BD4932; 
+    font-weight: 600;
+    font-size: 20px;
+}
+
+/********************
+Posts section
+********************/
+body div.page-content div.wrapper div.home h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #DB9E36;
+    font-weight: 600;
+}
+
+body div.page-content div.wrapper div.home ul {
+    font-family: 'Gentium Book Basic', serif;
+}
+
+body div div div.home ul.post-list li h2 a {
+    font-family: 'Gentium Book Basic', serif;
+    color: #FFD34E;
+}
+
+body div div div.home ul.post-list li span.post-meta {
+    font-size: 20px;
+    color: #BD4932;
+}
+
+body div div div.home ul.post-list li h2 a:hover {
+    color: #FFFAD5;
+    text-decoration: none;
+}
 
 
 /**
