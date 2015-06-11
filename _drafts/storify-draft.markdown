@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2015-06-1
+tags: "twitter", "javascript"
+---
+
+When I look at each day of learning JavaScript, it can be really hard to recognize how much I've learned since this course started. But then I realize that just five short weeks ago, this interaction on Twitter would never have happened.
+
+<div class="storify">
+<iframe src="//storify.com/angelariggs/coder-s-got-jokes/embed?header=false" width="50%" height="750" frameborder="no" allowtransparency="true"></iframe>

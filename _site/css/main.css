@@ -3,10 +3,13 @@ Fonts
 ********************/
 /*@import url(http://fonts.googleapis.com/css?family=Stint+Ultra+Expanded|Ultra|Slabo+13px);*/
 @import url(http://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,400italic,700|Open+Sans:700,600,400);
+@import url(http://fonts.googleapis.com/css?family=Stint+Ultra+Expanded|Slabo+13px|Ultra);
 /*
-coral: #ff5f60;
-pink: #f51a6c;
-grey: #2F3538;
+teal: #00cdc6;
+gray: #2e3643;
+yellow: #eef3bc;
+lime green: #b6c11d;
+orange: #f0563e;
 */
 /*
 font-family: 'Gentium Book Basic', serif;
@@ -33,8 +36,8 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
-  color: #111;
-  background-color: #2F3538;
+  background-color: #2e3643;
+  background-color: #2e3643;
   -webkit-text-size-adjust: 100%; }
 
 /********************
@@ -42,12 +45,12 @@ Header
 ********************/
 body header.site-header div.wrapper a.site-title {
   font-family: 'Open Sans', sans-serif;
-  color: #f51a6c;
+  color: #f0563e;
   font-weight: 600; }
 
 body header.site-header div.wrapper nav.site-nav div.trigger a {
   font-family: 'Open Sans', sans-serif;
-  color: #f51a6c;
+  color: #f0563e;
   font-weight: 600;
   font-size: 20px; }
 
@@ -56,22 +59,29 @@ Posts section
 ********************/
 body div.page-content div.wrapper div.home h1 {
   font-family: 'Open Sans', sans-serif;
-  color: #f51a6c;
+  font-size: 25px;
+  color: #f0563e;
   font-weight: 600; }
 
 body div.page-content div.wrapper div.home ul {
-  font-family: 'Gentium Book Basic', serif; }
+  font-family: 'Slabo 13px', serif; }
 
 body div div div.home ul.post-list li h2 a {
-  font-family: 'Gentium Book Basic', serif;
-  color: #f51a6c; }
+  font-family: 'Slabo 13px', serif;
+  font-size: 20px;
+  color: #00cdc6; }
 
 body div div div.home ul.post-list li span.post-meta {
+  font-family: 'Slabo 13px', serif;
   font-size: 20px;
-  color: #fff; }
+  color: #eef3bc; }
+
+body div div div.post header.post-header p.post-meta {
+  font-family: 'Slabo 13px', serif;
+  color: #00cdc6; }
 
 body div div div.home ul.post-list li h2 a:hover {
-  color: #fff;
+  color: #b6c11d;
   text-decoration: none; }
 
 /********************
@@ -82,34 +92,46 @@ body footer.site-footer div.wrapper h2.footer-heading {
   color: #f51a6c; }
 
 body footer div div div ul.contact-list li {
-  font-family: 'Gentium Book Basic', serif;
-  color: #fff; }
+  font-family: 'Slabo 13px', serif;
+  color: #b6c11d; }
 
 body footer div div div ul.contact-list li a {
-  font-family: 'Gentium Book Basic', serif;
-  color: #fff; }
+  font-family: 'Slabo 13px', serif;
+  color: #00cdc6; }
 
 body footer div div div ul.contact-list li a:hover {
-  font-family: 'Gentium Book Basic', serif;
-  color: #f51a6c; }
+  font-family: 'Slabo 13px', serif;
+  color: #b6c11d; }
 
-body footer div div div ul li a span.username {
-  color: #fff;
-  font-family: 'Gentium Book Basic', serif; }
+body footer ul li span.username {
+  color: #00cdc6;
+  font-family: 'Slabo 13px', serif; }
 
-body footer div div div ul li a:hover span.username {
-  color: #f51a6c; }
+body footer div div div ul li a:hover {
+  color: #green; }
 
 body footer div div div.footer-col.footer-col-3 p {
-  font-family: 'Gentium Book Basic', serif;
-  color: #f51a6c; }
+  font-family: 'Slabo 13px', serif;
+  color: #f0563e; }
 
 /********************
 About Page
 ********************/
 body div div div.post header.post-header h1 {
-  color: #fff;
-  font-family: 'Gentium Book Basic', serif; }
+  color: #f0563e;
+  font-family: 'Slabo 13px', serif; }
+
+body .post-content p {
+  font-family: 'Open Sans', sans-serif;
+  color: #eef3bc; }
+
+body div div.wrapper div.post article.post-content a {
+  font-family: 'Open Sans', sans-serif;
+  color: #00cdc6; }
+
+body div div.wrapper div.post article.post-content p a:hover {
+  font-family: 'Open Sans', sans-serif;
+  color: #b6c11d; }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm

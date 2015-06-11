@@ -5,9 +5,39 @@
     <description>Blog and portfolio site | Angela Riggs</description>
     <link>angelariggs.github.io//</link>
     <atom:link href="angelariggs.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Jun 2015 09:09:36 -0700</pubDate>
-    <lastBuildDate>Thu, 04 Jun 2015 09:09:36 -0700</lastBuildDate>
+    <pubDate>Thu, 11 Jun 2015 08:51:03 -0700</pubDate>
+    <lastBuildDate>Thu, 11 Jun 2015 08:51:03 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Storify Draft</title>
+        <description>&lt;p&gt;When I look at each day of learning JavaScript, it can be really hard to recognize how much I’ve learned since this course started. But then I realize that just five short weeks ago, this interaction on Twitter would never have happened.&lt;/p&gt;
+
+&lt;div class=&quot;storify&quot;&gt;
+&lt;iframe src=&quot;//storify.com/angelariggs/coder-s-got-jokes/embed?header=false&quot; width=&quot;50%&quot; height=&quot;750&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 11 Jun 2015 08:49:57 -0700</pubDate>
+        <link>angelariggs.github.io//2015/06/11/storify-draft.html</link>
+        <guid isPermaLink="true">angelariggs.github.io//2015/06/11/storify-draft.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Jokes</title>
+        <description>&lt;p&gt;When I look at each day of learning JavaScript, it can be really hard to recognize how much I’ve learned since this course started. But then I realize that just five short weeks ago, this interaction on Twitter would never have happened.&lt;/p&gt;
+
+&lt;div class=&quot;storify&quot;&gt;
+&lt;iframe src=&quot;//storify.com/angelariggs/coder-s-got-jokes/embed?header=false&quot; width=&quot;50%&quot; height=&quot;750&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 11 Jun 2015 00:00:00 -0700</pubDate>
+        <link>angelariggs.github.io//2015/06/11/jokes.html</link>
+        <guid isPermaLink="true">angelariggs.github.io//2015/06/11/jokes.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Welcome!</title>
