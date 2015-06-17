@@ -53,6 +53,11 @@ body div div div.home ul.post-list li span.post-meta {
   font-size: 20px;
   color: #eef3bc; }
 
+body div div div ul.post-list li span.post-meta {
+  font-family: 'Slabo 13px', serif;
+  font-size: 20px;
+  color: #eef3bc; }
+
 body div div div.post header.post-header p.post-meta {
   font-family: 'Slabo 13px', serif;
   color: #00cdc6; }
