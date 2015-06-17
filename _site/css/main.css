@@ -1,28 +1,5 @@
-/********************
-Fonts
-********************/
-/*@import url(http://fonts.googleapis.com/css?family=Stint+Ultra+Expanded|Ultra|Slabo+13px);*/
-@import url(http://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,400italic,700|Open+Sans:700,600,400);
-@import url(http://fonts.googleapis.com/css?family=Stint+Ultra+Expanded|Slabo+13px|Ultra);
-/*
-teal: #00cdc6;
-gray: #2e3643;
-yellow: #eef3bc;
-lime green: #b6c11d;
-orange: #f0563e;
-*/
-/*
-font-family: 'Gentium Book Basic', serif;
-font-family: 'Open Sans', sans-serif;
-*/
-/*
-font-family: 'Stint Ultra Expanded', cursive;
-font-family: 'Ultra', serif;
-font-family: 'Slabo 13px', serif;
-*/
-/**
- * Reset some basic elements
- */
+@charset "UTF-8";
+∏
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
