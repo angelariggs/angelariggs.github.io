@@ -1,5 +1,25 @@
-@charset "UTF-8";
-∏
+/********************
+Fonts
+********************/
+/*
+teal: #00cdc6;
+gray: #2e3643;
+yellow: #eef3bc;
+lime green: #b6c11d;
+orange: #f0563e;
+*/
+/*
+font-family: 'Gentium Book Basic', serif;
+font-family: 'Open Sans', sans-serif;
+*/
+/*
+font-family: 'Stint Ultra Expanded', cursive;
+font-family: 'Ultra', serif;
+font-family: 'Slabo 13px', serif;
+*/
+/**
+ * Reset some basic elements
+ */
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -65,6 +85,10 @@ body div div div.post header.post-header p.post-meta {
 body div div div.home ul.post-list li h2 a:hover {
   color: #b6c11d;
   text-decoration: none; }
+
+body div.page-content div.wrapper div.post article.post-content h1 {
+  font-family: 'Slabo 13px', serif;
+  color: #b6c11d; }
 
 /********************
 Footer
