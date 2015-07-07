@@ -7,7 +7,6 @@
 
 @import "reset";
 @import "variables";
-@import "typography";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -19,9 +18,11 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $sans-serif;
-  color: $darkGray;
+	background: $red;
+  color: $white;
+  p {
+    font: 18px/1.4 $sans-serif;
+  }
 }
 
 .container {
@@ -31,9 +32,8 @@ body {
   width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h2, h4, h5, h6 {
   font-family: $cursive;
-  color: $darkerGray;
   font-weight: bold;
 
   line-height: 1.7;
@@ -47,6 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  font-family: $serif;
   a {
     color: inherit;
   }
@@ -118,7 +119,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $yellow;
 }
 
 // Specify the color of the selection
@@ -193,9 +194,10 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  padding-bottom: 15px;
+  color: $yellow;
   cursor: pointer;
-  font-family: $sans-serif;
+  font-family: $cursive;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -203,7 +205,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $blue;
   font-size: 16px;
 
   @include mobile {
@@ -214,7 +216,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $sans-serif;
+  font-family: $serif;
   font-size: 18px;
 
   @include mobile {
@@ -226,7 +228,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $yellow;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -262,6 +264,10 @@ nav {
     font-style: italic;
   }
 
+  .post h1 a {
+    padding-top: 10px;
+  }
+
   .comments {
     margin-top: 10px;
   }
@@ -282,6 +288,11 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+.entry h3 {
+  font-family: $cursive;
+  color: $yellow;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

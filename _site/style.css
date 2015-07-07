@@ -1,7 +1,7 @@
 /***************/
 /* MEYER RESET */
 /***************/
-@import url(http://fonts.googleapis.com/css?family=Carrois+Gothic|Satisfy|Slabo+27px);
+@import url(http://fonts.googleapis.com/css?family=Carrois+Gothic|Satisfy|Roboto+Slab);
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -65,9 +65,11 @@ html {
 }
 
 body {
-  background: #fff;
+  background: #EA5E5B;
+  color: #fff;
+}
+body p {
   font: 18px/1.4 "Carrois Gothic", sans-serif;
-  color: #333;
 }
 
 .container {
@@ -77,22 +79,22 @@ body {
   width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h2, h4, h5, h6 {
   font-family: "Satisfy", cursive;
-  color: #222;
   font-weight: bold;
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
 }
 @media screen and (max-width: 640px) {
-  h1, h2, h3, h4, h5, h6 {
+  h2, h4, h5, h6 {
     line-height: 1.4;
   }
 }
 
 h1 {
   font-size: 30px;
+  font-family: "Roboto Slab", serif;
 }
 h1 a {
   color: inherit;
@@ -163,7 +165,7 @@ img {
 
 .date {
   font-style: italic;
-  color: #666;
+  color: #DBBC37;
 }
 
 ::-moz-selection {
@@ -233,9 +235,10 @@ img {
 
 .site-name {
   margin: 0;
-  color: #333;
+  padding-bottom: 15px;
+  color: #DBBC37;
   cursor: pointer;
-  font-family: "Carrois Gothic", sans-serif;
+  font-family: "Satisfy", cursive;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -243,7 +246,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #666;
+  color: #1167BD;
   font-size: 16px;
 }
 @media screen and (max-width: 640px) {
@@ -255,7 +258,7 @@ img {
 nav {
   float: right;
   margin-top: 23px;
-  font-family: "Carrois Gothic", sans-serif;
+  font-family: "Roboto Slab", serif;
   font-size: 18px;
 }
 @media screen and (max-width: 640px) {
@@ -268,7 +271,7 @@ nav {
 }
 nav a {
   margin-left: 20px;
-  color: #333;
+  color: #DBBC37;
   text-align: right;
   font-weight: 300;
   letter-spacing: 1px;
@@ -298,6 +301,9 @@ nav a {
   font-size: 22px;
   font-style: italic;
 }
+.post .post h1 a {
+  padding-top: 10px;
+}
 .post .comments {
   margin-top: 10px;
 }
@@ -316,6 +322,11 @@ nav a {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+.entry h3 {
+  font-family: "Satisfy", cursive;
+  color: #DBBC37;
 }
 
 .highlight {
