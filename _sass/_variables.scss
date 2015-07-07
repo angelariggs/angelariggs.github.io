@@ -1,0 +1,31 @@
+
+//
+// VARIABLES
+//
+
+// Colors
+$blue: #4183C4;
+$red: #EA5E5B;
+$blue: #1167BD;
+$yellow: #DBBC37;
+
+// Grays
+$black: #000;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$lightGray: #eee;
+$white: #fff;
+
+// Font stacks
+@import url(http://fonts.googleapis.com/css?family=Carrois+Gothic|Satisfy|Slabo+27px);
+$serif: "Slabo 27px", serif;  
+$sans-serif: "Carrois Gothic", sans-serif;
+$cursive: "Satisfy", cursive;
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}
