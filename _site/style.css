@@ -94,10 +94,10 @@ h2, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
-  font-family: "Roboto Slab", serif;
+  font-family: "Satisfy", cursive;
 }
 h1 a {
-  color: inherit;
+  color: #DBBC37;
 }
 
 h2 {
@@ -326,6 +326,14 @@ footer {
 
 .entry h3 {
   font-family: "Satisfy", cursive;
+  color: #DBBC37;
+}
+
+.read-more {
+  font-family: "Carrois Gothic", sans-serif;
+}
+
+.page h1 {
   color: #DBBC37;
 }
 

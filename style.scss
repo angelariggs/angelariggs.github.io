@@ -47,9 +47,9 @@ h2, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
-  font-family: $serif;
+  font-family: $cursive;
   a {
-    color: inherit;
+    color: $yellow;
   }
 }
 
@@ -292,6 +292,14 @@ footer {
 
 .entry h3 {
   font-family: $cursive;
+  color: $yellow;
+}
+
+.read-more {
+  font-family: $sans-serif;
+}
+
+.page h1 {
   color: $yellow;
 }
 
