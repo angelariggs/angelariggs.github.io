@@ -7,6 +7,23 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Final Countdown</title>
+        <description>&lt;p&gt;As I write this, I&amp;#39;m entering into the second week of capstone projects at Portland Code School. The lectures are done, although the learning continues, as we use our knowledge of full-stack JavaScript to build our own web apps!&lt;/p&gt;
+
+&lt;p&gt;My group consists of &lt;a href=&quot;nathanbrennerjavascript.wordpress.com&quot;&gt;Nate&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/in/cpoff&quot;&gt;Curt&lt;/a&gt;, and myself. We went though the &lt;a href=&quot;http://www.portlandcodeschool.com/webdevelopmentprimer/&quot;&gt;Foundations Course&lt;/a&gt; together, and our learning and collaboration styles work well together. I&amp;#39;m really happy that we all agreed to work on the web app that I proposed - it&amp;#39;s been cool to see it taking shape! We&amp;#39;re building a site called &lt;a href=&quot;https://github.com/nathan-j-brenner/snapOR&quot;&gt;snapOR&lt;/a&gt;. As a hiker and photographer, I spend a lot of time going between different websites to look up cool hikes, and researching the kind of photos that people have taken there. Wouldn&amp;#39;t it be nice to have all of that information - hikes and photos - in a single website? Our web app is the answer to that!&lt;/p&gt;
+
+&lt;p&gt;We&amp;#39;re using Jade, Foundation, and Backbone.js for front-end; and Orchestrate.io for the back-end. We have some Express server happening, but a lot of it&amp;#39;s going to be in Backbone, since we&amp;#39;re creating a single-page app at the suggestion of our project advisors, &lt;a href=&quot;https://github.com/smashdevcode&quot;&gt;James&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/kenhowardpdx&quot;&gt;Ken&lt;/a&gt; from &lt;a href=&quot;http://www.csgpro.com/&quot;&gt;CSGPro&lt;/a&gt;. We&amp;#39;re using APIs from Google Maps, Oregon State Parks, and Flickr, and we&amp;#39;ll add in Weather Underground if we get to Version 2! This project has really helped me bring together my code knowledge from the two months of class, and I&amp;#39;m really proud to be contributing to the front-end and back-end work.&lt;/p&gt;
+
+&lt;p&gt;This week, I&amp;#39;m digging into Backbone. My grasp of it is still shaky, and I&amp;#39;ve spent part of my time trying to find coherent tutorials on using Backbone for a single-page app. It&amp;#39;s slowly coming together, and I have a feeling that most of my time this week will be devoted to understanding and building with Backbone. &lt;/p&gt;
+
+&lt;p&gt;On that note, it&amp;#39;s time to dive back into the wild world of Backbone - wish me luck! (And if you have any resources that helped you learn Backbone, please send it my way! You can tweet me at &lt;a href=&quot;&quot;&gt;@angelariggs_&lt;/a&gt;)&lt;/p&gt;
+</description>
+        <pubDate>Fri, 17 Jul 2015 00:00:00 -0700</pubDate>
+        <link>/final-countdown/</link>
+        <guid isPermaLink="true">/final-countdown/</guid>
+      </item>
+    
+      <item>
         <title>Tweeting for Community &amp; Understanding</title>
         <description>&lt;p&gt;I&amp;#39;m halfway through my &lt;a href=&quot;http://www.portlandcodeschool.com/javascriptimmersion/&quot;&gt;developer bootcamp&lt;/a&gt;, filling my brain with JavaScript and preparing to transition my skills out of the classroom and into a job. Along the way, I&amp;#39;ve been collecting resources: documentation libraries for Orchestrate and jQuery, tutorials like &lt;a href=&quot;https://developer.mozilla.org/en-US/&quot;&gt;Mozilla Developer&amp;#39;s Network&lt;/a&gt; and &lt;a href=&quot;https://teamtreehouse.com/&quot;&gt;Treehouse&lt;/a&gt;, and oodles of bookmarked pages for projects and tips. There are an enormous number of resources out there, and they cover every aspect of development that I could want.&lt;/p&gt;
 
@@ -76,8 +93,6 @@
 &lt;p&gt;What&amp;#39;s that? Oh, of course - I&amp;#39;d be happy to tell you a bit about myself!&lt;/p&gt;
 
 &lt;p&gt;I&amp;#39;ve been in Portland for almost two years now (July 1st will mark the happy occasion of our move from Florida), and currently hang my hat in St. Johns, along with &lt;a href=&quot;http://joshriggs.net/&quot;&gt;Josh&lt;/a&gt; (my husband) and &lt;a href=&quot;https://instagram.com/p/sL96HQFL82/&quot;&gt;Frank&lt;/a&gt; (our adorable puppins).&lt;/p&gt;
-
-&lt;!--more--&gt;
 
 &lt;p&gt;Before May, I was a teacher with an awesome cohort of 3-5-year-olds; my days revolved around reading, science and math experiments, and hugs. I still love hugs, but I&amp;#39;m changing my career path and becoming a JavaScript developer. I&amp;#39;m one month into a Full-Stack Javascript bootcamp at Portland Code School, and I love it! Some of the projects I&amp;#39;ve created are a calculator, an old-school text adventure game, and a static-site generator; and I&amp;#39;ve already had my first struggle with &lt;a href=&quot;https://storify.com/angelariggs/imposter-syndrome&quot;&gt;imposter syndrome&lt;/a&gt;. &lt;/p&gt;
 
