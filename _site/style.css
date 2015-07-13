@@ -65,10 +65,10 @@ html {
 }
 
 body {
-  background: #EA5E5B;
-  color: #fff;
+  background: #333;
 }
 body p {
+  color: #fff;
   font: 18px/1.4 "Carrois Gothic", sans-serif;
 }
 
@@ -97,7 +97,7 @@ h1 {
   font-family: "Satisfy", cursive;
 }
 h1 a {
-  color: #DBBC37;
+  color: #D23184;
 }
 
 h2 {
@@ -118,12 +118,12 @@ p {
 }
 
 a {
-  color: #1167BD;
+  color: #1dabc6;
   text-decoration: none;
   cursor: pointer;
 }
 a:hover, a:active {
-  color: #1167BD;
+  color: #a8c520;
 }
 
 ul, ol {
@@ -165,7 +165,7 @@ img {
 
 .date {
   font-style: italic;
-  color: #DBBC37;
+  color: #E3C61F;
 }
 
 ::-moz-selection {
@@ -236,7 +236,7 @@ img {
 .site-name {
   margin: 0;
   padding-bottom: 15px;
-  color: #DBBC37;
+  color: #D23184;
   cursor: pointer;
   font-family: "Satisfy", cursive;
   font-weight: 300;
@@ -246,7 +246,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #1167BD;
+  color: #E3C61F;
   font-size: 16px;
 }
 @media screen and (max-width: 640px) {
@@ -271,15 +271,18 @@ nav {
 }
 nav a {
   margin-left: 20px;
-  color: #DBBC37;
+  color: #E3C61F;
   text-align: right;
   font-weight: 300;
   letter-spacing: 1px;
 }
+nav a:hover, nav a:active {
+  color: #1dabc6;
+}
 @media screen and (max-width: 640px) {
   nav a {
     margin: 0 10px;
-    color: #1167BD;
+    color: #1dabc6;
   }
 }
 
@@ -301,7 +304,10 @@ nav a {
   font-size: 22px;
   font-style: italic;
 }
-.post .post h1 a {
+.post h1 {
+  color: #E3C61F;
+}
+.post a {
   padding-top: 10px;
 }
 .post .comments {
@@ -314,9 +320,9 @@ nav a {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: #eee;
+  border-top: 1px solid #D23184;
+  border-bottom: 1px solid #D23184;
+  background-color: #D23184;
 }
 
 footer {
@@ -326,7 +332,7 @@ footer {
 
 .entry h3 {
   font-family: "Satisfy", cursive;
-  color: #DBBC37;
+  color: #E3C61F;
 }
 
 .read-more {
@@ -334,7 +340,7 @@ footer {
 }
 
 .page h1 {
-  color: #DBBC37;
+  color: #E3C61F;
 }
 
 .highlight {

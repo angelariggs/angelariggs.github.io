@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $red;
-  color: $white;
+	background: $darkGray;
   p {
+    color: $white;
     font: 18px/1.4 $sans-serif;
   }
 }
@@ -49,7 +49,7 @@ h1 {
   font-size: 30px;
   font-family: $cursive;
   a {
-    color: $yellow;
+    color: $pink;
   }
 }
 
@@ -75,7 +75,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $green;
   }
 }
 
@@ -195,7 +195,7 @@ img {
 .site-name {
   margin: 0;
   padding-bottom: 15px;
-  color: $yellow;
+  color: $pink;
   cursor: pointer;
   font-family: $cursive;
   font-weight: 300;
@@ -205,7 +205,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $blue;
+  color: $yellow;
   font-size: 16px;
 
   @include mobile {
@@ -232,6 +232,9 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+    &:hover, &:active {
+    color: $blue;
+    }
 
     @include mobile {
       margin: 0 10px;
@@ -264,7 +267,11 @@ nav {
     font-style: italic;
   }
 
-  .post h1 a {
+  h1 {
+  color: $yellow;
+  }
+
+  a {
     padding-top: 10px;
   }
 
@@ -280,9 +287,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  border-top: 1px solid $pink;
+  border-bottom: 1px solid $pink;
+  background-color: $pink;
 }
 
 footer {
