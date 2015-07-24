@@ -65,10 +65,10 @@ html {
 }
 
 body {
-  background: #EA5E5B;
+  background: #fff;
 }
 body p {
-  color: #fff;
+  color: #222;
   font: 18px/1.4 "Carrois Gothic", sans-serif;
 }
 
@@ -97,7 +97,7 @@ h1 {
   font-family: "Satisfy", cursive;
 }
 h1 a {
-  color: #DBBC37;
+  color: #EF5B21;
 }
 
 h2 {
@@ -165,7 +165,7 @@ img {
 
 .date {
   font-style: italic;
-  color: #DBBC37;
+  color: #EF5B21;
 }
 
 ::-moz-selection {
@@ -236,7 +236,7 @@ img {
 .site-name {
   margin: 0;
   padding-bottom: 15px;
-  color: #DBBC37;
+  color: #EF5B21;
   cursor: pointer;
   font-family: "Satisfy", cursive;
   font-weight: 300;
@@ -271,7 +271,7 @@ nav {
 }
 nav a {
   margin-left: 20px;
-  color: #DBBC37;
+  color: #EF5B21;
   text-align: right;
   font-weight: 300;
   letter-spacing: 1px;
@@ -288,7 +288,6 @@ nav a:hover, nav a:active {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid #eee;
 }
 
 .posts > .post:last-child {
@@ -305,7 +304,7 @@ nav a:hover, nav a:active {
   font-style: italic;
 }
 .post h1 {
-  color: #fff;
+  color: #EF5B21;
 }
 .post a {
   padding-top: 10px;
@@ -320,9 +319,9 @@ nav a:hover, nav a:active {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #DBBC37;
-  border-bottom: 1px solid #DBBC37;
-  background-color: #DBBC37;
+  border-top: 1px solid #EF5B21;
+  border-bottom: 1px solid #EF5B21;
+  background-color: #EF5B21;
 }
 
 footer {
@@ -332,7 +331,7 @@ footer {
 
 .entry h3 {
   font-family: "Satisfy", cursive;
-  color: #DBBC37;
+  color: #EF5B21;
 }
 
 .read-more {
@@ -340,7 +339,7 @@ footer {
 }
 
 .page h1 {
-  color: #DBBC37;
+  color: #EF5B21;
 }
 
 .highlight {
