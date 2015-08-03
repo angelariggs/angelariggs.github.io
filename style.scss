@@ -9,6 +9,49 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+
+/**************/
+/* PORTFOLIO PAGE */
+/**************/
+
+#project-grid {
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  margin-top: 20px;
+}
+.color-bg {
+  background-color: $orange;
+  padding: 15px;
+  transition: all, 0.4s;
+  flex: 0 1 auto;
+}
+
+.color-bg:hover {
+  background-color: $white;
+  transition: all, 0.4s;
+  border-left: 3px solid $orange;
+  border-top: 3px solid $orange;
+  border-bottom: 3px solid $orange;
+}
+
+.clear-bg {
+  border: 3px solid $orange;
+  padding: 15px;
+  transition: all, 0.4s;
+  flex: 0 1 auto;
+}
+
+.clear-bg:hover {
+  background-color: $orange;
+  transition: all, 0.4s;
+}
+
+.project-title {
+  text-align: center;
+}
+
 /**************/
 /* BASE RULES */
 /**************/
@@ -26,8 +69,10 @@ body {
 }
 
 .container {
+  // display: flex;
+  // justify-content: center;
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 70%;
   padding: 0 10px;
   width: 100%;
 }

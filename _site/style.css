@@ -58,6 +58,48 @@ table {
 }
 
 /**************/
+/* PORTFOLIO PAGE */
+/**************/
+#project-grid {
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.color-bg {
+  background-color: #EF5B21;
+  padding: 15px;
+  transition: all, 0.4s;
+  flex: 0 1 auto;
+}
+
+.color-bg:hover {
+  background-color: #fff;
+  transition: all, 0.4s;
+  border-left: 3px solid #EF5B21;
+  border-top: 3px solid #EF5B21;
+  border-bottom: 3px solid #EF5B21;
+}
+
+.clear-bg {
+  border: 3px solid #EF5B21;
+  padding: 15px;
+  transition: all, 0.4s;
+  flex: 0 1 auto;
+}
+
+.clear-bg:hover {
+  background-color: #EF5B21;
+  transition: all, 0.4s;
+}
+
+.project-title {
+  text-align: center;
+}
+
+/**************/
 /* BASE RULES */
 /**************/
 html {
@@ -74,7 +116,7 @@ body p {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 70%;
   padding: 0 10px;
   width: 100%;
 }
