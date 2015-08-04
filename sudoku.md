@@ -12,7 +12,8 @@ permalink: /portfolio/sudoku/
 </div>
 
 <h2 class='project-sec-header'>About Sudoku Solver</h2>
-<p><i>Content coming soon.</i></p>
+<p>Sudoku Solver was a small-group project, assigned as part of Portland Code School's JavaScript Immersion coursework. This was really the first web app that we built from scratch, having to concept and create the functionality ourselves.</p>
+<p>Sudoku Solver was presented as a multi-day assignment, so it was also one of the few projects that offered the chance to refactor and refine code during class.</p>
 
 <h2 class='project-sec-header'>Technical Specs</h2>
 <p><i>Content coming soon.</i></p>
