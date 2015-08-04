@@ -13,7 +13,7 @@ When I am building with JavaScript, I do so with determination, a committment to
 
 # Hire me!
 
-Although my foundation is in full-stack JavaScript, I'd love to start my career with front-end/UX work, and find an agency that values mentorship and collaboration. I would thrive in an environment where humor is encouraged, and opportunities to build new skills is offered.  
+Although my foundation is in full-stack JavaScript, I'd love to start my career with front-end/UX work, and find an agency that values mentorship and collaboration. I would thrive in an environment where humor is encouraged, and there are opportunities to build new skills.  
 
 I'm optimistic and enthusiastic, I laugh loudly, and I will invite you to taco parties.  
 
