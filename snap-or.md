@@ -4,7 +4,7 @@ title: snapOR
 permalink: /portfolio/snap-oregon/
 ---
 
-<p><a href='http://snaporegon.herokuapp.com/'>Launch snapOR Website [Website currently in progress]</a></p>
+<p><a href='http://snaporegon.herokuapp.com/'>Launch snapOR Website [Website currently in progress]</a> or <a href='https://github.com/snap-oregon/snapOR'>view repo on GitHub.</a></p>
 
 <h2 class='project-sec-header'>About snapOR</h2>
 <p>snapOR is a site for adventurous photographers, who enjoy exploring and photographing the beauty of Oregon. Use our website to explore state parks in Oregon, and see photos that other hikers have taken there.</p>
