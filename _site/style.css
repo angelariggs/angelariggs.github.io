@@ -1,7 +1,7 @@
 /***************/
 /* MEYER RESET */
 /***************/
-@import url(http://fonts.googleapis.com/css?family=Carrois+Gothic|Satisfy|Roboto+Slab);
+@import url(http://fonts.googleapis.com/css?family=Carrois+Gothic|Satisfy|Roboto+Slab|Pompiere);
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -164,7 +164,7 @@ body p {
 }
 
 h2, h4, h5, h6 {
-  font-family: "Satisfy", cursive;
+  font-family: "Pompiere", cursive;
   font-weight: bold;
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -178,7 +178,7 @@ h2, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
-  font-family: "Satisfy", cursive;
+  font-family: "Pompiere", cursive;
 }
 h1 a {
   color: #EF5B21;
@@ -322,7 +322,7 @@ img {
   padding-bottom: 15px;
   color: #EF5B21;
   cursor: pointer;
-  font-family: "Satisfy", cursive;
+  font-family: "Pompiere", cursive;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -414,7 +414,7 @@ footer {
 }
 
 .entry h3 {
-  font-family: "Satisfy", cursive;
+  font-family: "Pompiere", cursive;
   color: #EF5B21;
 }
 
