@@ -19,6 +19,6 @@ I'm optimistic and enthusiastic, I laugh loudly, and I will invite you to taco p
 
 Also, I have a Bacon Number of 4.   
 
-### Contact me
+# Contact me
 
 Email: [riggs.ang@gmail.com](mailto:riggs.ang@gmail.com)  
