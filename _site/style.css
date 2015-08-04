@@ -60,7 +60,7 @@ table {
 /**************/
 /* PORTFOLIO PAGE */
 /**************/
-#project-grid {
+#portfolio-grid {
   display: inline-flex;
   flex-direction: row;
   flex-wrap: nowrap;
@@ -68,35 +68,69 @@ table {
   margin-top: 20px;
 }
 
-.color-bg {
+.proj-grid {
   background-color: #EF5B21;
+  border: 3px solid #EF5B21;
   padding: 15px;
   transition: all, 0.4s;
   flex: 0 1 auto;
+  width: 50%;
 }
-
-.color-bg:hover {
-  background-color: #fff;
+.proj-grid p {
+  color: white;
+}
+.proj-grid:hover {
+  background-color: white;
   transition: all, 0.4s;
   border-left: 3px solid #EF5B21;
   border-top: 3px solid #EF5B21;
   border-bottom: 3px solid #EF5B21;
 }
-
-.clear-bg {
-  border: 3px solid #EF5B21;
-  padding: 15px;
-  transition: all, 0.4s;
-  flex: 0 1 auto;
+.proj-grid:hover p {
+  color: #EF5B21;
 }
-
-.clear-bg:hover {
-  background-color: #EF5B21;
-  transition: all, 0.4s;
+.proj-grid:hover a {
+  color: #EF5B21;
+}
+.proj-grid:nth-child(even) {
+  background-color: #f27e51;
+  color: #EF5B21;
+}
+.proj-grid:nth-child(even):hover {
+  background-color: white;
+  color: #EF5B21;
 }
 
 .project-title {
   text-align: center;
+}
+.project-title a {
+  color: white;
+  font-family: "Roboto Slab", serif;
+}
+
+/**************/
+/* SNAP OREGON */
+/**************/
+.project-grid {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.photo-space {
+  margin: 20px;
+  min-width: 30%;
+}
+
+.snap-screenshot {
+  transition: all 200ms ease-in;
+}
+.snap-screenshot:hover {
+  box-shadow: 0px 0px 30px #000000;
+  transition: all 200ms ease-in;
+  transform: scale(1.2);
 }
 
 /**************/

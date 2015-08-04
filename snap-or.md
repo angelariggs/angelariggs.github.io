@@ -4,13 +4,16 @@ title: snapOR
 permalink: /portfolio/snap-oregon/
 ---
 
-<p><a href='http://snaporegon.herokuapp.com/'>Launch snapOR Website</a></p>
+<p><a href='http://snaporegon.herokuapp.com/'>Launch snapOR Website [Website currently in progress]</a></p>
 
-###snapOR Landing Page:     
-![snapOR Landing Page](/images/snapor-homepage.png "Homepage")
-  
-###Bandon State Natural Area:      
-![snapOR Landing Page](/images/bandon-state-park.png "Bandon")
-  
-###Oswald West State Park:     
-![snapOR Landing Page](/images/oswald-west.png "Oswald West")
+<div class='project-grid'>
+	<div class='photo-space'>
+		<img class='snap-screenshot' src='/images/snapor-homepage.png'>
+	</div>
+	<div class='photo-space'>
+		<img class='snap-screenshot' src='/images/bandon-state-park.png'>
+	</div>
+	<!-- <div class='photo-space'>
+		<img class='snap-screenshot' src='/images/oswald-west.png'>
+	</div> -->
+</div>
