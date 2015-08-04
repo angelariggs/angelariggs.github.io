@@ -14,42 +14,82 @@
 /* PORTFOLIO PAGE */
 /**************/
 
-#project-grid {
+#portfolio-grid {
   display: inline-flex;
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: center;
   margin-top: 20px;
 }
-.color-bg {
+
+.proj-grid {
   background-color: $orange;
-  padding: 15px;
-  transition: all, 0.4s;
-  flex: 0 1 auto;
-}
-
-.color-bg:hover {
-  background-color: $white;
-  transition: all, 0.4s;
-  border-left: 3px solid $orange;
-  border-top: 3px solid $orange;
-  border-bottom: 3px solid $orange;
-}
-
-.clear-bg {
   border: 3px solid $orange;
   padding: 15px;
   transition: all, 0.4s;
   flex: 0 1 auto;
-}
+  width: 50%;
+  p {
+    color: white;
+  }
 
-.clear-bg:hover {
-  background-color: $orange;
-  transition: all, 0.4s;
+  &:hover {
+    background-color: white;
+    transition: all, 0.4s;
+    border-left: 3px solid $orange;
+    border-top: 3px solid $orange;
+    border-bottom: 3px solid $orange;
+    p {
+      color: $orange;
+    }
+    a {
+      color: $orange;
+    }
+  }
+
+  &:nth-child(even) {
+    background-color: lighten($orange, 10%);
+    color: $orange;
+
+    &:hover {
+      background-color: white;
+      color: $orange;
+    }
+  }
 }
 
 .project-title {
   text-align: center;
+  a {
+    color: white;
+    font-family: $serif;
+  }
+}
+
+/**************/
+/* SNAP OREGON */
+/**************/
+
+.project-grid {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: space-around;
+  //margin: 0 auto;
+}
+
+.photo-space {
+  margin: 20px;
+  min-width: 30%;
+}
+
+.snap-screenshot {
+  transition: all 200ms ease-in;
+  &:hover {
+  box-shadow: 0px 0px 30px #000000;
+  transition: all 200ms ease-in;
+  transform: scale(1.2);
+  }
 }
 
 /**************/
