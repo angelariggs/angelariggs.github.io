@@ -60,44 +60,66 @@ table {
 /**************/
 /* PORTFOLIO PAGE */
 /**************/
-#portfolio-grid {
+.project-sec-header {
+  color: #EF5B21;
+}
+
+.portfolio-grid {
   display: inline-flex;
   flex-direction: row;
-  flex-wrap: nowrap;
-  justify-content: center;
+  flex-wrap: wrap;
+  justify-content: flex-start;
   margin-top: 20px;
 }
 
 .proj-grid {
-  background-color: #EF5B21;
   border: 3px solid #EF5B21;
   padding: 15px;
   transition: all, 0.4s;
   flex: 0 1 auto;
   width: 50%;
 }
-.proj-grid p {
+
+.dark-bg {
+  background-color: #EF5B21;
+  padding: 15px;
+  transition: all, 0.4s;
+  flex: 0 1 auto;
+  width: 50%;
+}
+.dark-bg p {
   color: white;
 }
-.proj-grid:hover {
+.dark-bg:hover {
   background-color: white;
   transition: all, 0.4s;
   border-left: 3px solid #EF5B21;
   border-top: 3px solid #EF5B21;
   border-bottom: 3px solid #EF5B21;
 }
-.proj-grid:hover p {
+.dark-bg:hover p {
   color: #EF5B21;
 }
-.proj-grid:hover a {
+.dark-bg:hover a {
   color: #EF5B21;
 }
-.proj-grid:nth-child(even) {
+
+.light-bg {
+  transition: all, 0.4s;
   background-color: #f27e51;
   color: #EF5B21;
 }
-.proj-grid:nth-child(even):hover {
+.light-bg p {
+  color: white;
+}
+.light-bg:hover {
   background-color: white;
+  transition: all, 0.4s;
+}
+.light-bg:hover p {
+  color: #EF5B21;
+}
+.light-bg:hover a {
   color: #EF5B21;
 }
 
@@ -136,9 +158,27 @@ table {
 /**************/
 /* SUDOKU */
 /**************/
+#sudokuDiv {
+  border-left: none;
+}
+
 #sudoku-embed {
   width: 100%;
   margin-bottom: 80px;
+  border-bottom: 3px solid gray;
+}
+
+/**************/
+/* TREEHOUSE BADGES */
+/**************/
+#treehouseDiv {
+  border-top: none;
+}
+
+#treehouse-embed {
+  width: 100%;
+  margin-bottom: 80px;
+  border-bottom: 3px solid gray;
 }
 
 /**************/
@@ -330,7 +370,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #1167BD;
+  color: #333;
   font-size: 16px;
 }
 @media screen and (max-width: 640px) {
@@ -413,9 +453,12 @@ footer {
   text-align: center;
 }
 
-.entry h3 {
+.entry:h3 {
   font-family: "Pompiere", cursive;
   color: #EF5B21;
+}
+.entry:p {
+  color: #333;
 }
 
 .read-more {

@@ -14,21 +14,61 @@
 /* PORTFOLIO PAGE */
 /**************/
 
-#portfolio-grid {
+.project-sec-header {
+  color: $orange;
+}
+
+.portfolio-grid {
   display: inline-flex;
   flex-direction: row;
-  flex-wrap: nowrap;
-  justify-content: center;
+  flex-wrap: wrap;
+  justify-content: flex-start;
   margin-top: 20px;
 }
 
 .proj-grid {
-  background-color: $orange;
+  //background-color: $orange;
   border: 3px solid $orange;
   padding: 15px;
   transition: all, 0.4s;
   flex: 0 1 auto;
   width: 50%;
+}
+
+.dark-bg {
+  background-color: $orange;
+  //border: 3px solid $orange;
+  padding: 15px;
+  transition: all, 0.4s;
+  flex: 0 1 auto;
+  width: 50%;
+  
+  p {
+    color: white;
+  }
+  
+  &:hover {
+    background-color: white;
+    transition: all, 0.4s;
+    border-left: 3px solid $orange;
+    border-top: 3px solid $orange;
+    border-bottom: 3px solid $orange;
+    
+    p {
+      color: $orange;
+    }
+    
+    a {
+      color: $orange;
+    }
+  }
+
+}
+
+.light-bg {
+  transition: all, 0.4s;
+  background-color: lighten($orange, 10%);
+  color: $orange;
   p {
     color: white;
   }
@@ -36,23 +76,10 @@
   &:hover {
     background-color: white;
     transition: all, 0.4s;
-    border-left: 3px solid $orange;
-    border-top: 3px solid $orange;
-    border-bottom: 3px solid $orange;
     p {
       color: $orange;
     }
     a {
-      color: $orange;
-    }
-  }
-
-  &:nth-child(even) {
-    background-color: lighten($orange, 10%);
-    color: $orange;
-
-    &:hover {
-      background-color: white;
       color: $orange;
     }
   }
@@ -96,11 +123,32 @@
 /* SUDOKU */
 /**************/
 
+// styling for div on Portfolio
+#sudokuDiv {
+  border-left: none;
+}
+
 #sudoku-embed {
   // display: flex;
   // flex-flow: row nowrap;
   width: 100%;
   margin-bottom: 80px;
+  border-bottom: 3px solid gray;
+}
+
+/**************/
+/* TREEHOUSE BADGES */
+/**************/
+
+// styling for div on Portfolio
+#treehouseDiv {
+  border-top: none;
+}
+
+#treehouse-embed {
+  width: 100%;
+  margin-bottom: 80px;
+  border-bottom: 3px solid gray;
 }
 
 /**************/
@@ -301,7 +349,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $blue;
+  color: $darkGray;
   font-size: 16px;
 
   @include mobile {
@@ -393,9 +441,14 @@ footer {
   text-align: center;
 }
 
-.entry h3 {
-  font-family: $cursive;
-  color: $orange;
+.entry {
+  &:h3 {
+    font-family: $cursive;
+    color: $orange;
+  }
+  &:p {
+    color: $darkGray;
+  }
 }
 
 .read-more {
