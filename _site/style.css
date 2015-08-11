@@ -58,157 +58,6 @@ table {
 }
 
 /**************/
-/* PORTFOLIO PAGE */
-/**************/
-.project-sec-header {
-  color: #FF7F50;
-}
-
-.portfolio-grid {
-  display: inline-flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-  margin-top: 20px;
-}
-@media screen and (max-width: 640px) {
-  .portfolio-grid {
-    display: flex;
-    flex-flow: column wrap;
-    width: 100%;
-  }
-}
-
-.proj-grid {
-  border: 3px solid #FF7F50;
-  padding: 15px;
-  transition: all, 0.2s;
-  flex: 0 1 auto;
-  width: 50%;
-}
-@media screen and (max-width: 640px) {
-  .proj-grid {
-    width: 100%;
-  }
-}
-
-.dark-bg {
-  background-color: #FF7F50;
-  padding: 15px;
-  transition: all, 0.2s;
-  flex: 0 1 auto;
-  width: 50%;
-}
-.dark-bg p {
-  color: white;
-}
-.dark-bg:hover {
-  background-color: white;
-  transition: all, 0.2s;
-  border-left: 3px solid #FF7F50;
-  border-top: 3px solid #FF7F50;
-  border-bottom: 3px solid #FF7F50;
-}
-.dark-bg:hover p {
-  color: #FF7F50;
-}
-.dark-bg:hover a {
-  color: #FF7F50;
-}
-@media screen and (max-width: 640px) {
-  .dark-bg {
-    display: flex;
-    flex-flow: column wrap;
-    width: 100%;
-    background-color: #ffa483;
-  }
-}
-
-.light-bg {
-  transition: all, 0.2s;
-  background-color: #ffa483;
-  color: #FF7F50;
-}
-@media screen and (max-width: 640px) {
-  .light-bg {
-    display: flex;
-    flex-flow: column wrap;
-    width: 100%;
-  }
-}
-.light-bg p {
-  color: white;
-}
-.light-bg:hover {
-  background-color: white;
-  transition: all, 0.2s;
-}
-.light-bg:hover p {
-  color: #FF7F50;
-}
-.light-bg:hover a {
-  color: #FF7F50;
-}
-
-.project-title {
-  text-align: center;
-}
-.project-title a {
-  color: white;
-  font-family: "Roboto Slab", serif;
-}
-
-/**************/
-/* SNAP OREGON */
-/**************/
-.project-grid {
-  display: flex;
-  flex-flow: row nowrap;
-  align-items: center;
-  justify-content: space-around;
-}
-
-.photo-space {
-  margin: 20px;
-  min-width: 30%;
-}
-
-.snap-screenshot {
-  transition: all 200ms ease-in;
-}
-.snap-screenshot:hover {
-  box-shadow: 0px 0px 30px #000000;
-  transition: all 200ms ease-in;
-  transform: scale(1.7);
-}
-
-/**************/
-/* SUDOKU */
-/**************/
-#sudokuDiv {
-  border-left: none;
-}
-
-#sudoku-embed {
-  width: 100%;
-  margin-bottom: 80px;
-  border-bottom: 3px solid gray;
-}
-
-/**************/
-/* TREEHOUSE BADGES */
-/**************/
-#treehouseDiv {
-  border-top: none;
-}
-
-#treehouse-embed {
-  width: 100%;
-  margin-bottom: 80px;
-  border-bottom: 3px solid gray;
-}
-
-/**************/
 /* BASE RULES */
 /**************/
 html {
@@ -216,7 +65,7 @@ html {
 }
 
 body {
-  background: #fff;
+  background: white;
 }
 body p {
   color: #333;
@@ -272,15 +121,8 @@ p {
 }
 
 a {
-  color: #1E90FF;
   text-decoration: none;
   cursor: pointer;
-}
-a:hover, a:active {
-  color: #FFD700;
-  background-color: #333;
-  padding-left: 5px;
-  padding-right: 5px;
 }
 
 ul, ol {
@@ -432,9 +274,12 @@ nav a {
   text-align: right;
   font-weight: 300;
   letter-spacing: 1px;
+  padding: 5px;
 }
 nav a:hover, nav a:active {
   color: #FFD700;
+  background-color: #333;
+  transition: all, 0.3s;
 }
 @media screen and (max-width: 640px) {
   nav a {
@@ -476,6 +321,7 @@ nav a:hover, nav a:active {
 .post .read-more {
   text-transform: uppercase;
   font-size: 15px;
+  color: #1E90FF;
 }
 
 .wrapper-footer {
@@ -498,12 +344,172 @@ footer {
   color: #333;
 }
 
+.entry p a {
+  color: #1E90FF;
+}
+.entry p a:hover, .entry p a:active {
+  color: #FFD700;
+  background-color: #333;
+  padding-top: 0;
+}
+
 .read-more {
   font-family: "Carrois Gothic", sans-serif;
 }
 
 .page h1 {
   color: #FF7F50;
+}
+
+/**************/
+/* PORTFOLIO PAGE */
+/**************/
+.project-sec-header {
+  color: #FF7F50;
+}
+
+.portfolio-grid {
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  margin-top: 20px;
+}
+@media screen and (max-width: 640px) {
+  .portfolio-grid {
+    display: flex;
+    flex-flow: column wrap;
+    width: 100%;
+  }
+}
+
+.proj-grid {
+  border: 3px solid #FF7F50;
+  padding: 15px;
+  transition: all, 0.2s;
+  flex: 0 1 auto;
+  width: 50%;
+}
+@media screen and (max-width: 640px) {
+  .proj-grid {
+    width: 100%;
+  }
+}
+
+.dark-bg {
+  background-color: #FF7F50;
+  padding: 15px;
+  transition: all, 0.2s;
+  flex: 0 1 auto;
+  width: 50%;
+}
+.dark-bg p {
+  color: white;
+}
+.dark-bg:hover {
+  background-color: white;
+  transition: all, 0.2s;
+  border-left: 3px solid #FF7F50;
+  border-top: 3px solid #FF7F50;
+  border-bottom: 3px solid #FF7F50;
+}
+.dark-bg:hover p {
+  color: #FF7F50;
+}
+.dark-bg:hover a {
+  color: #FF7F50;
+}
+@media screen and (max-width: 640px) {
+  .dark-bg {
+    display: flex;
+    flex-flow: column wrap;
+    width: 100%;
+    background-color: #ffa483;
+  }
+}
+
+.light-bg {
+  transition: all, 0.2s;
+  background-color: #ffa483;
+  color: #FF7F50;
+}
+@media screen and (max-width: 640px) {
+  .light-bg {
+    display: flex;
+    flex-flow: column wrap;
+    width: 100%;
+  }
+}
+.light-bg p {
+  color: white;
+}
+.light-bg:hover {
+  background-color: white;
+  transition: all, 0.2s;
+}
+.light-bg:hover p {
+  color: #FF7F50;
+}
+.light-bg:hover a {
+  color: #FF7F50;
+}
+
+.project-title {
+  text-align: center;
+}
+.project-title a {
+  color: white;
+  font-family: "Roboto Slab", serif;
+}
+
+/**************/
+/* SNAP OREGON */
+/**************/
+.project-grid {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.photo-space {
+  margin: 20px;
+  min-width: 30%;
+}
+
+.snap-screenshot {
+  transition: all 200ms ease-in;
+}
+.snap-screenshot:hover {
+  box-shadow: 0px 0px 30px #000000;
+  transition: all 200ms ease-in;
+  transform: scale(1.7);
+}
+
+/**************/
+/* SUDOKU */
+/**************/
+#sudokuDiv {
+  border-left: none;
+}
+
+#sudoku-embed {
+  width: 100%;
+  margin-bottom: 80px;
+  border-bottom: 3px solid gray;
+}
+
+/**************/
+/* TREEHOUSE BADGES */
+/**************/
+#treehouseDiv {
+  border-top: none;
+}
+
+#treehouse-embed {
+  width: 100%;
+  margin-bottom: 80px;
+  border-bottom: 3px solid gray;
 }
 
 .highlight {
