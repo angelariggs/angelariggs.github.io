@@ -364,10 +364,6 @@ footer {
 /**************/
 /* PORTFOLIO PAGE */
 /**************/
-.project-sec-header {
-  color: #FF7F50;
-}
-
 .portfolio-grid {
   display: inline-flex;
   flex-direction: row;
@@ -384,7 +380,6 @@ footer {
 }
 
 .proj-grid {
-  border: 3px solid #FF7F50;
   padding: 15px;
   transition: all, 0.2s;
   flex: 0 1 auto;
@@ -402,6 +397,7 @@ footer {
   transition: all, 0.2s;
   flex: 0 1 auto;
   width: 50%;
+  border: 3px #FF7F50 solid;
 }
 .dark-bg p {
   color: white;
@@ -409,9 +405,6 @@ footer {
 .dark-bg:hover {
   background-color: white;
   transition: all, 0.2s;
-  border-left: 3px solid #FF7F50;
-  border-top: 3px solid #FF7F50;
-  border-bottom: 3px solid #FF7F50;
 }
 .dark-bg:hover p {
   color: #FF7F50;
@@ -432,6 +425,7 @@ footer {
   transition: all, 0.2s;
   background-color: #ffa483;
   color: #FF7F50;
+  border: 3px #FF7F50 solid;
 }
 @media screen and (max-width: 640px) {
   .light-bg {
@@ -491,6 +485,12 @@ footer {
 /**************/
 #sudokuDiv {
   border-left: none;
+}
+@media screen and (max-width: 640px) {
+  #sudokuDiv {
+    border: 3px #FF7F50 solid;
+    border-top: none;
+  }
 }
 
 #sudoku-embed {
