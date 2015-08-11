@@ -242,6 +242,9 @@ a {
 	cursor: pointer;
   &:hover, &:active {
     color: $gold;
+    background-color: $darkGray;
+    padding-left: 5px;
+    padding-right: 5px;
   }
 }
 
