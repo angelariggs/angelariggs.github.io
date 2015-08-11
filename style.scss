@@ -24,20 +24,30 @@
   flex-wrap: wrap;
   justify-content: flex-start;
   margin-top: 20px;
+
+  @include mobile {
+    display: flex;
+    flex-flow: column wrap;
+    width: 100%;
+  }
 }
 
 .proj-grid {
   border: 3px solid $orange;
   padding: 15px;
-  transition: all, 0.4s;
+  transition: all, 0.2s;
   flex: 0 1 auto;
   width: 50%;
+
+  @include mobile {
+    width: 100%;
+  }
 }
 
 .dark-bg {
   background-color: $orange;
   padding: 15px;
-  transition: all, 0.4s;
+  transition: all, 0.2s;
   flex: 0 1 auto;
   width: 50%;
   
@@ -47,7 +57,7 @@
   
   &:hover {
     background-color: white;
-    transition: all, 0.4s;
+    transition: all, 0.2s;
     border-left: 3px solid $orange;
     border-top: 3px solid $orange;
     border-bottom: 3px solid $orange;
@@ -60,20 +70,31 @@
       color: $orange;
     }
   }
+  @include mobile {
+    display: flex;
+    flex-flow: column wrap;
+    width: 100%;
+    background-color: lighten($orange, 10%);
+  }
 
 }
 
 .light-bg {
-  transition: all, 0.4s;
+  transition: all, 0.2s;
   background-color: lighten($orange, 10%);
   color: $orange;
+  @include mobile {
+    display: flex;
+    flex-flow: column wrap;
+    width: 100%;
+  }
   p {
     color: white;
   }
 
   &:hover {
     background-color: white;
-    transition: all, 0.4s;
+    transition: all, 0.2s;
     p {
       color: $orange;
     }
@@ -160,7 +181,7 @@ html {
 body {
 	background: $white;
   p {
-    color: $darkerGray;
+    color: $darkGray;
     font: 18px/1.4 $sans-serif;
   }
 }
@@ -193,6 +214,9 @@ h1 {
   a {
     color: $orange;
   }
+  a:hover {
+    color: $pink;
+  }
 }
 
 h2 {
@@ -217,7 +241,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $gold;
   }
 }
 
@@ -296,6 +320,9 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  // position: fixed;
+  // width: 100%;
+  // height: 100px;
 }
 
 .masthead {
@@ -347,7 +374,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $darkGray;
+  color: $blue;
   font-size: 16px;
 
   @include mobile {
@@ -375,7 +402,7 @@ nav {
     font-weight: 300;
     letter-spacing: 1px;
     &:hover, &:active {
-    color: $blue;
+    color: $gold;
     }
 
     @include mobile {
@@ -397,6 +424,10 @@ nav {
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
+}
+
+.posts {
+  margin-top: 100px;
 }
 
 .post {

@@ -61,7 +61,7 @@ table {
 /* PORTFOLIO PAGE */
 /**************/
 .project-sec-header {
-  color: #EF5B21;
+  color: #FF4500;
 }
 
 .portfolio-grid {
@@ -71,19 +71,31 @@ table {
   justify-content: flex-start;
   margin-top: 20px;
 }
+@media screen and (max-width: 640px) {
+  .portfolio-grid {
+    display: flex;
+    flex-flow: column wrap;
+    width: 100%;
+  }
+}
 
 .proj-grid {
-  border: 3px solid #EF5B21;
+  border: 3px solid #FF4500;
   padding: 15px;
-  transition: all, 0.4s;
+  transition: all, 0.2s;
   flex: 0 1 auto;
   width: 50%;
 }
+@media screen and (max-width: 640px) {
+  .proj-grid {
+    width: 100%;
+  }
+}
 
 .dark-bg {
-  background-color: #EF5B21;
+  background-color: #FF4500;
   padding: 15px;
-  transition: all, 0.4s;
+  transition: all, 0.2s;
   flex: 0 1 auto;
   width: 50%;
 }
@@ -92,35 +104,50 @@ table {
 }
 .dark-bg:hover {
   background-color: white;
-  transition: all, 0.4s;
-  border-left: 3px solid #EF5B21;
-  border-top: 3px solid #EF5B21;
-  border-bottom: 3px solid #EF5B21;
+  transition: all, 0.2s;
+  border-left: 3px solid #FF4500;
+  border-top: 3px solid #FF4500;
+  border-bottom: 3px solid #FF4500;
 }
 .dark-bg:hover p {
-  color: #EF5B21;
+  color: #FF4500;
 }
 .dark-bg:hover a {
-  color: #EF5B21;
+  color: #FF4500;
+}
+@media screen and (max-width: 640px) {
+  .dark-bg {
+    display: flex;
+    flex-flow: column wrap;
+    width: 100%;
+    background-color: #ff6a33;
+  }
 }
 
 .light-bg {
-  transition: all, 0.4s;
-  background-color: #f27e51;
-  color: #EF5B21;
+  transition: all, 0.2s;
+  background-color: #ff6a33;
+  color: #FF4500;
+}
+@media screen and (max-width: 640px) {
+  .light-bg {
+    display: flex;
+    flex-flow: column wrap;
+    width: 100%;
+  }
 }
 .light-bg p {
   color: white;
 }
 .light-bg:hover {
   background-color: white;
-  transition: all, 0.4s;
+  transition: all, 0.2s;
 }
 .light-bg:hover p {
-  color: #EF5B21;
+  color: #FF4500;
 }
 .light-bg:hover a {
-  color: #EF5B21;
+  color: #FF4500;
 }
 
 .project-title {
@@ -192,7 +219,7 @@ body {
   background: #fff;
 }
 body p {
-  color: #222;
+  color: #333;
   font: 18px/1.4 "Carrois Gothic", sans-serif;
 }
 
@@ -221,7 +248,10 @@ h1 {
   font-family: "Pompiere", cursive;
 }
 h1 a {
-  color: #EF5B21;
+  color: #FF4500;
+}
+h1 a:hover {
+  color: #FF69B4;
 }
 
 h2 {
@@ -242,12 +272,12 @@ p {
 }
 
 a {
-  color: #1167BD;
+  color: #1E90FF;
   text-decoration: none;
   cursor: pointer;
 }
 a:hover, a:active {
-  color: #1167BD;
+  color: #FFD700;
 }
 
 ul, ol {
@@ -289,7 +319,7 @@ img {
 
 .date {
   font-style: italic;
-  color: #EF5B21;
+  color: #FF4500;
 }
 
 ::-moz-selection {
@@ -360,7 +390,7 @@ img {
 .site-name {
   margin: 0;
   padding-bottom: 15px;
-  color: #EF5B21;
+  color: #FF4500;
   cursor: pointer;
   font-family: "Pompiere", cursive;
   font-weight: 300;
@@ -370,7 +400,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #333;
+  color: #1E90FF;
   font-size: 16px;
 }
 @media screen and (max-width: 640px) {
@@ -395,18 +425,18 @@ nav {
 }
 nav a {
   margin-left: 20px;
-  color: #EF5B21;
+  color: #FF4500;
   text-align: right;
   font-weight: 300;
   letter-spacing: 1px;
 }
 nav a:hover, nav a:active {
-  color: #1167BD;
+  color: #FFD700;
 }
 @media screen and (max-width: 640px) {
   nav a {
     margin: 0 10px;
-    color: #1167BD;
+    color: #1E90FF;
   }
 }
 
@@ -419,6 +449,10 @@ nav a:hover, nav a:active {
   border-bottom: none;
 }
 
+.posts {
+  margin-top: 100px;
+}
+
 .post blockquote {
   margin: 1.8em .8em;
   border-left: 2px solid #666;
@@ -428,7 +462,7 @@ nav a:hover, nav a:active {
   font-style: italic;
 }
 .post h1 {
-  color: #EF5B21;
+  color: #FF4500;
 }
 .post a {
   padding-top: 10px;
@@ -443,9 +477,9 @@ nav a:hover, nav a:active {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #EF5B21;
-  border-bottom: 1px solid #EF5B21;
-  background-color: #EF5B21;
+  border-top: 1px solid #FF4500;
+  border-bottom: 1px solid #FF4500;
+  background-color: #FF4500;
 }
 
 footer {
@@ -455,7 +489,7 @@ footer {
 
 .entry:h3 {
   font-family: "Pompiere", cursive;
-  color: #EF5B21;
+  color: #FF4500;
 }
 .entry:p {
   color: #333;
@@ -466,7 +500,7 @@ footer {
 }
 
 .page h1 {
-  color: #EF5B21;
+  color: #FF4500;
 }
 
 .highlight {
