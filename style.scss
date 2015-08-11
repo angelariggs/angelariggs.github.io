@@ -347,10 +347,6 @@ footer {
 /* PORTFOLIO PAGE */
 /**************/
 
-.project-sec-header {
-  color: $coral;
-}
-
 .portfolio-grid {
   display: inline-flex;
   flex-direction: row;
@@ -366,7 +362,6 @@ footer {
 }
 
 .proj-grid {
-  border: 3px solid $coral;
   padding: 15px;
   transition: all, 0.2s;
   flex: 0 1 auto;
@@ -383,6 +378,7 @@ footer {
   transition: all, 0.2s;
   flex: 0 1 auto;
   width: 50%;
+  border: 3px $coral solid;
   
   p {
     color: white;
@@ -391,9 +387,6 @@ footer {
   &:hover {
     background-color: white;
     transition: all, 0.2s;
-    border-left: 3px solid $coral;
-    border-top: 3px solid $coral;
-    border-bottom: 3px solid $coral;
     
     p {
       color: $coral;
@@ -416,6 +409,7 @@ footer {
   transition: all, 0.2s;
   background-color: lighten($coral, 10%);
   color: $coral;
+  border: 3px $coral solid;
   @include mobile {
     display: flex;
     flex-flow: column wrap;
@@ -478,6 +472,10 @@ footer {
 // styling for div on Portfolio
 #sudokuDiv {
   border-left: none;
+  @include mobile {
+    border: 3px $coral solid;
+    border-top: none;
+  }
 }
 
 #sudoku-embed {
