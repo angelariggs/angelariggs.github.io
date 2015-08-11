@@ -61,7 +61,7 @@ table {
 /* PORTFOLIO PAGE */
 /**************/
 .project-sec-header {
-  color: #FF4500;
+  color: #FF7F50;
 }
 
 .portfolio-grid {
@@ -80,7 +80,7 @@ table {
 }
 
 .proj-grid {
-  border: 3px solid #FF4500;
+  border: 3px solid #FF7F50;
   padding: 15px;
   transition: all, 0.2s;
   flex: 0 1 auto;
@@ -93,7 +93,7 @@ table {
 }
 
 .dark-bg {
-  background-color: #FF4500;
+  background-color: #FF7F50;
   padding: 15px;
   transition: all, 0.2s;
   flex: 0 1 auto;
@@ -105,29 +105,29 @@ table {
 .dark-bg:hover {
   background-color: white;
   transition: all, 0.2s;
-  border-left: 3px solid #FF4500;
-  border-top: 3px solid #FF4500;
-  border-bottom: 3px solid #FF4500;
+  border-left: 3px solid #FF7F50;
+  border-top: 3px solid #FF7F50;
+  border-bottom: 3px solid #FF7F50;
 }
 .dark-bg:hover p {
-  color: #FF4500;
+  color: #FF7F50;
 }
 .dark-bg:hover a {
-  color: #FF4500;
+  color: #FF7F50;
 }
 @media screen and (max-width: 640px) {
   .dark-bg {
     display: flex;
     flex-flow: column wrap;
     width: 100%;
-    background-color: #ff6a33;
+    background-color: #ffa483;
   }
 }
 
 .light-bg {
   transition: all, 0.2s;
-  background-color: #ff6a33;
-  color: #FF4500;
+  background-color: #ffa483;
+  color: #FF7F50;
 }
 @media screen and (max-width: 640px) {
   .light-bg {
@@ -144,10 +144,10 @@ table {
   transition: all, 0.2s;
 }
 .light-bg:hover p {
-  color: #FF4500;
+  color: #FF7F50;
 }
 .light-bg:hover a {
-  color: #FF4500;
+  color: #FF7F50;
 }
 
 .project-title {
@@ -248,7 +248,7 @@ h1 {
   font-family: "Pompiere", cursive;
 }
 h1 a {
-  color: #FF4500;
+  color: #FF7F50;
 }
 h1 a:hover {
   color: #FF69B4;
@@ -278,6 +278,9 @@ a {
 }
 a:hover, a:active {
   color: #FFD700;
+  background-color: #333;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 ul, ol {
@@ -319,7 +322,7 @@ img {
 
 .date {
   font-style: italic;
-  color: #FF4500;
+  color: #FF7F50;
 }
 
 ::-moz-selection {
@@ -390,7 +393,7 @@ img {
 .site-name {
   margin: 0;
   padding-bottom: 15px;
-  color: #FF4500;
+  color: #FF7F50;
   cursor: pointer;
   font-family: "Pompiere", cursive;
   font-weight: 300;
@@ -425,7 +428,7 @@ nav {
 }
 nav a {
   margin-left: 20px;
-  color: #FF4500;
+  color: #FF7F50;
   text-align: right;
   font-weight: 300;
   letter-spacing: 1px;
@@ -462,7 +465,7 @@ nav a:hover, nav a:active {
   font-style: italic;
 }
 .post h1 {
-  color: #FF4500;
+  color: #FF7F50;
 }
 .post a {
   padding-top: 10px;
@@ -477,9 +480,9 @@ nav a:hover, nav a:active {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #FF4500;
-  border-bottom: 1px solid #FF4500;
-  background-color: #FF4500;
+  border-top: 1px solid #FF7F50;
+  border-bottom: 1px solid #FF7F50;
+  background-color: #FF7F50;
 }
 
 footer {
@@ -489,7 +492,7 @@ footer {
 
 .entry:h3 {
   font-family: "Pompiere", cursive;
-  color: #FF4500;
+  color: #FF7F50;
 }
 .entry:p {
   color: #333;
@@ -500,7 +503,7 @@ footer {
 }
 
 .page h1 {
-  color: #FF4500;
+  color: #FF7F50;
 }
 
 .highlight {
