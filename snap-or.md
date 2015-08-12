@@ -4,11 +4,11 @@ title: snapOR
 permalink: /portfolio/snap-oregon/
 ---
 
-<p><a href='http://snaporegon.herokuapp.com/'>Launch snapOR Website [Website currently in progress]</a> or <a href='https://github.com/snap-oregon/snapOR'>view repo on GitHub.</a></p>
+<p><a href='http://snaporegon.herokuapp.com/' target='blank'>Launch snapOR website</a> or <a href='https://github.com/snap-oregon/snapOR' target='blank'>view repo on GitHub.</a></p>
 
 <h2 class='project-sec-header'>About snapOR</h2>
 <p>snapOR is a site for adventurous photographers, who enjoy exploring and photographing the beauty of Oregon. Use our website to explore state parks in Oregon, and see photos that other hikers have taken there.</p>
-<p>Along with two teammates, I built this website as my capstone project for Portland Code School's <a href='http://www.portlandcodeschool.com/javascriptimmersion/'>Full-Stack JavaScript Immersion</a> course. From July 1-31, we built our website from the ground up, starting with wireframes and ending with a fully-functional website.</p>
+<p>Along with two teammates, I built this website as my capstone project for Portland Code School's <a href='http://www.portlandcodeschool.com/javascriptimmersion/' target='blank'>Full-Stack JavaScript Immersion</a> course. From July 1-31, we built our website from the ground up, starting with wireframes and ending with a fully-functional website.</p>
 
 <h2 class='project-sec-header'>Technical Specs</h2>
 <p>snapOR is built with a combination of Foundation & Backbone for the front-end; JavaScript, Express, AJAX, and Node for back-end; and APIs from Google Maps, Oregon State Parks, and Flickr. We used GitHub for version control, and transitioned between Trello and ZenHub for tasks and tickets.</p>

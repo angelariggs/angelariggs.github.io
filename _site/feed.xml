@@ -3,8 +3,8 @@
   <channel>
     <title>Angela Wilson Riggs</title>
     <description>JavaScript Developer</description>
-    <link></link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://angelariggs.github.io</link>
+    <atom:link href="http://angelariggs.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Final Countdown</title>
@@ -19,8 +19,8 @@
 &lt;p&gt;On that note, it&amp;#39;s time to dive back into the wild world of Backbone - wish me luck! (And if you have any resources that helped you learn Backbone, please send it my way! You can tweet me at &lt;a href=&quot;https://twitter.com/angelariggs_&quot;&gt;@angelariggs_&lt;/a&gt;).&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Jul 2015 00:00:00 -0700</pubDate>
-        <link>/final-countdown/</link>
-        <guid isPermaLink="true">/final-countdown/</guid>
+        <link>http://angelariggs.github.io/final-countdown/</link>
+        <guid isPermaLink="true">http://angelariggs.github.io/final-countdown/</guid>
       </item>
     
       <item>
@@ -70,8 +70,8 @@
 &lt;p&gt;&lt;em&gt;This article was originally published on &lt;a href=&quot;http://mathys-potestio.com/a-developer-tweets-to-build-community-and-understanding/&quot;&gt;Mathys + Potestio&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 26 Jun 2015 00:00:00 -0700</pubDate>
-        <link>/tweet-article/</link>
-        <guid isPermaLink="true">/tweet-article/</guid>
+        <link>http://angelariggs.github.io/tweet-article/</link>
+        <guid isPermaLink="true">http://angelariggs.github.io/tweet-article/</guid>
       </item>
     
       <item>
@@ -82,8 +82,8 @@
 &lt;iframe src=&quot;//storify.com/angelariggs/coder-s-got-jokes/embed?header=false&quot; width=&quot;50%&quot; height=&quot;750&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 Jun 2015 00:00:00 -0700</pubDate>
-        <link>/jokes/</link>
-        <guid isPermaLink="true">/jokes/</guid>
+        <link>http://angelariggs.github.io/jokes/</link>
+        <guid isPermaLink="true">http://angelariggs.github.io/jokes/</guid>
       </item>
     
       <item>
@@ -99,8 +99,8 @@
 &lt;p&gt;I&amp;#39;m finding that, at its best, coding is exciting, creative, collaborative, and fun. And when coding is at its best, it&amp;#39;s also challenging, scary, and stubborn. It&amp;#39;s all a part of the whole, and I&amp;#39;m really excited to be a part of it!&lt;/p&gt;
 </description>
         <pubDate>Sat, 30 May 2015 00:00:00 -0700</pubDate>
-        <link>/welcome/</link>
-        <guid isPermaLink="true">/welcome/</guid>
+        <link>http://angelariggs.github.io/welcome/</link>
+        <guid isPermaLink="true">http://angelariggs.github.io/welcome/</guid>
       </item>
     
   </channel>
