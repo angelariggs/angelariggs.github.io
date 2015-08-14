@@ -357,6 +357,7 @@ footer {
   flex-wrap: wrap;
   justify-content: flex-start;
   margin-top: 20px;
+  width: 100%;
 
   @include mobile {
     display: flex;
@@ -366,7 +367,7 @@ footer {
 }
 
 .proj-grid {
-  padding: 15px;
+  padding: 2.5em;
   transition: all, 0.2s;
   flex: 0 1 auto;
   width: 50%;
@@ -378,7 +379,6 @@ footer {
 
 .dark-bg {
   background-color: $coral;
-  padding: 15px;
   transition: all, 0.2s;
   flex: 0 1 auto;
   width: 50%;
