@@ -2,7 +2,6 @@
 layout: post
 title:  "Welcome!"
 date:   2015-05-30
-tags: portland code school
 ---
 
 Hello, interwebs! I'm Angela - it's nice to meet you!
