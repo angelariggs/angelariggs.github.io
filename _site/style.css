@@ -123,6 +123,13 @@ p {
 a {
   text-decoration: none;
   cursor: pointer;
+  color: #1E90FF;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+a:hover, a:active {
+  color: #FFD700;
+  background-color: #333;
 }
 
 ul, ol {
@@ -130,8 +137,13 @@ ul, ol {
   padding-left: 30px;
 }
 
-ul {
-  list-style-type: disc;
+ul li {
+  text-decoration: none;
+  margin: 6px;
+}
+ul li a {
+  font-family: "Carrois Gothic", sans-serif;
+  font-size: 18px;
 }
 
 ol {
@@ -140,10 +152,6 @@ ol {
 
 ol ul, ul ol, ul ul, ol ol {
   margin: 0;
-}
-
-ul ul, ol ul {
-  list-style-type: circle;
 }
 
 em, i {
