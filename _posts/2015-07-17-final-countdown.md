@@ -2,6 +2,7 @@
 layout: post
 title:  "Final Countdown"
 date:   2015-07-17
+comments: true
 ---
 
 As I write this, I'm entering into the second week of capstone projects at Portland Code School. The lectures are done, although the learning continues, as we use our knowledge of full-stack JavaScript to build our own web apps!
