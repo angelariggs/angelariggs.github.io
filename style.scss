@@ -13,6 +13,10 @@
 /* BASE RULES */
 /**************/
 
+#disqus_thread {
+  font-family: $sans-serif;
+}
+
 html {
   font-size: 100%;
 }
@@ -305,6 +309,7 @@ nav {
 
   .comments {
     margin-top: 10px;
+    font-family: $serif;
   }
 
   .read-more {
