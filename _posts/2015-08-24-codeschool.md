@@ -2,6 +2,7 @@
 layout: post
 title:  Starting Down the Dev Path
 date:   2015-08-24
+comments: true
 ---
 
 Developer bootcamps are popping up all over the U.S., and Portland is no exception. We have no less than five code schools, including one focused on online courses. With so many options and opportunities, how do you know what’s right for you? And when it comes to committing your time and money, how do you make sure that you take a viable path?

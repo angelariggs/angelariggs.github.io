@@ -60,6 +60,10 @@ table {
 /**************/
 /* BASE RULES */
 /**************/
+#disqus_thread {
+  font-family: "Carrois Gothic", sans-serif;
+}
+
 html {
   font-size: 100%;
 }
@@ -325,6 +329,7 @@ nav a:hover, nav a:active {
 }
 .post .comments {
   margin-top: 10px;
+  font-family: "Roboto Slab", serif;
 }
 .post .read-more {
   text-transform: uppercase;
