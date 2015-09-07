@@ -5,7 +5,7 @@ permalink: /portfolio/
 ---
 
 <div class='portfolio-grid'>
-	<div class='proj-grid dark-bg' id='portfolio-snap'>
+	<div class='proj-grid light-bg' id='portfolio-snap'>
 		<h2 class='project-title'><a href='/portfolio/snap-oregon'>snapOR</a></h2>
 		<!-- <p>For adventurous photographers and hiking enthusiasts who want to capture Oregon's gorgeous scenery, snapOR allows users to look through Oregon State Parks and see the photos that other hikers have taken there.</p> -->
 	</div>
