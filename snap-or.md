@@ -2,6 +2,7 @@
 layout: page
 title: snapOR
 permalink: /portfolio/snap-oregon/
+comments: true
 ---
 
 <p><a href='http://snaporegon.herokuapp.com/' target='blank'>Launch snapOR website</a> or <a href='https://github.com/snap-oregon/snapOR' target='blank'>view repo on GitHub.</a></p>
@@ -14,7 +15,7 @@ permalink: /portfolio/snap-oregon/
 <p>snapOR is built with a combination of Foundation & Backbone for the front-end; JavaScript, Express, AJAX, and Node for back-end; and APIs from Google Maps, Oregon State Parks, and Flickr. We used GitHub for version control, and transitioned between Trello and ZenHub for tasks and tickets.</p>
 
 <h2 class='project-sec-header'>Responsibilities</h2>
-<p>I knew that I wanted to use my final project to build up my skills across the stack. With this in mind, I took responsibility for the Oregon State Parks API integration, Backbone for account interaction (registering, logging in/out, updating account information), Express server, and Sass. I also came up with the original concept of snapOR, and created wireframes for the group.</p>
+<p>I knew that I wanted to use my final project to build up my skills across the stack. With this in mind, I took responsibility for the Oregon State Parks API integration, Backbone for account interaction (registering, logging in/out, updating account information), the Express server, and Sass. I also came up with the initial concept of snapOR, and created wireframes for the group.</p>
 
 <div class='project-grid'>
 	<div class='photo-space'>

@@ -2,6 +2,7 @@
 layout: page
 title: Sudoku Solver
 permalink: /portfolio/sudoku/
+comments: true
 ---
   
 <p><a href='http://codepen.io/angelariggs/full/JdpqGW/' target='blank'>Launch Sudoku on CodePen</a></p>
@@ -16,7 +17,9 @@ permalink: /portfolio/sudoku/
 <p>Sudoku Solver was presented as a multi-day assignment, so it was also one of the few projects that offered the chance to refactor and refine code during class.</p>
 
 <h2 class='project-sec-header'>Technical Specs</h2>
-<p><i>Content coming soon.</i></p>
+<p>Our initial version of the Sudoku Solver was display-only, rather than interactive. We figured out the mathematic formula that we needed in order to display the grid layout, as well as the placement of the numbers and spaces. Once we figured out the formula, the biggest challenge was reconciling an 81-number grid with a zero-index system! INCLUDE JUNE16 SUDOKU FILE</p>
+<p>Our goal for the second iteration was to build a functional Sudoku grid. We used constructors to create the squares, rows, columns, & blocks. It may seem redundant to define functions for both rows and columns - after all, creating one results in the other. But solving a Sudoku puzzle requires knowing all numbers in an individual square's row, its column, and its 3x3 block.</p>
+<p>Our knowledge of <i>this</i> came into play for creating this functional grid. FILL IN LATER. INCLUDE JUNE18 SUDOKU FILE</p>
 
 <h2 class='project-sec-header'>Responsibilities</h2>
-<p><i>Content coming soon.</i></p>
+<p>The Sudoku Solver was completed as a pair programming project, with myself and <a href='http://linkedin.com'>Morgan</a>. </p>

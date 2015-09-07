@@ -2,6 +2,7 @@
 layout: page
 title: Treehouse Badges
 permalink: /portfolio/treehouse/
+comments: true
 ---
   
 <p>Launch Treehouse Badges on <a href='http://codepen.io/angelariggs/full/gpGgNj/' target='blank'>CodePen</a> or view repo on <a href='https://github.com/angelariggs/treehouse-badges' target='blank'>GitHub</a></p>
@@ -18,4 +19,4 @@ permalink: /portfolio/treehouse/
 <p><i>Content coming soon.</i></p>
 
 <h2 class='project-sec-header'>Responsibilities</h2>
-<p><i>Content coming soon.</i></p>
+<p>The Treehouse Badge project was completed as an individual exercise for practicing with JSON files.</p>
