@@ -7,6 +7,10 @@
 
 @import "reset";
 @import "variables";
+@import "portfolio";
+@import "snapor";
+@import "sudoku";
+@import "treehouse";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -347,7 +351,7 @@ footer {
 }
 
 .entry p a {
-  color: $darkGray;
+  color: $coral;
   &:hover, &:active {
     color: $white;
     background-color: $darkGray;
@@ -361,164 +365,6 @@ footer {
 
 .page h1 {
   color: $darkGray;
-}
-
-/**************/
-/* PORTFOLIO PAGE */
-/**************/
-
-.portfolio-grid {
-  display: inline-flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-  margin-top: 20px;
-  width: 100%;
-
-  @include mobile {
-    display: flex;
-    flex-flow: column wrap;
-    width: 100%;
-  }
-}
-
-.proj-grid {
-  padding: 2.5em;
-  transition: all, 0.2s;
-  flex: 0 1 auto;
-  width: 50%;
-
-  @include mobile {
-    width: 100%;
-  }
-}
-
-// .dark-bg {
-//   background-color: $darkGray;
-//   transition: all, 0.2s;
-//   flex: 0 1 auto;
-//   width: 50%;
-//   border: 3px $darkGray solid;
-  
-//   p {
-//     color: white;
-//   }
-  
-//   &:hover {
-//     background-color: white;
-//     transition: all, 0.2s;
-    
-//     p {
-//       color: $white;
-//     }
-    
-//     a {
-//       color: $white;
-//     }
-//   }
-//   @include mobile {
-//     display: flex;
-//     flex-flow: column wrap;
-//     width: 100%;
-//     background-color: lighten($darkGray, 10%);
-//   }
-
-// }
-
-.light-bg {
-  transition: all, 0.2s;
-  background-color: lighten($darkGray, 10%);
-  color: $darkGray;
-  //border: 3px $darkGray solid;
-  @include mobile {
-    display: flex;
-    flex-flow: column wrap;
-    width: 100%;
-  }
-  p {
-    color: white;
-  }
-
-  &:hover {
-    background-color: white;
-    transition: all, 0.2s;
-    p {
-      color: $coral;
-    }
-    a {
-      color: $coral;
-    }
-  }
-}
-
-.project-title {
-  text-align: center;
-  a {
-    color: white;
-    font-family: $serif;
-  }
-}
-
-/**************/
-/* SNAP OREGON */
-/**************/
-
-.project-grid {
-  display: flex;
-  flex-flow: row nowrap;
-  align-items: center;
-  justify-content: space-around;
-  //margin: 0 auto;
-}
-
-.photo-space {
-  margin: 20px;
-  min-width: 30%;
-}
-
-.snap-screenshot {
-  transition: all 200ms ease-in;
-  &:hover {
-  box-shadow: 0px 0px 30px #000000;
-  transition: all 200ms ease-in;
-  transform: scale(1.7);
-  }
-}
-
-/**************/
-/* SUDOKU */
-/**************/
-
-// styling for div on Portfolio
-#sudokuDiv {
-  border-left: none;
-  @include mobile {
-    border: 3px $darkGray solid;
-    border-top: none;
-  }
-}
-
-#sudoku-embed {
-  // display: flex;
-  // flex-flow: row nowrap;
-  width: 100%;
-  margin-bottom: 80px;
-  border-bottom: 3px solid gray;
-}
-
-/**************/
-/* TREEHOUSE BADGES */
-/**************/
-
-// styling for div on Portfolio
-#treehouseDiv {
-  border-top: none;
-}
-
-#treehouse-embed {
-  width: 100%;
-  margin-bottom: 80px;
-  border-bottom: 3px solid gray;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

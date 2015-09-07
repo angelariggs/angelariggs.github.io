@@ -58,6 +58,102 @@ table {
 }
 
 /**************/
+/* PORTFOLIO PAGE */
+/**************/
+.portfolio-grid {
+  display: inline-flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  margin-top: 20px;
+  width: 100%;
+}
+@media screen and (max-width: 640px) {
+  .portfolio-grid {
+    display: flex;
+    flex-flow: column wrap;
+    width: 100%;
+  }
+}
+
+.project {
+  padding: 2.5em;
+  transition: all, 0.2s;
+  flex: 0 1 auto;
+  width: 50%;
+  color: darkGray;
+}
+@media screen and (max-width: 640px) {
+  .project {
+    width: 100%;
+  }
+}
+
+.project-title {
+  text-align: center;
+}
+.project-title a {
+  color: darkGray;
+  font-family: "Roboto Slab", serif;
+}
+
+/**************/
+/* SNAP OREGON */
+/**************/
+.project-grid {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.photo-space {
+  margin: 20px;
+  min-width: 30%;
+}
+
+.snap-screenshot {
+  transition: all 200ms ease-in;
+}
+.snap-screenshot:hover {
+  box-shadow: 0px 0px 30px #000000;
+  transition: all 200ms ease-in;
+  transform: scale(1.7);
+}
+
+/**************/
+/* SUDOKU */
+/**************/
+#sudokuDiv {
+  border-left: none;
+}
+@media screen and (max-width: 640px) {
+  #sudokuDiv {
+    border: 3px #333 solid;
+    border-top: none;
+  }
+}
+
+#sudoku-embed {
+  width: 100%;
+  margin-bottom: 80px;
+  border-bottom: 3px solid gray;
+}
+
+/**************/
+/* TREEHOUSE BADGES */
+/**************/
+#treehouseDiv {
+  border-top: none;
+}
+
+#treehouse-embed {
+  width: 100%;
+  margin-bottom: 80px;
+  border-bottom: 3px solid gray;
+}
+
+/**************/
 /* BASE RULES */
 /**************/
 #disqus_thread {
@@ -357,7 +453,7 @@ footer {
 }
 
 .entry p a {
-  color: #333;
+  color: #FF7F50;
 }
 .entry p a:hover, .entry p a:active {
   color: #fff;
@@ -371,127 +467,6 @@ footer {
 
 .page h1 {
   color: #333;
-}
-
-/**************/
-/* PORTFOLIO PAGE */
-/**************/
-.portfolio-grid {
-  display: inline-flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-  margin-top: 20px;
-  width: 100%;
-}
-@media screen and (max-width: 640px) {
-  .portfolio-grid {
-    display: flex;
-    flex-flow: column wrap;
-    width: 100%;
-  }
-}
-
-.proj-grid {
-  padding: 2.5em;
-  transition: all, 0.2s;
-  flex: 0 1 auto;
-  width: 50%;
-}
-@media screen and (max-width: 640px) {
-  .proj-grid {
-    width: 100%;
-  }
-}
-
-.light-bg {
-  transition: all, 0.2s;
-  background-color: #4d4d4d;
-  color: #333;
-}
-@media screen and (max-width: 640px) {
-  .light-bg {
-    display: flex;
-    flex-flow: column wrap;
-    width: 100%;
-  }
-}
-.light-bg p {
-  color: white;
-}
-.light-bg:hover {
-  background-color: white;
-  transition: all, 0.2s;
-}
-.light-bg:hover p {
-  color: #FF7F50;
-}
-.light-bg:hover a {
-  color: #FF7F50;
-}
-
-.project-title {
-  text-align: center;
-}
-.project-title a {
-  color: white;
-  font-family: "Roboto Slab", serif;
-}
-
-/**************/
-/* SNAP OREGON */
-/**************/
-.project-grid {
-  display: flex;
-  flex-flow: row nowrap;
-  align-items: center;
-  justify-content: space-around;
-}
-
-.photo-space {
-  margin: 20px;
-  min-width: 30%;
-}
-
-.snap-screenshot {
-  transition: all 200ms ease-in;
-}
-.snap-screenshot:hover {
-  box-shadow: 0px 0px 30px #000000;
-  transition: all 200ms ease-in;
-  transform: scale(1.7);
-}
-
-/**************/
-/* SUDOKU */
-/**************/
-#sudokuDiv {
-  border-left: none;
-}
-@media screen and (max-width: 640px) {
-  #sudokuDiv {
-    border: 3px #333 solid;
-    border-top: none;
-  }
-}
-
-#sudoku-embed {
-  width: 100%;
-  margin-bottom: 80px;
-  border-bottom: 3px solid gray;
-}
-
-/**************/
-/* TREEHOUSE BADGES */
-/**************/
-#treehouseDiv {
-  border-top: none;
-}
-
-#treehouse-embed {
-  width: 100%;
-  margin-bottom: 80px;
-  border-bottom: 3px solid gray;
 }
 
 .highlight {
