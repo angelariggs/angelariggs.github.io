@@ -22,4 +22,4 @@ comments: true
 <p>Our knowledge of <i>this</i> came into play for creating this functional grid. FILL IN LATER. INCLUDE JUNE18 SUDOKU FILE</p>
 
 <h2 class='project-sec-header'>Responsibilities</h2>
-<p>The Sudoku Solver was completed as a pair programming project, with myself and <a href='http://linkedin.com'>Morgan</a>. </p>
+<p>The Sudoku Solver was completed as a pair programming project, with myself and <a href='https://www.linkedin.com/pub/morgan-leonard/4/b78/823'>Morgan</a>. </p>
