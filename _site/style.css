@@ -61,8 +61,8 @@ table {
 /* PORTFOLIO PAGE */
 /**************/
 .portfolio-grid {
-  display: inline-flex;
-  flex-direction: column;
+  display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
   justify-content: flex-start;
   margin-top: 20px;
@@ -80,7 +80,7 @@ table {
   padding: 2.5em;
   transition: all, 0.2s;
   flex: 0 1 auto;
-  width: 50%;
+  width: 40%;
   color: darkGray;
 }
 @media screen and (max-width: 640px) {
@@ -93,8 +93,20 @@ table {
   text-align: center;
 }
 .project-title a {
-  color: darkGray;
+  color: darkerGray;
   font-family: "Roboto Slab", serif;
+}
+
+#snapDiv {
+  background-color: pink;
+}
+
+#sudokuDiv {
+  background-color: green;
+}
+
+#treehouseDiv {
+  background-color: orange;
 }
 
 /**************/
