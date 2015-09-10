@@ -19,6 +19,10 @@
   opacity: 0.4;
 }
 
+h1 #hero-title {
+  color: #fff;
+}
+
 #hero-title {
   font-family: $serif;
   font-size: 5em;
@@ -36,10 +40,10 @@
 #quotes {
   background-color: $coral;
   padding: 4em 0;
-  p {
-    color: #fff;
-    text-align: center;
-  }
+  font-family: $sans-serif;
+  font-size: 1.6em;
+  color: #fff;
+  text-align: center;
 }
 
 #work-example {

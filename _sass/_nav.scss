@@ -4,15 +4,17 @@
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  //margin-bottom: 50px;
   // position: fixed;
   // width: 100%;
   // z-index: 1;
+  // top: 0;
   background-color: #fff;
 }
 
 .masthead {
   padding-top: 1.5em;
+  //margin-bottom: 100px;
   //border-bottom: 1px solid $lightGray;
 
   @include mobile {

@@ -58,7 +58,6 @@ table {
 }
 
 .wrapper-masthead {
-  margin-bottom: 50px;
   background-color: #fff;
 }
 
@@ -157,6 +156,10 @@ nav a:hover, nav a:active {
   opacity: 0.4;
 }
 
+h1 #hero-title {
+  color: #fff;
+}
+
 #hero-title {
   font-family: "Roboto Slab", serif;
   font-size: 5em;
@@ -174,8 +177,8 @@ nav a:hover, nav a:active {
 #quotes {
   background-color: #FF7F50;
   padding: 4em 0;
-}
-#quotes p {
+  font-family: "Carrois Gothic", sans-serif;
+  font-size: 1.6em;
   color: #fff;
   text-align: center;
 }
@@ -348,9 +351,6 @@ h1 {
 h1 a {
   color: #333;
 }
-h1:hover, h1:active {
-  color: #FF7F50;
-}
 
 h2 {
   font-size: 24px;
@@ -470,7 +470,7 @@ img {
   font-style: italic;
 }
 .post h1 {
-  color: #333;
+  color: #222;
 }
 .post a {
   padding-top: 10px;
@@ -518,7 +518,7 @@ footer {
 }
 
 .page h1 {
-  color: #333;
+  color: #222;
   padding-left: 1.6em;
 }
 

@@ -71,10 +71,10 @@ h1 {
   a {
     color: $darkGray;
   }
-  &:hover, &:active {
-    color: $coral;
-    //background-color: $darkGray;
-  }
+    // &:hover, &:active {
+    //   color: $coral;
+    //   //background-color: $darkGray;
+    // }
 }
 
 h2 {
@@ -214,7 +214,7 @@ img {
   }
 
   h1 {
-  color: $darkGray;
+  color: $darkerGray;
   }
 
   a {
@@ -273,7 +273,7 @@ footer {
 }
 
 .page h1 {
-  color: $darkGray;
+  color: $darkerGray;
   padding-left: 1.6em;
 }
 
