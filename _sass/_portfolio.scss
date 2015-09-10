@@ -23,7 +23,8 @@
   margin: 5%;
   //transition: all, 0.2s;
   flex: 0 1 auto;
-  width: 40%;
+  width: 30%;
+  height: 200px;
   color: darkGray;
 
   @include mobile {
@@ -38,7 +39,9 @@
 .project-title {
   text-align: center;
   a {
-    color: darkerGray;
+    color: black;
+    background-color: white;
+    padding: 5%;
     font-family: $serif;
   }
 }
