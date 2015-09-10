@@ -168,6 +168,41 @@ table {
 /**************/
 /* BASE RULES */
 /**************/
+#hero-img {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  background-image: url("images/ecola-state-park.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.4;
+}
+
+#hero-title {
+  font-family: "Roboto Slab", serif;
+  font-size: 5em;
+  text-align: center;
+  color: #222;
+  padding-top: 2em;
+}
+
+#hero-subtitle {
+  font-family: "Carrois Gothic", sans-serif;
+  font-size: 3em;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#quotes {
+  background-color: #FF7F50;
+  padding: 4em 0;
+}
+#quotes p {
+  color: #fff;
+  text-align: center;
+}
+
 #disqus_thread {
   font-family: "Carrois Gothic", sans-serif;
 }
@@ -185,9 +220,7 @@ body p {
 }
 
 .container {
-  margin: 0 auto;
-  max-width: 70%;
-  padding: 0 10px;
+  justify-content: center;
   width: 100%;
 }
 
@@ -343,6 +376,7 @@ img {
 
 .site-info {
   float: left;
+  margin: 0 3em;
 }
 @media screen and (max-width: 640px) {
   .site-info {
@@ -377,6 +411,7 @@ img {
 nav {
   float: right;
   margin-top: 23px;
+  margin-right: 3em;
   font-family: "Roboto Slab", serif;
   font-size: 18px;
 }

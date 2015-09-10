@@ -2,17 +2,12 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<div id="hero-img">
+	<h1 id="hero-title">Angela Riggs</h1>
+	<h2 id="hero-subtitle">JavaScript Developer</h2>
+</div>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+<div id="quotes">
+	<p>Something witty will go here.</p>
+	<p>This will be extremely profound.</p>
 </div>
