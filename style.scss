@@ -17,6 +17,14 @@
 /* BASE RULES */
 /**************/
 
+.disqus {
+  padding: 2em 3em;
+}
+
+.add-pad {
+  padding: 0 3em;
+}
+
 #hero-img {
   position: relative;
   width: 100%;
@@ -120,7 +128,6 @@ p {
 }
 
 a {
-//   color: $blue;
   text-decoration: none;
   cursor: pointer;
   color: $darkGray;
@@ -180,6 +187,7 @@ img {
 }
 
 .date {
+  font-family: $sans-serif;
   font-style: italic;
   color: $darkGray;
 }
@@ -402,6 +410,7 @@ footer {
 
 .page h1 {
   color: $darkGray;
+  padding-left: 1.6em;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
