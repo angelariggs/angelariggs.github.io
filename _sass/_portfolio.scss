@@ -3,8 +3,8 @@
 /**************/
 
 .portfolio-grid {
-  display: inline-flex;
-  flex-direction: column;
+  display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
   justify-content: flex-start;
   margin-top: 20px;
@@ -21,7 +21,7 @@
   padding: 2.5em;
   transition: all, 0.2s;
   flex: 0 1 auto;
-  width: 50%;
+  width: 40%;
   color: darkGray;
 
   @include mobile {
@@ -29,68 +29,22 @@
   }
 }
 
-// .dark-bg {
-//   background-color: $darkGray;
-//   transition: all, 0.2s;
-//   flex: 0 1 auto;
-//   width: 50%;
-//   border: 3px $darkGray solid;
-  
-//   p {
-//     color: white;
-//   }
-  
-//   &:hover {
-//     background-color: white;
-//     transition: all, 0.2s;
-    
-//     p {
-//       color: $white;
-//     }
-    
-//     a {
-//       color: $white;
-//     }
-//   }
-//   @include mobile {
-//     display: flex;
-//     flex-flow: column wrap;
-//     width: 100%;
-//     background-color: lighten($darkGray, 10%);
-//   }
-
-// }
-
-// .light-bg {
-//   transition: all, 0.2s;
-//   background-color: lighten($darkGray, 10%);
-//   color: $darkGray;
-//   //border: 3px $darkGray solid;
-//   @include mobile {
-//     display: flex;
-//     flex-flow: column wrap;
-//     width: 100%;
-//   }
-//   p {
-//     color: white;
-//   }
-
-//   &:hover {
-//     background-color: white;
-//     transition: all, 0.2s;
-//     p {
-//       color: $coral;
-//     }
-//     a {
-//       color: $coral;
-//     }
-//   }
-// }
-
 .project-title {
   text-align: center;
   a {
-    color: darkGray;
+    color: darkerGray;
     font-family: $serif;
   }
+}
+
+#snapDiv {
+  background-color: pink;
+}
+
+#sudokuDiv {
+  background-color: green;
+}
+
+#treehouseDiv {
+  background-color: orange;
 }

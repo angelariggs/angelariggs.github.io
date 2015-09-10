@@ -57,12 +57,146 @@ table {
   box-sizing: border-box;
 }
 
+.wrapper-masthead {
+  background-color: #fff;
+}
+
+.masthead {
+  padding-top: 1.5em;
+}
+@media screen and (max-width: 640px) {
+  .masthead {
+    text-align: center;
+  }
+}
+
+.site-avatar {
+  float: left;
+  width: 70px;
+  height: 70px;
+  margin-right: 15px;
+}
+@media screen and (max-width: 640px) {
+  .site-avatar {
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+}
+.site-avatar img {
+  border-radius: 5px;
+}
+
+.site-info {
+  float: left;
+  margin: 0 3em;
+  color: #222;
+}
+@media screen and (max-width: 640px) {
+  .site-info {
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+.site-name {
+  margin: 0;
+  padding-bottom: 15px;
+  cursor: pointer;
+  font-family: "Pompiere", cursive;
+  font-weight: 300;
+  font-size: 28px;
+  letter-spacing: 1px;
+}
+
+nav {
+  float: right;
+  margin-top: 23px;
+  margin-right: 3em;
+  font-family: "Roboto Slab", serif;
+  font-size: 18px;
+}
+@media screen and (max-width: 640px) {
+  nav {
+    float: none;
+    margin-top: 9px;
+    display: block;
+    font-size: 16px;
+  }
+}
+nav a {
+  margin-left: 20px;
+  color: #333;
+  text-align: right;
+  font-weight: 300;
+  letter-spacing: 1px;
+  padding: 5px;
+}
+nav a:hover, nav a:active {
+  color: #fff;
+  background-color: #333;
+  transition: all, 0.3s;
+}
+@media screen and (max-width: 640px) {
+  nav a {
+    margin: 0 10px;
+    color: #333;
+  }
+}
+
+#hero-img {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  background-image: url("images/ecola-state-park.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.4;
+}
+
+h1 #hero-title {
+  color: #fff;
+}
+
+#hero-title {
+  font-family: "Roboto Slab", serif;
+  font-size: 5em;
+  text-align: center;
+  padding-top: 2em;
+}
+
+#hero-subtitle {
+  font-family: "Carrois Gothic", sans-serif;
+  font-size: 3em;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#quotes {
+  background-color: #FF7F50;
+  padding: 4em 0;
+  font-family: "Carrois Gothic", sans-serif;
+  font-size: 1.6em;
+  color: #fff;
+  text-align: center;
+}
+
+#work-example {
+  background-color: green;
+}
+
+#latest-blog {
+  background-color: pink;
+}
+
 /**************/
 /* PORTFOLIO PAGE */
 /**************/
 .portfolio-grid {
-  display: inline-flex;
-  flex-direction: column;
+  display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
   justify-content: flex-start;
   margin-top: 20px;
@@ -80,7 +214,7 @@ table {
   padding: 2.5em;
   transition: all, 0.2s;
   flex: 0 1 auto;
-  width: 50%;
+  width: 40%;
   color: darkGray;
 }
 @media screen and (max-width: 640px) {
@@ -93,8 +227,20 @@ table {
   text-align: center;
 }
 .project-title a {
-  color: darkGray;
+  color: darkerGray;
   font-family: "Roboto Slab", serif;
+}
+
+#snapDiv {
+  background-color: pink;
+}
+
+#sudokuDiv {
+  background-color: green;
+}
+
+#treehouseDiv {
+  background-color: orange;
 }
 
 /**************/
@@ -118,7 +264,7 @@ table {
 .snap-screenshot:hover {
   box-shadow: 0px 0px 30px #000000;
   transition: all 200ms ease-in;
-  transform: scale(1.7);
+  transform: scale(1.4);
 }
 
 /**************/
@@ -156,6 +302,14 @@ table {
 /**************/
 /* BASE RULES */
 /**************/
+.disqus {
+  padding: 2em 3em;
+}
+
+.add-pad {
+  padding: 0 3em;
+}
+
 #disqus_thread {
   font-family: "Carrois Gothic", sans-serif;
 }
@@ -173,9 +327,7 @@ body p {
 }
 
 .container {
-  margin: 0 auto;
-  max-width: 70%;
-  padding: 0 10px;
+  justify-content: center;
   width: 100%;
 }
 
@@ -198,9 +350,6 @@ h1 {
 }
 h1 a {
   color: #333;
-}
-h1:hover, h1:active {
-  color: #FF7F50;
 }
 
 h2 {
@@ -271,6 +420,7 @@ img {
 }
 
 .date {
+  font-family: "Carrois Gothic", sans-serif;
   font-style: italic;
   color: #333;
 }
@@ -298,104 +448,6 @@ img {
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
-.wrapper-masthead {
-  margin-bottom: 50px;
-}
-
-.masthead {
-  padding: 20px 0;
-  border-bottom: 1px solid #eee;
-}
-@media screen and (max-width: 640px) {
-  .masthead {
-    text-align: center;
-  }
-}
-
-.site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
-}
-@media screen and (max-width: 640px) {
-  .site-avatar {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-}
-.site-avatar img {
-  border-radius: 5px;
-}
-
-.site-info {
-  float: left;
-}
-@media screen and (max-width: 640px) {
-  .site-info {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-}
-
-.site-name {
-  margin: 0;
-  padding-bottom: 15px;
-  color: #333;
-  cursor: pointer;
-  font-family: "Pompiere", cursive;
-  font-weight: 300;
-  font-size: 28px;
-  letter-spacing: 1px;
-}
-
-.site-description {
-  margin: -5px 0 0 0;
-  color: #333;
-  font-size: 16px;
-}
-@media screen and (max-width: 640px) {
-  .site-description {
-    margin: 3px 0;
-  }
-}
-
-nav {
-  float: right;
-  margin-top: 23px;
-  font-family: "Roboto Slab", serif;
-  font-size: 18px;
-}
-@media screen and (max-width: 640px) {
-  nav {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
-  }
-}
-nav a {
-  margin-left: 20px;
-  color: #333;
-  text-align: right;
-  font-weight: 300;
-  letter-spacing: 1px;
-  padding: 5px;
-}
-nav a:hover, nav a:active {
-  color: #fff;
-  background-color: #333;
-  transition: all, 0.3s;
-}
-@media screen and (max-width: 640px) {
-  nav a {
-    margin: 0 10px;
-    color: #333;
-  }
-}
-
 .posts > .post {
   padding-bottom: 2em;
 }
@@ -418,7 +470,7 @@ nav a:hover, nav a:active {
   font-style: italic;
 }
 .post h1 {
-  color: #333;
+  color: #222;
 }
 .post a {
   padding-top: 10px;
@@ -466,7 +518,8 @@ footer {
 }
 
 .page h1 {
-  color: #333;
+  color: #222;
+  padding-left: 1.6em;
 }
 
 .highlight {

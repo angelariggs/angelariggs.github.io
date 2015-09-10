@@ -7,6 +7,8 @@
 
 @import "reset";
 @import "variables";
+@import "nav";
+@import "homepage";
 @import "portfolio";
 @import "snapor";
 @import "sudoku";
@@ -16,6 +18,14 @@
 /**************/
 /* BASE RULES */
 /**************/
+
+.disqus {
+  padding: 2em 3em;
+}
+
+.add-pad {
+  padding: 0 3em;
+}
 
 #disqus_thread {
   font-family: $sans-serif;
@@ -34,11 +44,11 @@ body {
 }
 
 .container {
-  // display: flex;
-  // justify-content: center;
-  margin: 0 auto;
-  max-width: 70%;
-  padding: 0 10px;
+  //display: flex;
+  justify-content: center;
+  //margin: 0 3em;
+  // max-width: 100%;
+  //padding: 0 3em;
   width: 100%;
 }
 
@@ -61,10 +71,10 @@ h1 {
   a {
     color: $darkGray;
   }
-  &:hover, &:active {
-    color: $coral;
-    //background-color: $darkGray;
-  }
+    // &:hover, &:active {
+    //   color: $coral;
+    //   //background-color: $darkGray;
+    // }
 }
 
 h2 {
@@ -85,7 +95,6 @@ p {
 }
 
 a {
-//   color: $blue;
   text-decoration: none;
   cursor: pointer;
   color: $darkGray;
@@ -145,6 +154,7 @@ img {
 }
 
 .date {
+  font-family: $sans-serif;
   font-style: italic;
   color: $darkGray;
 }
@@ -176,107 +186,6 @@ img {
 /*********************/
 
 //
-// .masthead
-//
-
-.wrapper-masthead {
-  margin-bottom: 50px;
-  // position: fixed;
-  // width: 100%;
-  // height: 100px;
-}
-
-.masthead {
-  padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
-
-  @include mobile {
-    text-align: center;
-  }
-}
-
-.site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-
-  img {
-    border-radius: 5px;
-  }
-}
-
-.site-info {
-  float: left;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-}
-
-.site-name {
-  margin: 0;
-  padding-bottom: 15px;
-  color: $darkGray;
-  cursor: pointer;
-  font-family: $cursive;
-  font-weight: 300;
-  font-size: 28px;
-  letter-spacing: 1px;
-}
-
-.site-description {
-  margin: -5px 0 0 0;
-  color: $darkGray;
-  font-size: 16px;
-
-  @include mobile {
-    margin: 3px 0;
-  }
-}
-
-nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $serif;
-  font-size: 18px;
-
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
-  }
-
-  a {
-    margin-left: 20px;
-    color: $darkGray;
-    text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
-    padding: 5px;
-    &:hover, &:active {
-    color: $white;
-    background-color: $darkGray;
-    transition: all, 0.3s;
-    }
-
-    @include mobile {
-      margin: 0 10px;
-      color: $darkGray;
-    }
-  }
-}
-
-//
 // .main
 //
 
@@ -305,7 +214,7 @@ nav {
   }
 
   h1 {
-  color: $darkGray;
+  color: $darkerGray;
   }
 
   a {
@@ -364,7 +273,8 @@ footer {
 }
 
 .page h1 {
-  color: $darkGray;
+  color: $darkerGray;
+  padding-left: 1.6em;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
