@@ -6,7 +6,7 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: flex-start;
+  justify-content: center;
   margin-top: 20px;
   width: 100%;
 
@@ -18,8 +18,10 @@
 }
 
 .project {
+  transition: all, 0.5s;
   padding: 2.5em;
-  transition: all, 0.2s;
+  margin: 5%;
+  //transition: all, 0.2s;
   flex: 0 1 auto;
   width: 40%;
   color: darkGray;
@@ -27,6 +29,10 @@
   @include mobile {
     width: 100%;
   }
+}
+
+.project:hover {
+  background-color: $coral;
 }
 
 .project-title {
@@ -38,13 +44,25 @@
 }
 
 #snapDiv {
-  background-color: pink;
+  background-image: url("images/oswald-west.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.8;
 }
 
 #sudokuDiv {
-  background-color: green;
+  background-image: url("images/sudoku300.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.8;
 }
 
 #treehouseDiv {
-  background-color: orange;
+  background-image: url("images/badges-img.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.8;
 }
