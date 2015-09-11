@@ -6,10 +6,54 @@
   font-family: $sans-serif;
 }
 
-.post h1 {
-	//font-family: $serif;
+article.post h1 {
+	font-family: $serif;
 	font-size: 30px;
-	a {
-		font-family: $sans-serif;
-	}
+	color: purple;
 }
+
+.posts > .post {
+  padding-bottom: 2em;
+  //border-bottom: 1px solid $lightGray;
+}
+
+.posts > .post:last-child {
+  padding-bottom: 1em;
+  border-bottom: none;
+}
+
+.posts {
+  margin-top: 100px;
+}
+
+.post {
+  blockquote {
+    margin: 1.8em .8em;
+    border-left: 2px solid $gray;
+    padding: 0.1em 1em;
+    color: $gray;
+    font-size: 22px;
+    font-style: italic;
+  }
+
+  .entry {
+    &:h1 {
+      font-family: $sans-serif;
+    }
+    &:h3 {
+      font-family: $cursive;
+      color: $darkGray;
+    }
+    &:p {
+      color: $darkGray;
+    }
+  }
+
+  .entry p a {
+    color: $coral;
+    &:hover, &:active {
+      color: $white;
+      background-color: $darkGray;
+      padding-top: 0;
+    }
+  }

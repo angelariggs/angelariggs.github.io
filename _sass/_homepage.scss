@@ -8,42 +8,48 @@
 //   z-index: 1;
 // }
 
-#hero-img {
-  position: relative;
+// #hero-img {
+//   position: relative;
+//   width: 100%;
+//   height: 500px;
+//   background-image: url("images/ecola-state-park.jpg");
+//   background-position: center;
+//   background-size: cover;
+//   background-repeat: no-repeat;
+//   opacity: 0.4;
+// }
+
+.inner-content {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1000px;
+  text-align: center;
   width: 100%;
-  height: 500px;
-  background-image: url("images/ecola-state-park.jpg");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  opacity: 0.4;
+  padding-top: 10%;
+  
+  h1 {
+    font-family: $sans-serif;
+    font-size: 30px;
+    color: black;
+    opacity: 1;
+    padding-bottom: 10px;
+  }
+  
+  p {
+    font-family: $serif;
+    font-size: 26px;
+  }
 }
 
-h1 #hero-title {
-  // why isn't the font color changing!
-  color: #fff;
-  text-shadow: 5px 8px 10px #222;
-
-}
-
-#hero-title {
-  font-family: $serif;
-  font-size: 5em;
-  text-align: center;
-  padding-top: 2em;
-}
-
-#hero-subtitle {
-  font-family: $sans-serif;
-  font-size: 3em;
-  text-align: center;
-  margin: 0 auto;
+hr {
+  max-width: 70px;
+  border: 2.5px solid $coral;
 }
 
 #quotes {
   background-color: $coral;
   padding: 4em 0;
-  font-family: $sans-serif;
+  font-family: $cursive;
   font-size: 1.6em;
   color: #fff;
   text-align: center;
