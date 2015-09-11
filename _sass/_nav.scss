@@ -4,7 +4,7 @@
 //
 
 .wrapper-masthead {
-  //margin-bottom: 50px;
+  // margin-bottom: 50px;
   // position: fixed;
   // width: 100%;
   // z-index: 1;
@@ -21,9 +21,6 @@
   background-repeat: no-repeat;
   opacity: 0.4;
   padding-top: 1.5em;
-  //line-height: 1.5;
-  //margin-bottom: 100px;
-  //border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -97,7 +94,7 @@ nav {
   a {
     font-size: 22px;
     margin-left: 20px;
-    color: $darkGray;
+    color: black;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
