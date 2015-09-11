@@ -9,12 +9,12 @@
 @import "variables";
 @import "nav";
 @import "homepage";
-@import "blog";
+//@import "blog";
 @import "portfolio";
 @import "snapor";
 @import "sudoku";
 @import "treehouse";
-// Syntax highlighting @import is at the bottom of this file
+//Syntax highlighting @import is at the bottom of this file
 
 /**************/
 /* BASE RULES */
@@ -30,45 +30,21 @@ html {
 
 body {
   background: white;
-  p {
+}
+
+body p {
     color: $darkGray;
     font: 18px/1.4 $sans-serif;
-  }
 }
 
 .container {
-  //display: flex;
+  width: 100%;
   justify-content: center;
+  //display: flex;
   //margin: 0 3em;
   // max-width: 100%;
   //padding: 0 3em;
-  width: 100%;
 }
-
-h2, h4, h5, h6 {
-  font-family: $cursive;
-  font-weight: bold;
-
-  line-height: 1.7;
-  margin: 1em 0 15px;
-  padding: 0;
-
-  @include mobile {
-    line-height: 1.4;
-  }
-}
-
-// h1 {
-//   font-size: 30px;
-//   font-family: $cursive;
-//   a {
-//     color: $darkGray;
-//   }
-//     // &:hover, &:active {
-//     //   color: $coral;
-//     //   //background-color: $darkGray;
-//     // }
-// }
 
 h2 {
   font-size: 24px;
@@ -76,15 +52,6 @@ h2 {
 
 h3 {
   font-size: 20px;
-}
-
-h4 {
-  font-size: 18px;
-  color: $gray;
-}
-
-p {
-  margin: 15px 0;
 }
 
 a {
@@ -97,6 +64,10 @@ a {
     color: $white;
     background-color: $darkGray;
   }
+}
+
+p {
+  margin: 15px 0;
 }
 
 ul, ol {
@@ -165,8 +136,8 @@ img {
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
 .clearfix:after {
-    content: " ";
-    display: table;
+  content: " ";
+  display: table;
 }
 
 .clearfix:after {
@@ -199,7 +170,7 @@ img {
     font-size: 15px;
     //color: $darkGray;
   }
-}
+
 
 .wrapper-footer {
   margin-top: 50px;
