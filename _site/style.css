@@ -57,10 +57,6 @@ table {
   box-sizing: border-box;
 }
 
-.wrapper-masthead {
-  background-color: #fff;
-}
-
 .masthead {
   padding-top: 1.5em;
 }
@@ -93,10 +89,9 @@ table {
 
 nav {
   float: right;
-  display: block;
   margin-right: 3em;
   font-family: "Carrois Gothic", sans-serif;
-  font-size: 18px;
+  font-size: 22px;
 }
 @media screen and (max-width: 640px) {
   nav {
@@ -106,13 +101,15 @@ nav {
     font-size: 16px;
   }
 }
+nav ul li {
+  display: inline-block;
+}
 nav a {
   margin-left: 20px;
   color: #333;
   text-align: right;
   font-weight: 300;
   letter-spacing: 1px;
-  padding: 5px;
 }
 nav a:hover, nav a:active {
   color: #fff;
@@ -374,8 +371,6 @@ a {
   text-decoration: none;
   cursor: pointer;
   color: #333;
-  padding-left: 5px;
-  padding-right: 5px;
 }
 a:hover, a:active {
   color: #fff;

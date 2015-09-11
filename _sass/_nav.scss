@@ -9,11 +9,11 @@
   // width: 100%;
   // z-index: 1;
   // top: 0;
-  background-color: #fff;
 }
 
 .masthead {
   padding-top: 1.5em;
+  //line-height: 1.5;
   //margin-bottom: 100px;
   //border-bottom: 1px solid $lightGray;
 
@@ -72,11 +72,10 @@
 
 nav {
   float: right;
-  display: block;
   //margin-top: 23px; // @TODO: Vertically middle align
   margin-right: 3em;
   font-family: $sans-serif;
-  font-size: 18px;
+  font-size: 22px;
 
   @include mobile {
     float: none;
@@ -85,13 +84,16 @@ nav {
     font-size: 16px;
   }
 
+  ul li {
+    display: inline-block;
+  }
+
   a {
     margin-left: 20px;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
-    padding: 5px;
     &:hover, &:active {
     color: $white;
     background-color: $darkGray;
