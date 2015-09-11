@@ -173,6 +173,60 @@ hr {
   background-color: pink;
 }
 
+.disqus {
+  padding: 2em 3em;
+}
+
+#disqus_thread {
+  font-family: "Carrois Gothic", sans-serif;
+}
+
+article.post h1 {
+  font-family: "Roboto Slab", serif;
+  font-size: 30px;
+  color: purple;
+}
+
+.posts > .post {
+  padding-bottom: 2em;
+}
+
+.posts > .post:last-child {
+  padding-bottom: 1em;
+  border-bottom: none;
+}
+
+.posts {
+  margin-top: 100px;
+}
+
+.post blockquote {
+  margin: 1.8em .8em;
+  border-left: 2px solid #666;
+  padding: 0.1em 1em;
+  color: #666;
+  font-size: 22px;
+  font-style: italic;
+}
+.post .entry:h1 {
+  font-family: "Carrois Gothic", sans-serif;
+}
+.post .entry:h3 {
+  font-family: "Pompiere", cursive;
+  color: #333;
+}
+.post .entry:p {
+  color: #333;
+}
+.post .entry p a {
+  color: #FF7F50;
+}
+.post .entry p a:hover, .post .entry p a:active {
+  color: #fff;
+  background-color: #333;
+  padding-top: 0;
+}
+
 /**************/
 /* PORTFOLIO PAGE */
 /**************/
