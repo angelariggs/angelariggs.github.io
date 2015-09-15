@@ -18,10 +18,11 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-@import url(http://fonts.googleapis.com/css?family=Carrois+Gothic|Satisfy|Roboto+Slab|Pompiere);
-$serif: "Roboto Slab", serif;  
-$sans-serif: "Carrois Gothic", sans-serif;
-$cursive: "Pompiere", cursive;
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700|Domine|Vast+Shadow|Playfair+Display:400,400italic);
+$serif: "Domine", serif;  
+$sans-serif: "Montserrat", sans-serif;
+$display: "Vast Shadow", cursive;
+$quote-font: "Playfair Display", serif;
 
 // Mobile breakpoints
 @mixin mobile {

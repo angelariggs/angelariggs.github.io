@@ -1,7 +1,7 @@
 /***************/
 /* MEYER RESET */
 /***************/
-@import url(http://fonts.googleapis.com/css?family=Carrois+Gothic|Satisfy|Roboto+Slab|Pompiere);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700|Domine|Vast+Shadow|Playfair+Display:400,400italic);
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -60,8 +60,8 @@ table {
 .masthead {
   position: relative;
   width: 100%;
-  height: 500px;
-  background-image: url("images/ecola-state-park.jpg");
+  height: 700px;
+  background-image: url("images/angela-long-beach-2.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -89,7 +89,7 @@ table {
 
 .site-name {
   cursor: pointer;
-  font-family: "Carrois Gothic", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -98,7 +98,7 @@ table {
 nav {
   float: right;
   margin-right: 3em;
-  font-family: "Carrois Gothic", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 @media screen and (max-width: 640px) {
   nav {
@@ -137,17 +137,17 @@ nav a:hover, nav a:active {
   max-width: 1000px;
   text-align: center;
   width: 100%;
-  padding-top: 10%;
+  padding-top: 15%;
 }
 .inner-content h1 {
-  font-family: "Carrois Gothic", sans-serif;
-  font-size: 30px;
+  font-family: "Vast Shadow", cursive;
+  font-size: 40px;
   color: black;
   opacity: 1;
   padding-bottom: 10px;
 }
 .inner-content p {
-  font-family: "Roboto Slab", serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 26px;
 }
 
@@ -159,7 +159,7 @@ hr {
 #quotes {
   background-color: #FF7F50;
   padding: 4em 0;
-  font-family: "Pompiere", cursive;
+  font-family: "Playfair Display", serif;
   font-size: 1.6em;
   color: #fff;
   text-align: center;
@@ -178,11 +178,11 @@ hr {
 }
 
 #disqus_thread {
-  font-family: "Carrois Gothic", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 article.post h1 {
-  font-family: "Roboto Slab", serif;
+  font-family: "Domine", serif;
   font-size: 30px;
   color: purple;
 }
@@ -209,10 +209,10 @@ article.post h1 {
   font-style: italic;
 }
 .post .entry:h1 {
-  font-family: "Carrois Gothic", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 .post .entry:h3 {
-  font-family: "Pompiere", cursive;
+  font-family: "Montserrat", sans-serif;
   color: #333;
 }
 .post .entry:p {
@@ -272,7 +272,7 @@ article.post h1 {
   color: black;
   background-color: white;
   padding: 5%;
-  font-family: "Roboto Slab", serif;
+  font-family: "Domine", serif;
 }
 
 #snapDiv {
@@ -372,7 +372,7 @@ body {
 
 body p {
   color: #333;
-  font: 18px/1.4 "Carrois Gothic", sans-serif;
+  font: 18px/1.4 "Montserrat", sans-serif;
 }
 
 .container {
@@ -391,10 +391,8 @@ h3 {
 a {
   text-decoration: none;
   cursor: pointer;
-}
-a:hover, a:active {
-  color: #fff;
-  background-color: #333;
+  color: black;
+  opacity: 10;
 }
 
 p {
@@ -411,7 +409,7 @@ ul li {
   margin: 6px;
 }
 ul li a {
-  font-family: "Carrois Gothic", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 ol {
@@ -439,7 +437,7 @@ img {
 }
 
 .date {
-  font-family: "Carrois Gothic", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: italic;
   color: #333;
 }
@@ -473,7 +471,7 @@ a {
 
 .comments {
   margin-top: 10px;
-  font-family: "Roboto Slab", serif;
+  font-family: "Domine", serif;
 }
 
 .read-more {
@@ -494,7 +492,7 @@ footer {
 }
 
 .read-more {
-  font-family: "Carrois Gothic", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .page h1 {
@@ -502,7 +500,7 @@ footer {
   color: #222;
   font-size: 22px;
   padding-left: 3em;
-  font-family: "Carrois Gothic", sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #FF7F50;
 }
 
