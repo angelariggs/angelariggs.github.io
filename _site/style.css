@@ -65,11 +65,23 @@ table {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  opacity: 0.4;
   padding-top: 1.5em;
 }
 @media screen and (max-width: 640px) {
   .masthead {
+    text-align: center;
+  }
+}
+
+.navpages-masthead {
+  position: relative;
+  width: 100%;
+  height: 200px;
+  background-color: #FF7F50;
+  padding-top: 1.5em;
+}
+@media screen and (max-width: 640px) {
+  .navpages-masthead {
     text-align: center;
   }
 }
@@ -95,6 +107,10 @@ table {
   letter-spacing: 1px;
 }
 
+h1.site-name a {
+  color: black;
+}
+
 nav {
   float: right;
   margin-right: 3em;
@@ -111,7 +127,7 @@ nav {
 nav ul li {
   display: inline-block;
 }
-nav a {
+nav ul li a {
   font-size: 22px;
   margin-left: 20px;
   color: black;
@@ -119,13 +135,8 @@ nav a {
   font-weight: 300;
   letter-spacing: 1px;
 }
-nav a:hover, nav a:active {
-  color: #fff;
-  background-color: #333;
-  transition: all, 0.3s;
-}
 @media screen and (max-width: 640px) {
-  nav a {
+  nav ul li {
     margin: 0 10px;
     color: #333;
   }
