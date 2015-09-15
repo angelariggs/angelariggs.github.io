@@ -6,7 +6,7 @@ comments: true
 ---
 
 <div class='add-pad'>
-	<p><a href='http://snaporegon.herokuapp.com/' target='blank'>Launch snapOR website</a> or <a href='https://github.com/snap-oregon/snapOR' target='blank'>view repo on GitHub.</a></p>
+	<p><a class='res-link' href='http://snaporegon.herokuapp.com/' target='blank'>Launch snapOR website</a> or <a class='res-link' href='https://github.com/snap-oregon/snapOR' target='blank'>view repo on GitHub.</a></p>
 
 	<h2 class='project-sec-header'>About snapOR</h2>
 	<p>snapOR is a site for adventurous photographers, who enjoy exploring and photographing the beauty of Oregon. Use our website to explore state parks in Oregon, and see photos that other hikers have taken there.</p>

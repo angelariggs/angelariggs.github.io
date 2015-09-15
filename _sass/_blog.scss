@@ -2,14 +2,20 @@
   padding: 2em 3em;
 }
 
+.date {
+  font-family: $serif;
+  font-style: italic;
+  color: $darkGray;
+}
+
 #disqus_thread {
   font-family: $sans-serif;
 }
 
-article.post h1 {
-	font-family: $serif;
+.post-title {
+	font-family: $sans-serif;
 	font-size: 30px;
-	color: purple;
+	color: darkerGray;
 }
 
 .posts > .post {
@@ -35,27 +41,13 @@ article.post h1 {
     font-size: 22px;
     font-style: italic;
   }
-
-  .entry {
-    &:h1 {
-      font-family: $sans-serif;
-    }
-    &:h3 {
-      font-family: $sans-serif;
-      color: $darkGray;
-    }
-    &:p {
-      color: $darkGray;
-    }
-  }
-
-  .entry p a {
-    color: $coral;
-    &:hover, &:active {
-      color: $white;
-      background-color: $darkGray;
-      padding-top: 0;
-    }
-  }
 }
 
+.post h1 {
+  font-family: $sans-serif;
+  font-size: 20px;
+}
+
+  .entry p {
+    font-family: $serif;
+  }

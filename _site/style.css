@@ -177,14 +177,20 @@ hr {
   padding: 2em 3em;
 }
 
+.date {
+  font-family: "Domine", serif;
+  font-style: italic;
+  color: #333;
+}
+
 #disqus_thread {
   font-family: "Montserrat", sans-serif;
 }
 
-article.post h1 {
-  font-family: "Domine", serif;
+.post-title {
+  font-family: "Montserrat", sans-serif;
   font-size: 30px;
-  color: purple;
+  color: darkerGray;
 }
 
 .posts > .post {
@@ -208,23 +214,14 @@ article.post h1 {
   font-size: 22px;
   font-style: italic;
 }
-.post .entry:h1 {
+
+.post h1 {
   font-family: "Montserrat", sans-serif;
+  font-size: 20px;
 }
-.post .entry:h3 {
-  font-family: "Montserrat", sans-serif;
-  color: #333;
-}
-.post .entry:p {
-  color: #333;
-}
-.post .entry p a {
-  color: #FF7F50;
-}
-.post .entry p a:hover, .post .entry p a:active {
-  color: #fff;
-  background-color: #333;
-  padding-top: 0;
+
+.entry p {
+  font-family: "Domine", serif;
 }
 
 /**************/
@@ -297,6 +294,10 @@ article.post h1 {
   background-size: cover;
   background-repeat: no-repeat;
   opacity: 0.8;
+}
+
+.project-sec-header {
+  font-family: "Montserrat", sans-serif;
 }
 
 /**************/
@@ -395,6 +396,10 @@ a {
   opacity: 10;
 }
 
+.res-link {
+  color: #FF7F50;
+}
+
 p {
   margin: 15px 0;
 }
@@ -434,12 +439,6 @@ img {
 
 .gmnoprint img {
   max-width: none;
-}
-
-.date {
-  font-family: "Montserrat", sans-serif;
-  font-style: italic;
-  color: #333;
 }
 
 ::-moz-selection {

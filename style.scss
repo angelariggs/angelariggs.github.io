@@ -68,6 +68,10 @@ a {
   // }
 }
 
+.res-link {
+  color: $coral;
+}
+
 p {
   margin: 15px 0;
 }
@@ -116,12 +120,6 @@ img {
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
-}
-
-.date {
-  font-family: $sans-serif;
-  font-style: italic;
-  color: $darkGray;
 }
 
 // Specify the color of the selection
