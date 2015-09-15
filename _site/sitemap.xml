@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/final-countdown/</loc>
+    <loc>http://angelariggs.github.io/final-countdown/</loc>
     <lastmod>2015-07-17T00:00:00-07:00</lastmod>
   </url>
   <url>
-    <loc>/tweet-article/</loc>
+    <loc>http://angelariggs.github.io/tweet-article/</loc>
     <lastmod>2015-06-26T00:00:00-07:00</lastmod>
   </url>
   <url>
-    <loc>/jokes/</loc>
+    <loc>http://angelariggs.github.io/jokes/</loc>
     <lastmod>2015-06-16T00:00:00-07:00</lastmod>
   </url>
   <url>
-    <loc>/welcome/</loc>
+    <loc>http://angelariggs.github.io/welcome/</loc>
     <lastmod>2015-05-30T00:00:00-07:00</lastmod>
   </url>
   <url>
-    <loc>/404.html</loc>
+    <loc>http://angelariggs.github.io/404.html</loc>
   </url>
   <url>
-    <loc>/about/</loc>
+    <loc>http://angelariggs.github.io/about/</loc>
   </url>
   <url>
-    <loc>/</loc>
+    <loc>http://angelariggs.github.io/</loc>
   </url>
   <url>
-    <loc>/portfolio/</loc>
+    <loc>http://angelariggs.github.io/portfolio/</loc>
   </url>
   <url>
-    <loc>/resume/</loc>
+    <loc>http://angelariggs.github.io/resume/</loc>
   </url>
   <url>
-    <loc>/portfolio/snap-oregon/</loc>
+    <loc>http://angelariggs.github.io/portfolio/snap-oregon/</loc>
   </url>
   <url>
-    <loc>/portfolio/sudoku/</loc>
+    <loc>http://angelariggs.github.io/portfolio/sudoku/</loc>
   </url>
   <url>
-    <loc>/portfolio/treehouse/</loc>
+    <loc>http://angelariggs.github.io/portfolio/treehouse/</loc>
   </url>
 </urlset>
