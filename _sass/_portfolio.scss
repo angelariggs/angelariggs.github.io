@@ -1,0 +1,71 @@
+/**************/
+/* PORTFOLIO PAGE */
+/**************/
+
+.portfolio-grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+  width: 100%;
+
+  @include mobile {
+    display: flex;
+    flex-flow: column wrap;
+    width: 100%;
+  }
+}
+
+.project {
+  transition: all, 0.5s;
+  padding: 2.5em;
+  margin: 5%;
+  //transition: all, 0.2s;
+  flex: 0 1 auto;
+  width: 30%;
+  height: 200px;
+  color: darkGray;
+
+  @include mobile {
+    width: 100%;
+  }
+}
+
+.project:hover {
+  background-color: $coral;
+}
+
+.project-title {
+  text-align: center;
+  a {
+    color: black;
+    background-color: white;
+    padding: 5%;
+    font-family: $serif;
+  }
+}
+
+#snapDiv {
+  background-image: url("images/oswald-west.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.8;
+}
+
+#sudokuDiv {
+  background-image: url("images/sudoku300.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.8;
+}
+
+#treehouseDiv {
+  background-image: url("images/badges-img.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.8;
+}

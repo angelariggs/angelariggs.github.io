@@ -1,0 +1,25 @@
+/**************/
+/* SNAP OREGON */
+/**************/
+
+.project-grid {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: space-around;
+  //margin: 0 auto;
+}
+
+.photo-space {
+  margin: 20px;
+  min-width: 30%;
+}
+
+.snap-screenshot {
+  transition: all 200ms ease-in;
+  &:hover {
+  box-shadow: 0px 0px 30px #000000;
+  transition: all 200ms ease-in;
+  transform: scale(1.4);
+  }
+}
