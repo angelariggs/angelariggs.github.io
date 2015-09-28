@@ -135,6 +135,9 @@ nav ul li a {
   font-weight: 300;
   letter-spacing: 1px;
 }
+nav ul li a:hover, nav ul li a:active {
+  border-bottom: 2px solid black;
+}
 @media screen and (max-width: 640px) {
   nav ul li {
     margin: 0 10px;
