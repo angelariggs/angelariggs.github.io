@@ -7,6 +7,27 @@
     <atom:link href="http://angelariggs.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>A Knot of Toads</title>
+        <description>&lt;p&gt;I just finished my first week as a toad!&lt;/p&gt;
+
+&lt;p&gt;I started my internship at &lt;a href=&quot;http://www.metaltoad.com/company&quot;&gt;Metal Toad&lt;/a&gt; on Monday. I had been expecting an October start, but Randi - their wonderfully exuberant Director of People - asked if I could start earlier. So a few weeks earlier than expected, I hopped (get it?) on the Yeon Building elevator and pressed the orange toad button for the 4th floor!&lt;/p&gt;
+
+&lt;p&gt;I started by diving into the documentation - getting to know all of the bits and pieces of setting up at workstation at Metal Toad. After spending a few hours doing the process longhand, &lt;a href=&quot;http://www.cesar-jimenez.com/&quot;&gt;Cesar&lt;/a&gt; let me in on a script that one of the other devs wrote, that installs pretty much everything I&amp;#39;ll ever need. &lt;/p&gt;
+
+&lt;p&gt;As an intern, my workload will likely be split about 50/50, between QA for various client projects, and working on an internal project. I started QA for a client project on my first, so I got to experience setting up my local environment for a Drupal project. My dev lead, &lt;a href=&quot;http://www.metaltoad.com/people/slavko&quot;&gt;Slavko&lt;/a&gt;, walked me through the process and explained everything. (Thinking of future Angela, I took notes on it all and typed it up on Google Drive.) After I got the project set up, &lt;a href=&quot;http://www.metaltoad.com/people/jordan&quot;&gt;Jordan&lt;/a&gt; got me started with testing. I spent some solo time working with Behat, getting practice writing tests. After a couple of hours of Googling and Stack Overflowing, I did some troubleshooting with Jordan and we realized that my tests &lt;em&gt;should&lt;/em&gt; have been passing. We think it was something with the version of Behat that I was using. So I started looking into &lt;a href=&quot;http://unitjs.com/&quot;&gt;unit testing for JavaScript&lt;/a&gt;, since my interest is in front-end, and I&amp;#39;ll start putting it into practice on another project next week.&lt;/p&gt;
+
+&lt;p&gt;I also resolved a JIRA ticket, and made my first Git commit on a project! I had some downtime from the first project, so Cesar directed me toward another project that had some front-end work to do. &lt;a href=&quot;https://www.linkedin.com/in/kgiardchase&quot;&gt;Kyle&lt;/a&gt; found me a JIRA ticket that needed front-end work. I used my notes from the project setup with Slavko earlier &lt;em&gt;(thanks, past Angela!)&lt;/em&gt; and set up the environment for the new project. I dove into the Sass files to fix some padding issues across a few of the site pages, and then - and this is the &lt;em&gt;real&lt;/em&gt; moment of triumph - I committed my changes to the repo without breaking anyone else&amp;#39;s code! &lt;/p&gt;
+
+&lt;p&gt;My first week has been &lt;em&gt;such&lt;/em&gt; a fantastic experience! I realized that the people who work at Metal Toad are more than just colleagues - they&amp;#39;re a family. They work together, but they also respect each other and want to help everyone succeed. Everyone has work of their own, but they all made time to stop and answer my questions, or to direct me toward the person who could. They have a Slack channel dedicated to shoutouts, and they use it every day. I got a round of applause from the team at my first code review. Day by day, everyone has made a point to introduce themselves to me individually and ask how I&amp;#39;m doing in my first week. &lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m so excited to a part of the Metal Toad family, and I can&amp;#39;t wait to see how the next four months begin to unfold!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 27 Sep 2015 00:00:00 -0700</pubDate>
+        <link>http://angelariggs.github.io/first-week/</link>
+        <guid isPermaLink="true">http://angelariggs.github.io/first-week/</guid>
+      </item>
+    
+      <item>
         <title>Starting Down the Dev Path</title>
         <description>&lt;p&gt;Developer bootcamps are popping up all over the U.S., and Portland is no exception. We have no less than five code schools, including one focused on online courses. With so many options and opportunities, how do you know what’s right for you? And when it comes to committing your time and money, how do you make sure that you take a viable path?&lt;/p&gt;
 
