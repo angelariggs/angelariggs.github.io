@@ -129,7 +129,6 @@ nav ul li {
 }
 nav ul li a {
   font-size: 22px;
-  margin-left: 20px;
   color: black;
   text-align: right;
   font-weight: 300;
@@ -137,12 +136,6 @@ nav ul li a {
 }
 nav ul li a:hover, nav ul li a:active {
   border-bottom: 2px solid black;
-}
-@media screen and (max-width: 640px) {
-  nav ul li {
-    margin: 0 10px;
-    color: #333;
-  }
 }
 
 .inner-content {
