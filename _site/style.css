@@ -138,6 +138,10 @@ nav ul li a:hover, nav ul li a:active {
   border-bottom: 2px solid black;
 }
 
+.avatar {
+  border-radius: 50px;
+}
+
 .inner-content {
   margin-left: auto;
   margin-right: auto;
