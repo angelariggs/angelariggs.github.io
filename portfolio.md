@@ -13,12 +13,16 @@ permalink: /portfolio/
   	<div class='project' id='sudokuDiv'>
   		<h2 class='project-title'><a href='/portfolio/sudoku'>Sudoku Solver</a></h2>
   		<!-- <p>Given a string of numbers (representing the starting point in a Sudoku grid) and dots (representing blanks to be solved in a Sudoku grid), our code will solve and fill in the Sudoku puzzle.</p> -->
-  	</div>	
+  	</div>
 
   	<div class='project' id='treehouseDiv'>
   		<h2 class='project-title'><a href='/portfolio/treehouse'>Treehouse Badges</a></h2>
   		<!-- <p>This app allows you to enter your Treehouse username, and view all badges you have earned in their courses.</p> -->
   	</div>
+
+    <div class='project' id='hackOregonDiv'>
+      <h2 class='project-title'><a href='/portfolio/cropcompass'>Crop Compass</a></h2>
+    </div>
   </div>
 
   <!-- <div class='portfolio-grid'>
