@@ -57,6 +57,13 @@ table {
   box-sizing: border-box;
 }
 
+nav ul {
+  margin: 0px;
+}
+nav ul li {
+  margin-top: 0px;
+}
+
 .masthead {
   position: relative;
   width: 100%;
