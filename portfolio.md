@@ -5,6 +5,10 @@ permalink: /portfolio/
 ---
 <div class="add-pad">
   <div class='portfolio-grid'>
+    <div class='project' id='hackOregonDiv'>
+      <h2 class='project-title'><a href='/portfolio/cropcompass'>Crop Compass</a></h2>
+    </div>
+
   	<div class='project' id='snapDiv'>
   		<h2 class='project-title'><a href='/portfolio/snap-oregon'>snapOR</a></h2>
   		<!-- <p>For adventurous photographers and hiking enthusiasts who want to capture Oregon's gorgeous scenery, snapOR allows users to look through Oregon State Parks and see the photos that other hikers have taken there.</p> -->
@@ -19,10 +23,6 @@ permalink: /portfolio/
   		<h2 class='project-title'><a href='/portfolio/treehouse'>Treehouse Badges</a></h2>
   		<!-- <p>This app allows you to enter your Treehouse username, and view all badges you have earned in their courses.</p> -->
   	</div>
-
-    <div class='project' id='hackOregonDiv'>
-      <h2 class='project-title'><a href='/portfolio/cropcompass'>Crop Compass</a></h2>
-    </div>
   </div>
 
   <!-- <div class='portfolio-grid'>

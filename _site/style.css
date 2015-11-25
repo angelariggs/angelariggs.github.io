@@ -294,6 +294,14 @@ hr {
   font-family: "Domine", serif;
 }
 
+#hackOregonDiv {
+  background-image: url("images/hack-oregon-demo.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.8;
+}
+
 #snapDiv {
   background-image: url("images/oswald-west.png");
   background-position: center;
@@ -312,14 +320,6 @@ hr {
 
 #treehouseDiv {
   background-image: url("images/badges-img.jpg");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  opacity: 0.8;
-}
-
-#hackOregonDiv {
-  background-image: url("images/hack-oregon-demo.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -345,13 +345,22 @@ hr {
   min-width: 30%;
 }
 
-.snap-screenshot {
+.snap-screenshot.left {
   transition: all 200ms ease-in;
 }
-.snap-screenshot:hover {
+.snap-screenshot.left:hover {
   box-shadow: 0px 0px 30px #000000;
   transition: all 200ms ease-in;
-  transform: scale(1.4);
+  transform: scale(1.25) translateX(50px);
+}
+
+.snap-screenshot.right {
+  transition: all 200ms ease-in;
+}
+.snap-screenshot.right:hover {
+  box-shadow: 0px 0px 30px #000000;
+  transition: all 200ms ease-in;
+  transform: scale(1.25) translateX(-50px);
 }
 
 /**************/
@@ -384,6 +393,36 @@ hr {
   width: 100%;
   margin-bottom: 80px;
   border-bottom: 3px solid gray;
+}
+
+.project-grid {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.photo-space {
+  margin: 20px;
+  min-width: 30%;
+}
+
+.cc-screenshot.left {
+  transition: all 200ms ease-in;
+}
+.cc-screenshot.left:hover {
+  box-shadow: 0px 0px 30px #000000;
+  transition: all 200ms ease-in;
+  transform: scale(1.25) translateX(50px);
+}
+
+.cc-screenshot.right {
+  transition: all 200ms ease-in;
+}
+.cc-screenshot.right:hover {
+  box-shadow: 0px 0px 30px #000000;
+  transition: all 200ms ease-in;
+  transform: scale(1.25) translateX(-50px);
 }
 
 /**************/
