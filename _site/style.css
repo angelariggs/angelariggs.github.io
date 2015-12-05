@@ -294,6 +294,14 @@ hr {
   font-family: "Domine", serif;
 }
 
+#peaceHealthDiv {
+  background-image: url("images/ph-banner.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.8;
+}
+
 #hackOregonDiv {
   background-image: url("images/hack-oregon-demo.jpg");
   background-position: center;
