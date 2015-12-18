@@ -7,6 +7,57 @@
     <atom:link href="http://angelariggs.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Junior Developer - What Does it Mean?</title>
+        <description>&lt;p&gt;I stumbled onto an interesting Twitter conversation the other day, and I&amp;#39;ve been looking forward to continuing my thoughts in a broader form here on my blog.&lt;/p&gt;
+
+&lt;p&gt;The conversation in question revolved around the use of titles for developers, and what those titles actually denote or communicate about the person who holds a specific title. The meaning behind dev titles was especially unclear when it comes to the role of a &amp;quot;junior&amp;quot; developer.&lt;/p&gt;
+
+&lt;p&gt;When I see a job posting with the word &amp;quot;junior&amp;quot; in them, I don&amp;#39;t always know what that says about the company&amp;#39;s expectations - but I know what it means to me, and I hope that the company&amp;#39;s meaning comes close.&lt;/p&gt;
+
+&lt;p&gt;To me, &amp;quot;junior&amp;quot; indicates a level of responsibility, rather than a level of skill or experience. As a junior developer, I want to have code reviews and possibly pair programming throughout the week, to help strengthen my coding knowledge and best practices. And &amp;quot;best practices&amp;quot; refers not only to coding, but also to the workflows and processes that differ from one company to another.&lt;/p&gt;
+
+&lt;p&gt;As a &lt;a href=&quot;http://mathys-potestio.com/want-to-be-a-developer-where-to-start-and-what-to-expect/&quot;&gt;code school graduate&lt;/a&gt; and current dev intern, I know that there are many things I don&amp;#39;t yet know. But when considering my classification as an employee, should my experience in development be the only experience considered? In addition to my 9 months of dev work, I have years of client-facing experience with high communication and problem-solving skills, and I was a teacher for three years. Don&amp;#39;t these skills and experiences add value to my role as a developer? Being able to communicate clearly with clients, or share knowledge with colleagues would seem to be valuable assets.&lt;/p&gt;
+
+&lt;p&gt;And with the ever-changing nature of technology and development work, tying the definition of &lt;em&gt;junior&lt;/em&gt; specifically to dev experience can get kind of shaky. For instance, let&amp;#39;s say that a JavaScript developer fresh out of bootcamp gets hired at a .NET agency, looking to branch out into other technologies. In terms of overall years of dev experience, that bootcamp graduate would be considered a junior. But when that .NET company starts working on their first JavaScript project, that same bootcamp graduate is the resident expert.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I&amp;#39;ve talked about what the junior title means to me, and why it can be a tenuous thing to define - but what does it mean to tech companies? It&amp;#39;s one thing to read about tech stacks in a job posting - but how does the title of &amp;quot;junior&amp;quot; set a company&amp;#39;s expectations of work, and how do they communicate those expectations?&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The subject of job titles has been a recent topic of conversation here at &lt;a href=&quot;http://www.metaltoad.com/&quot;&gt;Metal Toad&lt;/a&gt;, especially in relation to career paths. As a developer (junior, staff, or senior), what really are the expectations for skillsets? And if these expectations aren&amp;#39;t set transparently and clearly, how does a junior dev set goals to complete for becoming a staff developer?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The conversation on Twitter included &lt;a href=&quot;https://twitter.com/realntl&quot;&gt;Nathan Ladd&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/kwuchu&quot;&gt;Iheanyi Ekechukwu&lt;/a&gt; of &lt;a href=&quot;https://twitter.com/TwoBlackNerds&quot;&gt;Two Black Nerds&lt;/a&gt;, and &lt;a href=&quot;https://twitter.com/wycats&quot;&gt;Yehuda Katz&lt;/a&gt; of &lt;a href=&quot;http://www.tilde.io/&quot;&gt;Tilde&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Devs coming out of a code school are pre-juniors&lt;/li&gt;
+&lt;li&gt;Mostly have learned &lt;em&gt;how to think&lt;/em&gt; like a dev&lt;/li&gt;
+&lt;li&gt;Need more mentoring / pairing for dev work&lt;/li&gt;
+&lt;li&gt;Transition from intern to jr
+
+&lt;ul&gt;
+&lt;li&gt;What are the expectations of skills for a junior dev?&lt;/li&gt;
+&lt;li&gt;What do employers mean when they say &amp;#39;junior&amp;#39;?&lt;/li&gt;
+&lt;li&gt;What do jr devs think it means?&lt;/li&gt;
+&lt;li&gt;Look for on job postings, indicates to me that employer recognizes the dev in this position will need more mentoring&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Career matrix / path in general
+
+&lt;ul&gt;
+&lt;li&gt;Majority of devs look to increase skills / position&lt;/li&gt;
+&lt;li&gt;How do they know when they&amp;#39;ve hit co. expectation / goals?&lt;/li&gt;
+&lt;li&gt;How do devs set goals if they don&amp;#39;t know the expectations?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;With ever-changing technologies, a &amp;quot;junior&amp;quot; may be more expert in something than a senior dev&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As a &lt;a href=&quot;http://mathys-potestio.com/want-to-be-a-developer-where-to-start-and-what-to-expect/&quot;&gt;code school graduate&lt;/a&gt; and current dev intern,&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 Dec 2015 00:00:00 -0800</pubDate>
+        <link>http://angelariggs.github.io/junior/</link>
+        <guid isPermaLink="true">http://angelariggs.github.io/junior/</guid>
+      </item>
+    
+      <item>
         <title>A Knot of Toads</title>
         <description>&lt;p&gt;I just finished my first week as a toad!&lt;/p&gt;
 
