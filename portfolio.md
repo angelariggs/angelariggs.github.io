@@ -5,6 +5,10 @@ permalink: /portfolio/
 ---
 <div class="add-pad">
   <div class='portfolio-grid'>
+    <div class='project' id='osuDiv'>
+      <h2 class='project-title'><a href='/portfolio/osu'>OSU-NEP</a></h2>
+    </div>
+
     <div class='project' id='peaceHealthDiv'>
       <h2 class='project-title'><a href='/portfolio/peacehealth'>PeaceHealth</a></h2>
     </div>
