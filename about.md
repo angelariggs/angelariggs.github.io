@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <div class='add-pad'> 
 
-<p>Hello! I'm a web developer in Portland, OR. As a developer, I love finding opportunities for collaboration and creative problem-solving. I take on coding with determination and humor, always seeking to learn new things and share knowledge with others. My experience as a teacher has taught me to be reflective about my skills and goals, and honed my ability to communicate clearly and effectively. I bring a positive energy to the workplace, and truly enjoy the challenges and rewards of coding.</p>
+<p>Hello! I'm a developer in Portland, OR. As a developer, I love finding opportunities for collaboration and creative problem-solving. I take on coding with determination and humor, always seeking to learn new things and share knowledge with others. My experience as a teacher has taught me to be reflective about my skills and goals, and honed my ability to communicate clearly and effectively. I bring a positive energy to the workplace, and truly enjoy the challenges and rewards of coding.</p>
 
 <p>I learned the foundations of full-stack JavaScript through a three-month coding bootcamp, using a combination of HTML/Jade, CSS/Sass, Foundation, and Backbone for front-end, with Node, Express, and AJAX on the back-end.</p>
 
