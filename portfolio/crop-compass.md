@@ -17,14 +17,15 @@ comments: true
 	<p>Crop Compass was a very hefty project - we were inundated with data! The biggest hurdle was deciding what data the team wanted to use, and how to present it to the public. I joined the project as a front-end developer about 4 weeks before its completion, along with two other junior developers. We toyed with D3 and Leaflet for displaying data, but settled on a combination of Angular and Sass for displaying our charts and graphs.</p>
 
 	<h2 class='project-sec-header'>Reflection</h2>
+	<!-- <p>These projects are very data-based.</p> -->
 
-	<div class='project-grid'>
+	<!-- <div class='project-grid'>
 		<div class='photo-space'>
 			<img class='cc-screenshot left' src='/images/cc-acres.png'>
 		</div>
 		<div class='photo-space'>
 			<img class='cc-screenshot right' src='/images/cc-animals.png'>
 		</div>
-	</div>
+	</div> -->
 
 </div>
