@@ -18,7 +18,9 @@ comments: true
 	<p>Some of my main contributions for this project included building a module for the top navigation; creating detailed admin documentation for the PeaceHealth admin team's training; testing and configuring the Workbench module according to the PeaceHealth team's needs; styling the footer content and Medical Center banner flyouts, as well as the administration interface theme.</p>
 
 	<h2 class='project-sec-header'>Reflection</h2>
-	<p>When I was first assigned to PeaceHealth as an intern about halfway through the project's timeline, there was an expectation for mentorship and pair programming opportunities. However, the project became more complicated than originally thought, and I ended up doing quite a bit of programming in a developer role rather than an intern role. While this may not seem like an ideal process, the situation allowed me to make an opportunity for myself, and become a purposeful and meaningful contributor to the project.</p>
+	<p>PeaceHealth was a challenging project in many ways, but ultimately I'm proud that I got to be a part of it. I took on a fairly involved role for the project, and had the privilege and responsibility of a regular developer - estimating stories, committing to sprints, and helping the team complete our bi-weekly goals.</p>
+
+	<p>It may seem like a lot for an intern to take on, but it was motivation to jump into the thick of it- to learn, and contribute, and get my hands down in the site. Coming from a JavaScript background, it was a great way to start getting familiar with the ins and outs of site-building with Drupal.</p>
 <!-- 	<div class='project-grid'>
 		<div class='photo-space'>
 			<img class='ph-screenshot left' src='/images/cc-acres.png'>
