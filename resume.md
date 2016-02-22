@@ -96,7 +96,7 @@ permalink: /resume/
 	<h3 class="res-h3"><a href="http://www.metaltoad.com/blog/interns-instantaneous-toadness-internship/">http://www.metaltoad.com/blog/interns-instantaneous-toadness-internship/</a></h3>
 
 	<h2 class="res-h2"><span>Mathys + Potestio:</span> Want to be a Developer? Where to Start, and What to Expect</h2>
-	<h3><a href="http://mathys-potestio.com/want-to-be-a-developer-where-to-start-and-what-to-expect/">http://mathys-potestio.com/want-to-be-a-developer-where-to-start-and-what-to-expect/</a></h3>
+	<h3 class="res-h3"><a href="http://mathys-potestio.com/want-to-be-a-developer-where-to-start-and-what-to-expect/">http://mathys-potestio.com/want-to-be-a-developer-where-to-start-and-what-to-expect/</a></h3>
 
 	<h2 class="res-h2"><span>Mathys + Potestio:</span> Tweeting for Understanding & Community</h2>
 	<h3 class="res-h3"><a href="http://mathys-potestio.com/a-developer-tweets-to-build-community-and-understanding/">http://mathys-potestio.com/a-developer-tweets-to-build-community-and-understanding/</a></h3>
