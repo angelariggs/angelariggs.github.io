@@ -346,6 +346,11 @@ h2.about-sec-title {
   columns: 5 150px;
 }
 
+.internet-pres-link {
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+}
+
 /**************/
 /* BASE RULES */
 /**************/

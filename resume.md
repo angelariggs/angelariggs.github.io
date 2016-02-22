@@ -104,8 +104,8 @@ permalink: /resume/
 
 <div>
 	<h1 class="res-sec-title" id="internet-pres">Internet Presence</h1>
-	<h2 class="res-h2">GitHub:</h2><a href="http://github.com/angelariggs">http://github.com/angelariggs</a>
-	<h2 class="res-h2">Twitter:</h2><a href="http://twitter.com/angelariggs_">http://twitter.com/angelariggs_</a>
-	<h2 class="res-h2">LinkedIn:</h2><a href="https://www.linkedin.com/in/angelariggs">https://www.linkedin.com/in/angelariggs</a>
-	<h2 class="res-h2">Photography:</h2><a href="http://angelariggs.exposure.co">http://angelariggs.exposure.co</a>
+	<h2 class="res-h2">GitHub:</h2><a href="http://github.com/angelariggs" class="internet-pres-link">http://github.com/angelariggs</a>
+	<h2 class="res-h2">Twitter:</h2><a href="http://twitter.com/angelariggs_" class="internet-pres-link">http://twitter.com/angelariggs_</a>
+	<h2 class="res-h2">LinkedIn:</h2><a href="https://www.linkedin.com/in/angelariggs" class="internet-pres-link">https://www.linkedin.com/in/angelariggs</a>
+	<h2 class="res-h2">Photography:</h2><a href="http://angelariggs.exposure.co" class="internet-pres-link">http://angelariggs.exposure.co</a>
 </div>
