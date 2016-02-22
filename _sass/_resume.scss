@@ -28,6 +28,12 @@
 	-webkit-columns: 5 150px;
 	-moz-columns: 5 150px;
 	columns: 5 150px;
+
+	@include mobile {
+		-webkit-columns: 2 100px;
+		-moz-columns: 2 100px;
+		columns: 2 100px;
+	}
 }
 
 .internet-pres-link {

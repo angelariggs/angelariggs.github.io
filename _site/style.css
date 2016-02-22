@@ -345,6 +345,13 @@ h2.about-sec-title {
   -moz-columns: 5 150px;
   columns: 5 150px;
 }
+@media screen and (max-width: 640px) {
+  .skill-list {
+    -webkit-columns: 2 100px;
+    -moz-columns: 2 100px;
+    columns: 2 100px;
+  }
+}
 
 .internet-pres-link {
   font-family: "Playfair Display", serif;
