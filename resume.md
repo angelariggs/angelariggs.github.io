@@ -4,7 +4,108 @@ title: Resume
 permalink: /resume/
 ---
 
-<div class="add-pad">
-	<p>Hello! Please click here to download a PDF of my resume:
+<div>
+	<p>Hello! You can view my resume below, or click here to download a PDF version:
 <a class='res-link' href="/angela-riggs-res.pdf" target="_blank">Angela's Resume</a></p>
+</div>
+
+<div>
+	<h1 class="res-sec-title">Development Experience</h1>
+	<h2 class="res-h2">Developer Intern</h2>
+	<h3 class="res-h3">Metal Toad Media • September 2015 - Present</h3>
+	<p>Contributed development work for Drupal 7, Drupal 8, and Swift projects; collaborated with intern team to create Drupal update script for internal use with Node and AWS; created detailed admin documentation for clients’ use and training; practiced Agile methodologies for project-planning and implementation; strengthened company QA process by comparing and analyzing project workflows</p>
+
+	<h2 class="res-h2">Front-End Developer</h2>
+	<h3 class="res-h3">Hack Oregon - Crop Compass • September 2015 - October 2015</h3>
+	<p>Created interactive charts and graphs using AngularJS, pulling data from custom APIs created by the back-end developers on the Crop Compass team</p>
+
+	<h2 class="res-h2">Website Coordinator & Social Media Strategist</h2>
+	<h3 class="res-h3">Portland Code School • April 2015 - September 2015</h3>
+	<p>Designed and created a Squarespace site for Portland Code School; collaborated with key stakeholders to identify requirements and verify site design; migrated content from current site to Squarespace site; posted content to Portland Code School’s Facebook & Twitter accounts; focused on creating a more involved presence in Portland’s tech community, and participating in conversations about diversity</p>
+</div>
+
+<div>
+	<h1 class="res-sec-title">Education</h1>
+	<h2 class="res-h2">Portland Code School</h2>
+	<h3 class="res-h3">Full-Stack JavaScript Immersion • May 2015 - July 2015</h3>
+	<p>In this 3-month intensive program, I learned to build full-stack, JavaScript-based web apps. I gained experience with pair and mob programming, as well as independent and group projects, to hone my development skills.</p>
+
+	<h2 class="res-h2">University of Central Florida</h2>
+	<h3 class="res-h3">Bachelor of Science: Elementary Education • September 2011 - May 2013</h3>
+	<p></p>
+</div>
+
+<div>
+	<h1 class="res-sec-title">Skills</h1>
+	<div class="skill-list">
+		<div class="skill-column">
+			<p>Drupal 7</p>
+			<p>Drupal 8</p>
+			<p>MVC Frameworks</p>
+			<p>JavaScript</p>
+		</div>
+
+		<div class="skill-column">
+			<p>HTML5</p>
+			<p>CSS / Sass</p>
+			<p>MariaDB</p>
+			<p>Drush</p>
+		</div>
+
+		<div class="skill-column">
+			<p>Capistrano</p>
+			<p>Express</p>
+			<p>Node</p>
+			<p>JSON</p>
+		</div>
+
+		<div class="skill-column">
+			<p>Restful APIs</p>
+			<p>Gulp / Grunt</p>
+			<p>Git</p>
+			<p>Agile</p>
+		</div>
+
+		<div class="skill-column">
+			<p>Collaboration</p>
+			<p>Communication</p>
+			<p>Enthusiasm</p>
+			<p>Optimism</p>
+		</div>
+	</div>
+</div>
+
+<div>
+	<h1 class="res-sec-title">Additional Work Experience</h1>
+	<h2 class="res-h2">Lead Teacher</h2>
+	<h3 class="res-h3">Peninsula Children’s Learning Center • August 2013 - May 2015</h3>
+	<p>Created and taught curriculum for student cohort age 3-5; communicated with parents, ranging from daily summaries to planning short- and long-term goals for their children’s progress; focused on building social-emotional skills and academic development through play-based learning</p>
+
+	<h2 class="res-h2">Project Coordinator - Oregon’s Quality Rating and Improvement System (QRIS)</h2>
+	<h3 class="res-h3">Peninsula Children’s Learning Center • February 2015 – May 2015</h3>
+	<p>Coordinated with administration team to implement practices in alignment with Oregon state standards; set goals for changing or strengthening current practices according to a rigorous timeline; worked to document all standards once they met with state’s requirements</p>
+
+	<h2 class="res-h2">Walt Disney Travel Company</h2>
+	<h3 class="res-h3">Disney Reservation Center • August 2005 - June 2013</h3>
+	<p>Collaborated with Guests in both sales and support capacities; communicated & engaged with Guests through phone conversations, LiveChat messaging, and Kana email services; support role included creative problem-solving and independent handling of challenges and escalations</p>
+</div>
+
+<div>
+	<h1 class="res-sec-title">Publications</h1>
+	<h2 class="res-h2"><span>Metal Toad:</span> A Knot of Toads</h2>
+	<h3 class="res-h3"><a href="http://www.metaltoad.com/blog/interns-instantaneous-toadness-internship/">http://www.metaltoad.com/blog/interns-instantaneous-toadness-internship/</a></h3>
+
+	<h2 class="res-h2"><span>Mathys + Potestio:</span> Want to be a Developer? Where to Start, and What to Expect</h2>
+	<h3><a href="http://mathys-potestio.com/want-to-be-a-developer-where-to-start-and-what-to-expect/">http://mathys-potestio.com/want-to-be-a-developer-where-to-start-and-what-to-expect/</a></h3>
+
+	<h2 class="res-h2"><span>Mathys + Potestio:</span> Tweeting for Understanding & Community</h2>
+	<h3 class="res-h3"><a href="http://mathys-potestio.com/a-developer-tweets-to-build-community-and-understanding/">http://mathys-potestio.com/a-developer-tweets-to-build-community-and-understanding/</a></h3>
+</div>
+
+<div>
+	<h1 class="res-sec-title" id="internet-pres">Internet Presence</h1>
+	<h2 class="res-h2">GitHub:</h2><a href="http://github.com/angelariggs">http://github.com/angelariggs</a>
+	<h2 class="res-h2">Twitter:</h2><a href="http://twitter.com/angelariggs_">http://twitter.com/angelariggs_</a>
+	<h2 class="res-h2">LinkedIn:</h2><a href="https://www.linkedin.com/in/angelariggs">https://www.linkedin.com/in/angelariggs</a>
+	<h2 class="res-h2">Photography:</h2><a href="http://angelariggs.exposure.co">http://angelariggs.exposure.co</a>
 </div>

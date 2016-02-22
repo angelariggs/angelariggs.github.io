@@ -2,7 +2,7 @@
 layout: page
 permalink: /blog/
 ---
-<div class="add-pad">
+<div>
 	<div class="posts">
 	  {% for post in site.posts %}
 	    <article class="post">

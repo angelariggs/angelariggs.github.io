@@ -1,7 +1,7 @@
 /***************/
 /* MEYER RESET */
 /***************/
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700|Domine|Vast+Shadow|Playfair+Display:400,400italic);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700|Playfair+Display:400,400italic,700italic,700);
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -86,6 +86,7 @@ nav ul li {
   height: 200px;
   background-color: #FF7F50;
   padding-top: 1.5em;
+  margin-bottom: 2em;
 }
 @media screen and (max-width: 640px) {
   .navpages-masthead {
@@ -108,7 +109,7 @@ nav ul li {
 
 .site-name {
   cursor: pointer;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -121,14 +122,12 @@ h1.site-name a {
 nav {
   float: right;
   margin-right: 3em;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Playfair Display", serif;
 }
 @media screen and (max-width: 640px) {
   nav {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
+    margin-top: 2em;
+    margin-bottom: 2em;
   }
 }
 nav ul li {
@@ -136,13 +135,19 @@ nav ul li {
 }
 nav ul li a {
   font-size: 22px;
+  font-weight: 700;
+  font-style: italic;
   color: black;
+  margin: 0 0.5em;
   text-align: right;
-  font-weight: 300;
-  letter-spacing: 1px;
 }
 nav ul li a:hover, nav ul li a:active {
   border-bottom: 2px solid black;
+}
+@media screen and (max-width: 640px) {
+  nav ul li a {
+    font-size: 26px;
+  }
 }
 
 .avatar {
@@ -158,61 +163,33 @@ nav ul li a:hover, nav ul li a:active {
   padding-top: 15%;
 }
 .inner-content h1 {
-  font-family: "Vast Shadow", cursive;
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-style: italic;
   font-size: 40px;
   color: black;
   opacity: 1;
   padding-bottom: 10px;
 }
 .inner-content p {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 26px;
+  padding-top: 10px;
 }
 
 hr {
-  max-width: 70px;
+  max-width: 80px;
   border: 2.5px solid #FF7F50;
 }
 
 #quotes {
   background-color: #FF7F50;
-  padding: 4em 0;
+  padding: 4em 1em;
   font-family: "Playfair Display", serif;
-  font-size: 1.6em;
+  font-style: italic;
+  font-size: 28px;
   color: #fff;
   text-align: center;
-}
-
-#work-example {
-  background-color: green;
-}
-
-#latest-blog {
-  background-color: pink;
-}
-
-.disqus {
-  padding: 2em 3em;
-}
-
-.blog-title {
-  padding-top: 15px;
-}
-
-.date {
-  font-family: "Domine", serif;
-  font-style: italic;
-  color: #333;
-}
-
-#disqus_thread {
-  font-family: "Montserrat", sans-serif;
-}
-
-.post-title {
-  font-family: "Montserrat", sans-serif;
-  font-size: 30px;
-  color: darkerGray;
 }
 
 .posts > .post {
@@ -224,31 +201,80 @@ hr {
   border-bottom: none;
 }
 
-.posts {
-  margin-top: 100px;
+article.post {
+  margin-left: 4em;
 }
-
-.post blockquote {
-  margin: 1.8em .8em;
-  border-left: 2px solid #666;
-  padding: 0.1em 1em;
-  color: #666;
-  font-size: 22px;
-  font-style: italic;
+article.post h1.post-title {
+  margin-bottom: 0.5em;
 }
-
-.post h1 {
-  font-family: "Montserrat", sans-serif;
-  font-size: 20px;
+article.post h1.post-title a {
+  font-family: "Playfair Display", serif;
+  font-size: 25px;
+  color: #FF7F50;
 }
 
 .entry p {
-  font-family: "Domine", serif;
+  font-family: "Roboto", sans-serif;
+  padding-bottom: 0.75em;
+  max-width: 80%;
+  color: #333;
+}
+.entry p a {
+  color: #FF7F50;
+}
+.entry p a:hover {
+  text-decoration: underline;
+}
+
+.read-more {
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+  color: #333;
+}
+
+h1.blog-title {
+  font-family: "Playfair Display", serif;
+  color: #FF7F50;
+  font-size: 22px;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+.date {
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+  color: #333;
+}
+
+.disqus {
+  padding: 2em 3em;
+}
+
+#disqus_thread {
+  font-family: "Roboto", sans-serif;
 }
 
 /**************/
-/* PORTFOLIO PAGE */
+/* PORTFOLIO */
 /**************/
+.page {
+  margin-left: 4em;
+}
+
+article.page h1 {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  margin-bottom: 0.7em;
+  font-size: 25px;
+  color: #FF7F50;
+}
+
+h2.about-sec-title {
+  font-family: "Playfair Display", serif;
+  color: #FF7F50;
+  font-size: 22px;
+}
+
 .portfolio-grid {
   display: flex;
   flex-direction: row;
@@ -257,22 +283,15 @@ hr {
   margin-top: 20px;
   width: 100%;
 }
-@media screen and (max-width: 640px) {
-  .portfolio-grid {
-    display: flex;
-    flex-flow: column wrap;
-    width: 100%;
-  }
-}
 
 .project {
-  transition: all, 0.5s;
-  padding: 2.5em;
-  margin: 5%;
+  background-color: #FF7F50;
+  transition: all, 0.3s;
+  margin: 1em;
   flex: 0 1 auto;
-  width: 30%;
+  width: 40%;
   height: 200px;
-  color: darkGray;
+  color: #333;
 }
 @media screen and (max-width: 640px) {
   .project {
@@ -281,273 +300,72 @@ hr {
 }
 
 .project:hover {
-  background-color: #FF7F50;
+  background-color: white;
+  border: 3px solid #FF7F50;
 }
 
 .project-title {
   text-align: center;
-}
-.project-title a {
-  color: black;
-  background-color: white;
-  padding: 5%;
-  font-family: "Domine", serif;
-}
-
-#osuDiv {
-  background-image: url("images/food_hero.png");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  opacity: 0.8;
-}
-
-#peaceHealthDiv {
-  background-image: url("images/ph-banner.png");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  opacity: 0.8;
-}
-
-#hackOregonDiv {
-  background-image: url("images/hack-oregon-demo.jpg");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  opacity: 0.8;
-}
-
-#snapDiv {
-  background-image: url("images/oswald-west.png");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  opacity: 0.8;
-}
-
-#sudokuDiv {
-  background-image: url("images/sudoku300.jpg");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  opacity: 0.8;
-}
-
-#treehouseDiv {
-  background-image: url("images/badges-img.jpg");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  opacity: 0.8;
+  font-family: "Roboto", sans-serif;
 }
 
 .project-sec-header {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Playfair Display", serif;
+  color: #FF7F50;
+  font-size: 22px;
+}
+.project-sec-header p {
+  margin-bottom: 10em;
 }
 
-/**************/
-/* SNAP OREGON */
-/**************/
-.project-grid {
-  display: flex;
-  flex-flow: row nowrap;
-  align-items: center;
-  justify-content: space-around;
+.res-sec-title {
+  font-family: "Playfair Display", serif;
+  font-size: 25px;
+  color: #FF7F50;
+  margin-top: 1em;
 }
 
-.photo-space {
-  margin: 20px;
-  min-width: 30%;
+.res-h2 {
+  font-family: "Playfair Display", serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: #333;
 }
 
-.snap-screenshot.left {
-  transition: all 200ms ease-in;
-}
-.snap-screenshot.left:hover {
-  box-shadow: 0px 0px 30px #000000;
-  transition: all 200ms ease-in;
-  transform: scale(1.25) translateX(50px);
-}
-
-.snap-screenshot.right {
-  transition: all 200ms ease-in;
-}
-.snap-screenshot.right:hover {
-  box-shadow: 0px 0px 30px #000000;
-  transition: all 200ms ease-in;
-  transform: scale(1.25) translateX(-50px);
+.res-h3 {
+  font-family: "Playfair Display", serif;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: italic;
+  color: #333;
 }
 
-/**************/
-/* SUDOKU */
-/**************/
-#sudokuDiv {
-  border-left: none;
-}
-@media screen and (max-width: 640px) {
-  #sudokuDiv {
-    border: 3px #333 solid;
-    border-top: none;
-  }
-}
-
-#sudoku-embed {
-  width: 100%;
-  margin-bottom: 80px;
-  border-bottom: 3px solid gray;
-}
-
-/**************/
-/* TREEHOUSE BADGES */
-/**************/
-#treehouseDiv {
-  border-top: none;
-}
-
-#treehouse-embed {
-  width: 100%;
-  margin-bottom: 80px;
-  border-bottom: 3px solid gray;
-}
-
-.project-grid {
-  display: flex;
-  flex-flow: row nowrap;
-  align-items: center;
-  justify-content: space-around;
-}
-
-.photo-space {
-  margin: 20px;
-  min-width: 30%;
-}
-
-.cc-screenshot.left {
-  transition: all 200ms ease-in;
-}
-.cc-screenshot.left:hover {
-  box-shadow: 0px 0px 30px #000000;
-  transition: all 200ms ease-in;
-  transform: scale(1.25) translateX(50px);
-}
-
-.cc-screenshot.right {
-  transition: all 200ms ease-in;
-}
-.cc-screenshot.right:hover {
-  box-shadow: 0px 0px 30px #000000;
-  transition: all 200ms ease-in;
-  transform: scale(1.25) translateX(-50px);
+.skill-list {
+  -webkit-columns: 5 150px;
+  -moz-columns: 5 150px;
+  columns: 5 150px;
 }
 
 /**************/
 /* BASE RULES */
 /**************/
-.add-pad {
-  padding: 0 3em;
-}
-
 html {
-  font-size: 100%;
+  background-color: #333;
 }
 
 body {
-  background: white;
-}
-
-body p {
-  color: #333;
-  font: 18px/1.4 "Montserrat", sans-serif;
-}
-
-.container {
-  width: 100%;
-  justify-content: center;
-}
-
-h2 {
-  font-size: 22px;
-}
-
-.about-sec-title {
-  font-family: "Montserrat", sans-serif;
-}
-
-h3 {
-  font-size: 20px;
+  line-height: 1.5;
+  font-size: 18px;
+  background-color: white;
 }
 
 a {
   text-decoration: none;
   cursor: pointer;
   color: #FF7F50;
-  opacity: 10;
 }
-
-.res-link {
-  color: #FF7F50;
-}
-
-p {
-  margin: 15px 0;
-}
-
-ul, ol {
-  margin: 15px 0;
-  padding-left: 30px;
-}
-
-ul li {
-  text-decoration: none;
-  margin: 6px;
-}
-ul li a {
-  font-family: "Montserrat", sans-serif;
-}
-
-ol {
-  list-style-type: decimal;
-}
-
-ol ul, ul ol, ul ul, ol ol {
-  margin: 0;
-}
-
-em, i {
-  font-style: italic;
-}
-
-strong, b {
-  font-weight: bold;
-}
-
-img {
-  max-width: 100%;
-}
-
-.gmnoprint img {
-  max-width: none;
-}
-
-::-moz-selection {
-  color: #000;
-  background: #eee;
-}
-
-::selection {
-  color: #000;
-  background: #eee;
-}
-
-.clearfix:before,
-.clearfix:after {
-  content: " ";
-  display: table;
-}
-
-.clearfix:after {
-  clear: both;
+a:hover {
+  text-decoration: underline;
 }
 
 /*********************/
@@ -559,16 +377,10 @@ a {
 
 .comments {
   margin-top: 10px;
-  font-family: "Domine", serif;
-}
-
-.read-more {
-  text-transform: uppercase;
-  font-size: 15px;
+  font-family: "Roboto", sans-serif;
 }
 
 .wrapper-footer {
-  margin-top: 50px;
   border-top: 1px solid #333;
   border-bottom: 1px solid #333;
   background-color: #333;
@@ -577,19 +389,6 @@ a {
 footer {
   padding: 20px 0;
   text-align: center;
-}
-
-.read-more {
-  font-family: "Montserrat", sans-serif;
-}
-
-.page h1 {
-  margin-top: 3em;
-  color: #222;
-  font-size: 22px;
-  padding-left: 3em;
-  font-family: "Montserrat", sans-serif;
-  color: #FF7F50;
 }
 
 .highlight {

@@ -4,7 +4,7 @@ title: Treehouse Badges
 permalink: /portfolio/treehouse/
 comments: true
 ---
-<div class='add-pad'>  
+<div class=>  
 	<p>Launch Treehouse Badges on <a class='res-link' href='http://codepen.io/angelariggs/full/gpGgNj/' target='blank'>CodePen</a> or view repo on <a class='res-link' href='https://github.com/angelariggs/treehouse-badges' target='blank'>GitHub</a></p>
 
 	<div id='treehouse-embed'>

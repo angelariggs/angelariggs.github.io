@@ -1,34 +1,9 @@
-.disqus {
-  padding: 2em 3em;
-}
-
-.blog-title {
-  padding-top: 15px;
-}
-
-// .blog-title {
-//   padding-top: 15px;
-// }
-
-.date {
-  font-family: $serif;
-  font-style: italic;
-  color: $darkGray;
-}
-
-#disqus_thread {
-  font-family: $sans-serif;
-}
-
-.post-title {
-	font-family: $sans-serif;
-	font-size: 30px;
-	color: darkerGray;
-}
+//
+// MAIN BLOG PAGE STYLES
+//
 
 .posts > .post {
   padding-bottom: 2em;
-  //border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
@@ -36,26 +11,64 @@
   border-bottom: none;
 }
 
-.posts {
-  margin-top: 100px;
+// List of posts on the blog landing page
+article.post {
+  margin-left: 4em;
+
+  h1.post-title {
+    margin-bottom: 0.5em;
+
+    a {
+      font-family: $display;
+      font-size: 25px;
+      color: $coral;
+    }
+  } 
 }
 
-.post {
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
-  }
-}
-
-.post h1 {
+.entry p {
   font-family: $sans-serif;
-  font-size: 20px;
+  padding-bottom: 0.75em;
+  max-width: 80%;
+  color: $darkGray;
+
+  a {
+    color: $coral;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
 
-  .entry p {
-    font-family: $serif;
-  }
+.read-more {
+  font-family: $display;
+  font-style: italic;
+  color: $darkGray;
+}
+
+//
+// INDIVIDUAL BLOG POST STYLES
+//
+
+h1.blog-title {
+  font-family: $display;
+  color: $coral;
+  font-size: 22px;
+  margin-top: 2em;
+  margin-bottom: 1em;
+
+}
+
+.date {
+  font-family: $display;
+  font-style: italic;
+  color: $darkGray;
+}
+
+.disqus {
+  padding: 2em 3em;
+}
+
+#disqus_thread {
+  font-family: $sans-serif;
+}

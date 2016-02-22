@@ -1,6 +1,30 @@
 /**************/
-/* PORTFOLIO PAGE */
+/* PORTFOLIO */
 /**************/
+
+// .page & article.page h1 & h2.about-sec-title also affect the About page layout TODO: Separate basic page styles vs portfolio / about specific styles
+
+//
+// MAIN PORTFOLIO PAGE STYLES
+//
+
+.page {
+  margin-left: 4em;
+}
+
+article.page h1 {
+  font-family: $display;
+  font-weight: 700;
+  margin-bottom: 0.7em;
+  font-size: 25px;
+  color: $coral;
+}
+
+h2.about-sec-title {
+  font-family: $display;
+  color: $coral;
+  font-size: 22px;
+}
 
 .portfolio-grid {
   display: flex;
@@ -10,22 +34,21 @@
   margin-top: 20px;
   width: 100%;
 
-  @include mobile {
-    display: flex;
-    flex-flow: column wrap;
-    width: 100%;
-  }
+  // @include mobile {
+  //   display: flex;
+  //   flex-flow: column wrap;
+  //   width: 100%;
+  // }
 }
 
 .project {
-  transition: all, 0.5s;
-  padding: 2.5em;
-  margin: 5%;
-  //transition: all, 0.2s;
+  background-color: $coral;
+  transition: all, 0.3s;
+  margin: 1em;
   flex: 0 1 auto;
-  width: 30%;
+  width: 40%;
   height: 200px;
-  color: darkGray;
+  color: $darkGray;
 
   @include mobile {
     width: 100%;
@@ -33,67 +56,81 @@
 }
 
 .project:hover {
-  background-color: $coral;
+  background-color: white;
+  border: 3px solid $coral;
 }
 
 .project-title {
   text-align: center;
-  a {
-    color: black;
-    background-color: white;
-    padding: 5%;
-    font-family: $serif;
+  font-family: $sans-serif;
+}
+
+//
+// INDIVIDUAL PORTFOLIO PAGE STYLES
+//
+
+.project-sec-header {
+  font-family: $display;
+  color: $coral;
+  font-size: 22px;
+
+  p {
+    margin-bottom: 10em;
   }
 }
 
-#osuDiv {
-  background-image: url("images/food_hero.png");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  opacity: 0.8;
-}
+//
+// Styles below waiting on assets
+//
 
-#peaceHealthDiv {
-  background-image: url("images/ph-banner.png");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  opacity: 0.8;
-}
+// #osuDiv {
+//   background-image: url("images/food_hero.png");
+//   background-position: center;
+//   background-size: cover;
+//   background-repeat: no-repeat;
+//   opacity: 0.8;
+// }
 
-#hackOregonDiv {
-  background-image: url("images/hack-oregon-demo.jpg");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  opacity: 0.8;
-}
+// #peaceHealthDiv {
+//   background-image: url("images/ph-banner.png");
+//   background-position: center;
+//   background-size: cover;
+//   background-repeat: no-repeat;
+//   opacity: 0.8;
+// }
 
-#snapDiv {
-  background-image: url("images/oswald-west.png");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  opacity: 0.8;
-}
+// #hackOregonDiv {
+//   background-image: url("images/hack-oregon-demo.jpg");
+//   background-position: center;
+//   background-size: cover;
+//   background-repeat: no-repeat;
+//   opacity: 0.8;
+// }
 
-#sudokuDiv {
-  background-image: url("images/sudoku300.jpg");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  opacity: 0.8;
-}
+// #snapDiv {
+//   background-image: url("images/oswald-west.png");
+//   background-position: center;
+//   background-size: cover;
+//   background-repeat: no-repeat;
+//   opacity: 0.8;
+// }
 
-#treehouseDiv {
-  background-image: url("images/badges-img.jpg");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  opacity: 0.8;
-}
+// #sudokuDiv {
+//   background-image: url("images/sudoku300.jpg");
+//   background-position: center;
+//   background-size: cover;
+//   background-repeat: no-repeat;
+//   opacity: 0.8;
+// }
 
-.project-sec-header {
-  font-family: $sans-serif;
-}
+// #treehouseDiv {
+//   background-image: url("images/badges-img.jpg");
+//   background-position: center;
+//   background-size: cover;
+//   background-repeat: no-repeat;
+//   opacity: 0.8;
+// }
+
+// .project-sec-header {
+//   font-family: $sans-serif;
+// }

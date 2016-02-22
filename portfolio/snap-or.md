@@ -5,7 +5,7 @@ permalink: /portfolio/snap-oregon/
 comments: true
 ---
 
-<div class='add-pad'>
+<div>
 	<p><a class='res-link' href='http://snaporegon.herokuapp.com/' target='blank'>Launch snapOR website</a> or <a class='res-link' href='https://github.com/snap-oregon/snapOR' target='blank'>view repo on GitHub.</a></p>
 
 	<h2 class='project-sec-header'>About snapOR</h2>
@@ -24,19 +24,4 @@ comments: true
 	<p>We also concentrated too much on form, rather than function, in the beginning stages of our code. We implemented Foundation almost immediately, but this later caused AJAX issues between the Foundation modal windows and our Backbone code. It took a lot of troubleshooting to figure out that our AJAX requests weren't working as designed because of the Foundation modals. The solution seems to be ripping out Foundation, and rebuilding the website with just HTML/Jade and Backbone, then adding Foundation back in if I want to use it for styling. However, I found this solution too late to be useful, and we decided to use the jQuery toggling for the final presentation of our website.</p>
 
 	<p>I learned that I need to focus on the functionality and basic structure of my website, before moving on to the styling of it. I also learned that communication is so important throughout a project, and collaboration - or lack thereof - can be harder to work around than any challenges with code.</p>
-
-	<div class='project-grid'>
-		<div class='photo-space'>
-			<img class='snap-screenshot left' src='/images/snapor-homepage.png'>
-		</div>
-		<div class='photo-space'>
-			<img class='snap-screenshot right' src='/images/bandon-state-park.png'>
-		</div>
-	</div>
-
-	<!-- <div class='project-grid'>
-		<div class='photo-space'>
-			<img class='snap-screenshot' src='/images/oswald-west.png'>
-		</div>
-	</div> -->
 </div>

@@ -5,7 +5,7 @@ permalink: /portfolio/sudoku/
 comments: true
 ---
 
-<div class='add-pad'>
+<div>
 	<p><a class='res-link' href='http://codepen.io/angelariggs/full/JdpqGW/' target='blank'>Launch Sudoku on CodePen</a></p>
 
 	<div id='sudoku-embed'>

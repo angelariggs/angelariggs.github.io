@@ -18,11 +18,9 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700|Domine|Vast+Shadow|Playfair+Display:400,400italic);
-$serif: "Domine", serif;  
-$sans-serif: "Montserrat", sans-serif;
-$display: "Vast Shadow", cursive;
-$quote-font: "Playfair Display", serif;
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700|Playfair+Display:400,400italic,700italic,700);
+$sans-serif: "Roboto", sans-serif;
+$display: "Playfair Display", serif;
 
 // Mobile breakpoints
 @mixin mobile {

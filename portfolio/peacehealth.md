@@ -5,7 +5,7 @@ permalink: /portfolio/peacehealth/
 comments: true
 ---
 
-<div class='add-pad'>
+<div>
 	<!-- <p><a class='res-link' href='http://peacehealth.org/' target='blank'>Launch PeaceHealth website</a></p> -->
 	<br />
 
