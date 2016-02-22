@@ -354,14 +354,9 @@ h2.about-sec-title {
 /**************/
 /* BASE RULES */
 /**************/
-html {
-  background-color: #333;
-}
-
 body {
   line-height: 1.5;
   font-size: 18px;
-  background-color: white;
 }
 
 a {
