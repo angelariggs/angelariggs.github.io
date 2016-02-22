@@ -6,7 +6,7 @@ permalink: /resume/
 
 <div>
 	<p>Hello! You can view my resume below, or click here to download a PDF version:
-<a class='res-link' href="/angela-riggs-res.pdf" target="_blank">Angela's Resume</a></p>
+<a class='res-link' href="/angela-riggs-resume.pdf" target="_blank">Angela's Resume</a></p>
 </div>
 
 <div>
