@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<div class='add-pad'> 
+<div class='add-pad'>
 
 <p>Hello! I'm a developer in Portland, OR. As a developer, I love finding opportunities for collaboration and creative problem-solving. I take on coding with determination and humor, always seeking to learn new things and share knowledge with others. My experience as a teacher has taught me to be reflective about my skills and goals, and honed my ability to communicate clearly and effectively. I bring a positive energy to the workplace, and truly enjoy the challenges and rewards of coding.</p>
 

@@ -4,6 +4,7 @@
 
 .posts > .post {
   padding-bottom: 2em;
+  // padding-bottom: 6em;
 }
 
 .posts > .post:last-child {
@@ -17,13 +18,18 @@ article.post {
 
   h1.post-title {
     margin-bottom: 0.5em;
+    // margin-bottom: 2em;
 
     a {
       font-family: $display;
       font-size: 25px;
       color: $coral;
     }
-  } 
+  }
+}
+
+.entry h1 {
+  font-family: $display;
 }
 
 .entry p {
@@ -53,6 +59,7 @@ article.post {
 h1.blog-title {
   font-family: $display;
   color: $coral;
+  // color: pink;
   font-size: 22px;
   margin-top: 2em;
   margin-bottom: 1em;
