@@ -213,6 +213,10 @@ article.post h1.post-title a {
   color: #FF7F50;
 }
 
+.entry h1 {
+  font-family: "Playfair Display", serif;
+}
+
 .entry p {
   font-family: "Roboto", sans-serif;
   padding-bottom: 0.75em;
