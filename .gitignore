@@ -2,3 +2,4 @@ node_modules
 backstop_data
 _sass/_test-overrides.scss
 _site/tests/
+npm-debug.log
