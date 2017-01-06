@@ -13,15 +13,15 @@ permalink: /resume/
 	<h1 class="res-sec-title">Development Experience</h1>
 	<h2 class="res-h2">QA Engineer</h2>
 	<h3 class="res-h3">Metal Toad • March 2016 - Present</h3>
-	<p>As the QA engineer for my team, I have ownership over quality assurance for more than 20 client projects. My work ranges from general QA of feature work, to visual regression and accessibility testing, to creating and implementing test plans for feature improvements.</p>
+	<p>As the QA engineer for my team, I have ownership over quality assurance for more than 20 projects. My work ranges from general QA of feature work, to visual regression and accessibility testing, to setting up projects with continuous integration. In addition to testing developers' work against stated acceptance criteria, I'm also an advocate for unspoken client and user experiences. Examples include recommending a drag and drop ordering functionality over a weighted ordering system, or creating and implementing a test plan to recommend iterative feature improvements. I constantly strive to improve our process, with the end goal of improving our quality. I created a cleaner workflow in Jira, so tickets could be attended to and deployed quicker. I helped Metal Toad move toward continuous integration by setting up projects on Atlassian's Bamboo product.</p>
 
 	<h2 class="res-h2">Developer Intern</h2>
 	<h3 class="res-h3">Metal Toad • September 2015 - March 2016</h3>
-	<p>Contributed development work for Drupal 7, Drupal 8, and Swift projects; collaborated with intern cohort to create Drupal update script for internal use with Node and AWS; created detailed admin documentation for clients’ use and training; practiced Agile methodologies for project-planning and implementation; strengthened company QA process by comparing and analyzing project workflows</p>
+	<p>During my internship, I collaborated with my intern cohort to create a Drupal update script for internal use with Node and AWS Lambda. I contributed development work for Drupal 7, Drupal 8, and Swift projects; and created detailed admin documentation for clients’ use and training. I gained experience with Agile methodologies, and strengthened our company QA process by comparing and analyzing project workflows.</p>
 
 	<h2 class="res-h2">Front-End Developer</h2>
 	<h3 class="res-h3">Hack Oregon - Crop Compass • September 2015 - October 2015</h3>
-	<p>Created interactive charts and graphs using AngularJS, pulling data from custom APIs created by the back-end developers on the Crop Compass team</p>
+	<p>For this project on agriculture in Oregon, I created interactive charts and graphs using AngularJS, pulling data from custom APIs created by the back-end developers on the Crop Compass team.</p>
 </div>
 
 <div>
@@ -55,14 +55,14 @@ permalink: /resume/
 		<div class="skill-column">
 			<p>BackstopJS</p>
 			<p>PHPUnit</p>
-			<p>Agile</p>
+			<p>Codeception</p>
+			<p>Continuous Integration</p>
 		</div>
 
 		<div class="skill-column">
-			<p>Collaboration</p>
-			<p>Communication</p>
-			<p>Enthusiasm</p>
-			<p>Optimism</p>
+			<p>Protractor</p>
+			<p>Agile</p>
+			<p>Jira</p>
 		</div>
 	</div>
 </div>
