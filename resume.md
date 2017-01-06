@@ -17,7 +17,7 @@ permalink: /resume/
 
 	<h2 class="res-h2">Developer Intern</h2>
 	<h3 class="res-h3">Metal Toad • September 2015 - March 2016</h3>
-	<p>During my internship, I collaborated with my intern cohort to create a Drupal update script for internal use with Node and AWS Lambda. I contributed development work for Drupal 7, Drupal 8, and Swift projects; and created detailed admin documentation for clients’ use and training. I gained experience with Agile methodologies, and strengthened our company QA process by comparing and analyzing project workflows.</p>
+	<p>During my internship at Metal Toad, I went well above and beyond the role of a typical intern. Some of my accomplishments included development work for Drupal 7, Drupal 8, and Swift projects; creation of a Drupal update script for internal use with Node and AWS (collaborative effort); several pieces of detailed admin documentation for clients’ use and training; immersion in Agile methodologies for planning and implementation; and strengthening the Metal Toad QA process by comparing and analyzing project workflows. (Yes, I got the job!)</p>
 
 	<h2 class="res-h2">Front-End Developer</h2>
 	<h3 class="res-h3">Hack Oregon - Crop Compass • September 2015 - October 2015</h3>
