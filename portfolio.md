@@ -3,7 +3,7 @@ layout: page
 title: Portfolio
 permalink: /portfolio/
 ---
-<div>
+<!-- <div>
   <div class='portfolio-grid'>
     <a class='project' href='/portfolio/osu'>
       <h2 class='project-title'>OSU-NEP</h2>
@@ -26,3 +26,4 @@ permalink: /portfolio/
   	</a>
   </div>
 </div>
+ -->
