@@ -1,5 +1,7 @@
 node_modules
 backstop_data
 _sass/_test-overrides.scss
-_site/*
+_site/
 npm-debug.log
+.sass-cache
+.jekyll-metadata
