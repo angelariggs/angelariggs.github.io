@@ -2,6 +2,7 @@
 layout: post
 title:  Starting Down the Dev Path
 date:   2015-08-24
+permalink: /blog/starting-down-the-dev-path
 comments: true
 ---
 

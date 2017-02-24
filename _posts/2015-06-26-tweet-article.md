@@ -2,6 +2,7 @@
 layout: post
 title:  "Tweeting for Community & Understanding"
 date:   2015-06-26
+permalink: /blog/tweeting-for-community-and-understanding
 comments: true
 ---
 

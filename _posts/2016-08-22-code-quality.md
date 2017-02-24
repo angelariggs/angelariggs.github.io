@@ -2,6 +2,7 @@
 layout: post
 title:  "Code Quality"
 date:   2016-08-22
+permalink: /blog/code-quality
 comments: true
 ---
 
