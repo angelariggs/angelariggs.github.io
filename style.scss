@@ -36,13 +36,13 @@ a {
   &:hover {
     text-decoration: underline;
   }
-  // &:hover, &:active {
+  /*// &:hover, &:active {
   //   color: $white;
   //   background-color: $darkGray;
-  // }
+  // }*/
 }
 
-// // Nicolas Gallagher's micro clearfix hack
+/*// // Nicolas Gallagher's micro clearfix hack
 // // http://nicolasgallagher.com/micro-clearfix-hack/
 // .clearfix:before,
 // .clearfix:after {
@@ -52,34 +52,38 @@ a {
 
 // .clearfix:after {
 //     clear: both;
-// }
+// }*/
 
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
 
-  a {
-    padding-top: 10px;
-  }
+a {
+  padding-top: 10px;
+}
 
-  .comments {
-    margin-top: 10px;
-    font-family: $sans-serif;
-  }
+.comments {
+  margin-top: 10px;
+  font-family: $sans-serif;
+}
 
 .wrapper-footer {
   border-top: 1px solid $darkGray;
   border-bottom: 1px solid $darkGray;
   background-color: $darkGray;
-  // position: fixed;
+/*  // position: fixed;
   // bottom: 0;
   // z-index: 2;
-  // width: 100%;
+  // width: 100%;*/
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+.entry ul li {
+  font-family: $sans-serif
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
