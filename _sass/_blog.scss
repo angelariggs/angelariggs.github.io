@@ -14,40 +14,17 @@
 
 // List of posts on the blog landing page
 article.post {
-  margin-left: 4em;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1em;
 
   h1.post-title {
     margin-bottom: 0.5em;
-    // margin-bottom: 2em;
-
-    a {
-      font-family: $display;
-      font-size: 25px;
-      color: $coral;
-    }
   }
-}
-
-.entry h1 {
-  font-family: $display;
 }
 
 .entry p {
-  font-family: $sans-serif;
   padding-bottom: 0.75em;
-  max-width: 80%;
-  color: $darkGray;
-
-  a {
-    color: $coral;
-    &:hover {
-      text-decoration: underline;
-    }
-  }
-}
-
-.entry ol, .entry ul {
-  font-family: $sans-serif;
 }
 
 .read-more {
@@ -61,13 +38,8 @@ article.post {
 //
 
 h1.blog-title {
-  font-family: $display;
-  color: $coral;
-  // color: pink;
-  font-size: 22px;
   margin-top: 2em;
   margin-bottom: 1em;
-
 }
 
 .date {

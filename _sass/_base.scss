@@ -1,0 +1,48 @@
+h1 {
+  font-family: $display;
+  font-weight: 700;
+  margin-bottom: 0.7em;
+  font-size: 36px;
+  color: $coral;
+  a:hover {
+    text-decoration: underline;
+  }
+}
+
+h2 {
+  font-family: $display;
+  font-size: 25px;
+  font-weight: 700;
+  color: $darkGray;
+}
+
+h3 {
+  font-family: $display;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: italic;
+  color: $darkGray;
+}
+
+p {
+  font-family: $sans-serif;
+  line-height: 1.75;
+  color: $darkGray;
+}
+
+a {
+  color: $coral;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+ol, ul {
+  font-family: $sans-serif;
+}
+
+.page {
+  margin: 0 auto;
+  padding: 0 1em;
+  max-width: 1000px;
+}
