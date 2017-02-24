@@ -46,6 +46,10 @@ article.post {
   }
 }
 
+.entry ol, .entry ul {
+  font-family: $sans-serif;
+}
+
 .read-more {
   font-family: $display;
   font-style: italic;
