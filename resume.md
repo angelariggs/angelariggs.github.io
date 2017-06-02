@@ -39,29 +39,29 @@ permalink: /resume/
 	<h1 class="res-sec-title">Skills</h1>
 	<div class="skill-list">
 		<div class="skill-column">
-			<p>Drupal 8</p>
-			<p>Drupal 7</p>
+			<p>Web Development</p>
+			<p>Software Quality Assurance</p>
 			<p>JavaScript</p>
 			<p>PHP</p>
 		</div>
 
 		<div class="skill-column">
-			<p>Git</p>
-			<p>Drush</p>
+			<p>Git/GitHub</p>
+			<p>Continuous Integration</p>
 			<p>SQL</p>
 			<p>Capistrano</p>
 		</div>
 
 		<div class="skill-column">
-			<p>BackstopJS</p>
-			<p>PHPUnit</p>
-			<p>Codeception</p>
-			<p>Continuous Integration</p>
+			<p>Sass</p>
+			<p>Agile Scrum</p>
+			<p>Testing</p>
+			<p>PhpUnit</p>
 		</div>
 
 		<div class="skill-column">
 			<p>Protractor</p>
-			<p>Agile</p>
+			<p>Codeception</p>
 			<p>Jira</p>
 		</div>
 	</div>
@@ -80,22 +80,17 @@ permalink: /resume/
 </div>
 
 <div>
-	<h1 class="res-sec-title">Publications</h1>
+	<h1 class="res-sec-title">Publications & Talks</h1>
 
-	<h2 class="res-h2">We Are Toads</h2>
-	<h3 class="res-h3"><a href="https://www.metaltoad.com/blog/we-are-toads-0">https://www.metaltoad.com/blog/we-are-toads-0</a></h3>
+	<h2 class="res-h2">Accept Acceptance Testing (No Exceptions)</h2>
+	<h3 class="res-h3"><a href="https://speakerdeck.com/angelariggs/accept-acceptance-testing-no-exceptions">https://speakerdeck.com/angelariggs/accept-acceptance-testing-no-exceptions</a></h3>
+
+	<h2 class="res-h2">Monitorama!</h2>
+	<h3 class="res-h3"><a href="https://www.metaltoad.com/blog/monitorama">https://www.metaltoad.com/blog/monitorama</a></h3>
 
 	<h2 class="res-h2">Visual Regression Testing with BackstopJS</h2>
+	<h3>This blog has been recommended as a tutorial by the creator of <a href="https://www.npmjs.com/package/backstopjs">BackstopJS!</a></h3>
 	<h3 class="res-h3"><a href="https://www.metaltoad.com/blog/visual-regression-testing-backstopjs">https://www.metaltoad.com/blog/visual-regression-testing-backstopjs</a></h3>
-
-	<h2 class="res-h2">Code Quality</h2>
-	<h3 class="res-h3"><a href="https://www.metaltoad.com/blog/code-quality">https://www.metaltoad.com/blog/code-quality</a></h3>
-
-	<h2 class="res-h2">Creating Culture</h2>
-	<h3 class="res-h3"><a href="https://www.metaltoad.com/blog/creating-culture">https://www.metaltoad.com/blog/creating-culture</a></h3>
-
-	<h2 class="res-h2">A Knot of Toads</h2>
-	<h3 class="res-h3"><a href="http://www.metaltoad.com/blog/interns-instantaneous-toadness-internship/">http://www.metaltoad.com/blog/interns-instantaneous-toadness-internship/</a></h3>
 
 	<h2 class="res-h2">Mathys + Potestio: Want to be a Developer? Where to Start, and What to Expect</h2>
 	<h3 class="res-h3"><a href="http://mathys-potestio.com/want-to-be-a-developer-where-to-start-and-what-to-expect/">http://mathys-potestio.com/want-to-be-a-developer-where-to-start-and-what-to-expect/</a></h3>
