@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blog/
+permalink: /blog
 ---
 <div>
 	<div class="posts">

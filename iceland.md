@@ -1,7 +1,7 @@
 ---
 layout: page
 title: null
-permalink: /iceland/
+permalink: /iceland
 ---
 <div class='add-pad'>
 
