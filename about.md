@@ -5,7 +5,7 @@ permalink: /about
 ---
 <div class='add-pad'>
 
-<p>Hello! I'm a programmer in Portland, OR. As a developer and QA engineer, I work with determination and a positive energy. I strive to deliver a quality product that meets our clients' needs, and that our team can truly be proud of. My goal is to always continue learning and exploring new skills, and I love being a part of the knowledge-sharing and collaboration that helps make the tech community a better place. </p>
+<p>I work with determination, a positive energy, and a willingness to learn and improve. As a QA engineer, I hold myself and my team to a high standard. I believe our best work comes when we consider the entire impact of our features, and I continue to advocate for improved admin and user experiences. I focus on finding a balance between client and team needs, ensuring we each have what we need to be successful. Combining curiosity and attention to detail with a team-first attitude, I focus on delivering quality products that both clients and our team can be proud of.</p>
 
 <p>When I'm not playing with the interwebs, I enjoy exploring and <a class='res-link' href="https://angelariggs.exposure.co/" target="_blank">photographing</a> the Pacific Northwest, finding new sci-fi authors to read, and the occasional Netflix <a class='res-link' href="https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)" target="_blank">binge</a>.</p>
 
