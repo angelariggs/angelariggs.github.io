@@ -39,24 +39,23 @@ permalink: /resume
 	<h1 class="res-sec-title">Skills</h1>
 	<div class="skill-list">
 		<div class="skill-column">
-			<p>Web Development</p>
 			<p>Software Quality Assurance</p>
-			<p>JavaScript</p>
-			<p>PHP</p>
+			<p>Continuous Integration</p>
+			<p>Continuous Deployment</p>
 		</div>
 
 		<div class="skill-column">
 			<p>Git/GitHub</p>
-			<p>Continuous Integration</p>
 			<p>SQL</p>
 			<p>Capistrano</p>
+			<p>API Testing</p>
 		</div>
 
 		<div class="skill-column">
-			<p>Sass</p>
+			<p>Regression Testing</p>
 			<p>Agile Scrum</p>
-			<p>Testing</p>
-			<p>PhpUnit</p>
+			<p>Accessibility Testing</p>
+			<p>iOS/Android UI Testing</p>
 		</div>
 
 		<div class="skill-column">
