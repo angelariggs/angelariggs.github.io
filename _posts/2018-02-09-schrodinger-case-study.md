@@ -2,7 +2,7 @@
 layout: post
 title:  "Case Study: Schrodinger"
 date:   2018-02-09
-permalink: /case-studies/schrodinger-testing-case-study
+permalink: /blog/schrodinger-testing-case-study
 comments: true
 ---
 
