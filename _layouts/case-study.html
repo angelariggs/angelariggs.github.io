@@ -1,0 +1,19 @@
+---
+layout: navpages
+---
+
+<div class='add-pad'>
+	<article class="post">
+	  <h1 class='blog-title'>{{ page.title }}</h1>
+
+	  <div class="entry">
+	    {{ content }}
+	  </div>
+
+	  <div class="date">
+	    Written on {{ page.date | date: "%B %e, %Y" }}
+	  </div>
+
+	  {% include disqus.html %}
+	</article>
+</div>
