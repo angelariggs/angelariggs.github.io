@@ -6,7 +6,7 @@ permalink: /blog/many-hats-quality-assurance-engineers-devops
 comments: true
 ---
 
-*Note: This is the second post in a series about the different roles I end up carrying out as a Quality Assurance Engineer. You can check out the first post [here](http://angelariggs.github.io/blog/many-hats-quality-assurance-engineers-tester, where I talk about wearing my Tester hat!*
+*Note: This is the second post in a series about the different roles I end up carrying out as a Quality Assurance Engineer. You can check out the first post [here](http://angelariggs.github.io/blog/many-hats-quality-assurance-engineers-tester), where I talk about wearing my Tester hat!*
 
 So, what does my DevOps role look like? Let’s start with defining it! There are [many](https://newrelic.com/devops/what-is-devops) [lengthier](https://www.atlassian.com/devops) [explanations](https://jvns.ca/blog/2016/10/16/whats-devops/), but this is my TL;DR version: DevOps is a set of practices and processes used to promote collaboration between different roles in order to create sustainable methods for creating, deploying, and maintaining code. (Small point here: it’s technically not a role, even though the term is commonly used that way, e.g. DevOps Engineer).
 

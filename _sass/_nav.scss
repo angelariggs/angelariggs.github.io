@@ -6,6 +6,7 @@ nav ul {
 
     a {
       font-family: $display;
+      color: $darkGray;
     }
   }
 }
@@ -42,7 +43,7 @@ nav ul {
 .site-info {
   float: left;
   margin-left: 3em;
-  color: black;
+  color: $darkGray;
 
   @include mobile {
     float: none;
@@ -59,7 +60,7 @@ nav ul {
 }
 
 h1.site-name a {
-  color: black;
+  color: $darkGray;
 }
 
 nav {
@@ -80,7 +81,7 @@ nav {
     font-size: 22px;
     font-weight: 700;
     font-style: italic;
-    color: black;
+    color: $darkGray;
     margin: 0 0.5em;
     text-align: right;
     &:hover, &:active {

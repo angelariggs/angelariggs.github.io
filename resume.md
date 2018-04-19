@@ -40,8 +40,8 @@ permalink: /resume
 	<div class="skill-list">
 		<div class="skill-column">
 			<p>Software Quality Assurance</p>
-			<p>Continuous Integration</p>
-			<p>Continuous Deployment</p>
+			<p>Continuous Delivery</p>
+			<p>Acceptance Testing</p>
 		</div>
 
 		<div class="skill-column">
