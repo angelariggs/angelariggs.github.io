@@ -13,15 +13,18 @@ permalink: /resume
 	<h1 class="res-sec-title">Development Experience</h1>
 	<h2 class="res-h2">QA Engineer</h2>
 	<h3 class="res-h3">Metal Toad • March 2016 - Present</h3>
-	<p>As the QA engineer for my team, I own quality assurance for more than 20 projects, ranging from general QA of feature work, to visual regression and accessibility testing, to setting up and implementing continuous integration. In addition to testing developers' work against the stated acceptance criteria, I am also an advocate for client and user experiences. Examples include recommending a drag and drop ordering functionality over a weighted ordering system, or creating and implementing a test plan to recommend iterative feature improvements. I constantly strive to improve our process, with an eye to always improving our quality. I created a cleaner workflow in Jira, so tickets could be attended to and deployed more quickly, and helped Metal Toad move toward continuous integration by setting up projects on Atlassian's Bamboo product.</p>
+	<p>I own quality assurance for three Agile teams. My responsibilities include accessibility testing, technical documentation, requirements reviews, and overseeing continuous delivery practices. During feature testing of project work, I advocate for improved client and user experiences, and balance client needs against various quality attributes. I also focus on DX (developer experience) by creating flexible processes and workflows for my teams and our engineering department.</p>
 
 	<h2 class="res-h2">Developer Intern</h2>
 	<h3 class="res-h3">Metal Toad • September 2015 - March 2016</h3>
-	<p>During my internship at Metal Toad, I went well above and beyond the role of a typical intern. Some of my accomplishments included development work for Drupal 7, Drupal 8, and Swift projects; creation of a Drupal update script for internal use with Node and AWS (collaborative effort); several pieces of detailed admin documentation for clients’ use and training; immersion in Agile methodologies for project planning and implementation; and strengthening the Metal Toad QA process by comparing and analyzing project workflows. (Yes, I got the job!)</p>
-
-	<h2 class="res-h2">Front-End Developer</h2>
-	<h3 class="res-h3">Hack Oregon - Crop Compass • September 2015 - October 2015</h3>
-	<p>For this project on agriculture in Oregon, I created interactive charts and graphs using AngularJS, pulling data from custom APIs created by the back-end developers on the Crop Compass team.</p>
+	<p>During my internship at Metal Toad, I went well above and beyond the role of a typical intern. My accomplishments included:</p>
+		<ul>
+			<li>Development work for Drupal 7, Drupal 8, and Swift projects</li>
+			<li>Creating a security update script for internal use with Node and AWS</li>
+			<li>Detailed admin documentation for clients’ use and training</li>
+			<li>Strengthening the Metal Toad QA process by comparing and analyzing project workflows</li>
+		</ul>
+		<p>(Yes, I got the job!)</p>
 </div>
 
 <div>
@@ -39,60 +42,57 @@ permalink: /resume
 	<h1 class="res-sec-title">Skills</h1>
 	<div class="skill-list">
 		<div class="skill-column">
-			<p>Software Quality Assurance</p>
-			<p>Continuous Delivery</p>
 			<p>Acceptance Testing</p>
+			<p>Continuous Delivery</p>
+			<p>Software Quality Assurance</p>
 		</div>
 
 		<div class="skill-column">
 			<p>Git/GitHub</p>
-			<p>SQL</p>
-			<p>Capistrano</p>
-			<p>API Testing</p>
-		</div>
-
-		<div class="skill-column">
+			<p>A11y Testing</p>
 			<p>Regression Testing</p>
-			<p>Agile Scrum</p>
-			<p>Accessibility Testing</p>
-			<p>iOS/Android UI Testing</p>
 		</div>
 
 		<div class="skill-column">
-			<p>Protractor</p>
-			<p>Codeception</p>
-			<p>Jira</p>
+			<p>Bash</p>
+			<p>Agile Scrum</p>
+			<p>Change Management</p>
+		</div>
+
+		<div class="skill-column">
+			<p>AWS</p>
+			<p>Behavioral Testing</p>
+			<p>iOS/Android Testing</p>
 		</div>
 	</div>
 </div>
 
 <div>
 	<h1 class="res-sec-title">Additional Work Experience</h1>
+	<h2 class="res-h2">Scrum Master</h2>
+	<h3 class="res-h3">Metal Toad • August 2017 - September 2017</h3>
+	<p>In addition to my role as a QA Engineer, I took on the role of Scrum Master for my team while we were transitioning between Agile Project Managers. My responsibilities included:</p>
+	<ul>
+		<li>Ensuring projects and people have what they need to be successful</li>
+		<li>Removing development impediments in order to increase productivity and ship completed work</li>
+		<li>Coordinating between teams to recognize, reduce, and solve dependencies</li>
+		<li>Facilitating communication between product owners and developer team</li>
+	</ul>
+
 	<h2 class="res-h2">Lead Teacher</h2>
 	<h3 class="res-h3">Peninsula Children’s Learning Center • August 2013 - May 2015</h3>
 	<p>Created and taught curriculum for student cohort age 3-5; communicated with parents, ranging from daily summaries to planning short- and long-term goals for their children’s progress; focused on building social-emotional skills and academic development through play-based learning.</p>
 	<p>Additional responsibilities included working with administration team to implement practices in alignment with Oregon state standards; set goals for changing or strengthening current practices according to a rigorous timeline; worked to document all standards once they met with state’s requirements</p>
-
-	<h2 class="res-h2">Walt Disney Travel Company</h2>
-	<h3 class="res-h3">Disney Reservation Center • August 2005 - June 2013</h3>
-	<p>Collaborated with Guests in both sales and support capacities; communicated & engaged with Guests through phone conversations, LiveChat messaging, and Kana email services; support role included creative problem-solving and independent handling of challenges and escalations</p>
 </div>
 
 <div>
 	<h1 class="res-sec-title">Publications & Talks</h1>
 
+	<h2 class="res-h2">BackstopJS Part Deux: Javascript Config & Makefile</h2>
+	<h3 class="res-h3"><a href="https://www.metaltoad.com/blog/backstopjs-part-deux-javascript-config-and-makefile">https://www.metaltoad.com/blog/backstopjs-part-deux-javascript-config-and-makefile</a></h3>
+
 	<h2 class="res-h2">Accept Acceptance Testing (No Exceptions)</h2>
 	<h3 class="res-h3"><a href="https://speakerdeck.com/angelariggs/accept-acceptance-testing-no-exceptions">https://speakerdeck.com/angelariggs/accept-acceptance-testing-no-exceptions</a></h3>
-
-	<h2 class="res-h2">Monitorama!</h2>
-	<h3 class="res-h3"><a href="https://www.metaltoad.com/blog/monitorama">https://www.metaltoad.com/blog/monitorama</a></h3>
-
-	<h2 class="res-h2">Visual Regression Testing with BackstopJS</h2>
-	<h3>This blog has been recommended as a tutorial by the creator of <a href="https://www.npmjs.com/package/backstopjs">BackstopJS!</a></h3>
-	<h3 class="res-h3"><a href="https://www.metaltoad.com/blog/visual-regression-testing-backstopjs">https://www.metaltoad.com/blog/visual-regression-testing-backstopjs</a></h3>
-
-	<h2 class="res-h2">Mathys + Potestio: Want to be a Developer? Where to Start, and What to Expect</h2>
-	<h3 class="res-h3"><a href="http://mathys-potestio.com/want-to-be-a-developer-where-to-start-and-what-to-expect/">http://mathys-potestio.com/want-to-be-a-developer-where-to-start-and-what-to-expect/</a></h3>
 
 	<h2 class="res-h2"><span>Mathys + Potestio:</span> Tweeting for Understanding & Community</h2>
 	<h3 class="res-h3"><a href="http://mathys-potestio.com/a-developer-tweets-to-build-community-and-understanding/">http://mathys-potestio.com/a-developer-tweets-to-build-community-and-understanding/</a></h3>

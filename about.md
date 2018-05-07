@@ -5,9 +5,11 @@ permalink: /about
 ---
 <div class='add-pad'>
 
-<p>I work with determination, a positive energy, and a willingness to learn and improve. As a QA engineer, I hold myself and my team to a high standard. I believe our best work comes when we consider the entire impact of our features, and I continue to advocate for improved admin and user experiences. I focus on finding a balance between client and team needs, ensuring we each have what we need to be successful. Combining curiosity and attention to detail with a team-first attitude, I focus on delivering quality products that both clients and our team can be proud of.</p>
+<p>As a QA Engineer, my role is at the intersection of Testing, DevOps, Architect, and Scrum Master. I approach my work with determination and a positive energy, holding myself and my team to a high standard. I have an enthusiasm for learning and advancing, and appreciate that my field calls on my curiosity and attention to detail. I understand the importance of acknowledging and balancing competing needs to ensure individual, team, and project success.</p>
 
-<p>When I'm not testing or tracking down bugs, I enjoy exploring and <a class='res-link' href="https://angelariggs.exposure.co/" target="_blank">photographing</a> the Pacific Northwest, finding new sci-fi authors to read, and the occasional Netflix <a class='res-link' href="https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series)" target="_blank">binge</a>.</p>
+<p>I believe in people over process, but also enjoy creating useful foundational processes that promote clear understandings around development workflow. I take pride in both my technical and interpersonal skills, and work hard to be a leader who offers empathy, support, and thoughtful problem-solving to my team and my company.</p>
+
+<p>Outside of work, I love discovering new sci-fi books, enthusiastic karaoke nights (Motown Philly is one of my top three go-to songs), and serious debates on what exactly can be defined as a sandwich.</p>
 
 <h2 class='about-sec-title'>Contact me</h2>
 
