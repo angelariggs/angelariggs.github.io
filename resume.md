@@ -88,13 +88,20 @@ permalink: /resume
 <div>
 	<h1 class="res-sec-title">Publications & Talks</h1>
 
+	<h2 class="res-h2">Career & Technical Panel</h2>
+	<h3 class="res-h3">Women Who Code Portland</h3>
+
+	<h2 class="res-h2">Accept Acceptance Testing (No Exceptions)</h2>
+	<h3 class="res-h3">Typescript PDX</h3>
+	<h3 class="res-h3"><a href="https://speakerdeck.com/angelariggs/accept-acceptance-testing-no-exceptions">https://speakerdeck.com/angelariggs/accept-acceptance-testing-no-exceptions</a></h3>
+
+	<h2 class="res-h2">The Many Hats of Quality Assurance Engineers</h2>
+	<h3 class="res-h3"><a href="https://www.metaltoad.com/blog/many-hats-quality-assurance-engineers-tester">https://www.metaltoad.com/blog/many-hats-quality-assurance-engineers-tester</a></h3>
+
 	<h2 class="res-h2">BackstopJS Part Deux: Javascript Config & Makefile</h2>
 	<h3 class="res-h3"><a href="https://www.metaltoad.com/blog/backstopjs-part-deux-javascript-config-and-makefile">https://www.metaltoad.com/blog/backstopjs-part-deux-javascript-config-and-makefile</a></h3>
 
-	<h2 class="res-h2">Accept Acceptance Testing (No Exceptions)</h2>
-	<h3 class="res-h3"><a href="https://speakerdeck.com/angelariggs/accept-acceptance-testing-no-exceptions">https://speakerdeck.com/angelariggs/accept-acceptance-testing-no-exceptions</a></h3>
-
-	<h2 class="res-h2"><span>Mathys + Potestio:</span> Tweeting for Understanding & Community</h2>
+	<h2 class="res-h2">Tweeting for Understanding & Community</h2>
 	<h3 class="res-h3"><a href="http://mathys-potestio.com/a-developer-tweets-to-build-community-and-understanding/">http://mathys-potestio.com/a-developer-tweets-to-build-community-and-understanding/</a></h3>
 </div>
 
