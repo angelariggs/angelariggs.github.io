@@ -87,8 +87,11 @@ sass:
   sass_dir: _sass
 
 # Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem.
+
+plugins_dir:
+  - jekyll-feed
 
 # Exclude these files from your production _site
 exclude:
