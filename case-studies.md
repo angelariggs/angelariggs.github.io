@@ -4,7 +4,7 @@ permalink: /case-studies/
 ---
 <div>
 	<div class="posts">
-	  {% for case-study in site.case-studies %}
+	  {% for post in site.tags.case-study %}
 	    <article class="post">
 
 	      <h1 class='post-title'><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
