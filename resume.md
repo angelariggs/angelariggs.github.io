@@ -61,7 +61,7 @@ permalink: /resume
 
 		<div class="skill-column">
 			<p>AWS</p>
-			<p>Behavioral Testing</p>
+			<p>Automation</p>
 			<p>iOS/Android Testing</p>
 		</div>
 	</div>
