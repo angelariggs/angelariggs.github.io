@@ -10,7 +10,7 @@ permalink: /resume
 </div>
 
 <div>
-	<h1 class="res-sec-title">Development Experience</h1>
+	<h1 class="res-sec-title">Experience</h1>
 	<h2 class="res-h2">QA Engineer</h2>
 	<h3 class="res-h3">Metal Toad • March 2016 - Present</h3>
 	<p>I own quality assurance for three Agile teams. My responsibilities include accessibility testing, technical documentation, requirements reviews, and overseeing continuous delivery practices. During feature testing of project work, I advocate for improved client and user experiences, and balance client needs against various quality attributes. I also focus on DX (developer experience) by creating flexible processes and workflows for my teams and our engineering department.</p>
@@ -82,7 +82,7 @@ permalink: /resume
 	<h2 class="res-h2">Lead Teacher</h2>
 	<h3 class="res-h3">Peninsula Children’s Learning Center • August 2013 - May 2015</h3>
 	<p>Created and taught curriculum for student cohort age 3-5; communicated with parents, ranging from daily summaries to planning short- and long-term goals for their children’s progress; focused on building social-emotional skills and academic development through play-based learning.</p>
-	<p>Additional responsibilities included working with administration team to implement practices in alignment with Oregon state standards; set goals for changing or strengthening current practices according to a rigorous timeline; worked to document all standards once they met with state’s requirements</p>
+	<p>Additional responsibilities included working with administration team to implement practices in alignment with Oregon state standards; set goals for changing or strengthening current practices according to a rigorous timeline; worked to document all standards once they met with state’s requirements.</p>
 </div>
 
 <div>
@@ -106,9 +106,7 @@ permalink: /resume
 </div>
 
 <div>
-	<h1 class="res-sec-title" id="internet-pres">Internet Presence</h1>
-	<h2 class="res-h2">GitHub:</h2><a href="http://github.com/angelariggs" class="internet-pres-link">http://github.com/angelariggs</a>
-	<h2 class="res-h2">Twitter:</h2><a href="http://twitter.com/angelariggs_" class="internet-pres-link">http://twitter.com/angelariggs_</a>
-	<h2 class="res-h2">LinkedIn:</h2><a href="https://www.linkedin.com/in/angelariggs" class="internet-pres-link">https://www.linkedin.com/in/angelariggs</a>
-	<h2 class="res-h2">Photography:</h2><a href="http://angelariggs.exposure.co" class="internet-pres-link">http://angelariggs.exposure.co</a>
+	<h1 class="res-sec-title" id="internet-pres">Quality Assurance Project Repos</h1>
+	<h2 class="res-h2">Visual Regression Testing:</h2><a href="https://github.com/angelariggs/visual-regression" class="internet-pres-link">https://github.com/angelariggs/visual-regression</a>
+	<h2 class="res-h2">Accessibility Testing:</h2><a href="https://github.com/angelariggs/pa11y-setup/tree/master/config" class="internet-pres-link">https://github.com/angelariggs/pa11y-setup/tree/master/config</a>
 </div>
