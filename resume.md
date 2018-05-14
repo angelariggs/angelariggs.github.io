@@ -31,7 +31,7 @@ permalink: /resume
 	<h1 class="res-sec-title">Education</h1>
 	<h2 class="res-h2">Portland Code School</h2>
 	<h3 class="res-h3">Full-Stack JavaScript Immersion • May 2015 - July 2015</h3>
-	<p>In an intensive 3-month program, I learned to build full-stack JavaScript-based web apps. Using pair programming with independent and group projects, I rapidly built a solid development foundation.</p>
+	<p>In an intensive 3-month program, I learned to build full-stack JavaScript-based web apps. Using independent work along with pair and programming, I rapidly built a solid development foundation.</p>
 
 	<h2 class="res-h2">University of Central Florida</h2>
 	<h3 class="res-h3">Bachelor of Science: Elementary Education • September 2011 - May 2013</h3>
