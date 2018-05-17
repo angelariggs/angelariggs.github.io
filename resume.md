@@ -13,7 +13,7 @@ permalink: /resume
 	<h1 class="res-sec-title">Experience</h1>
 	<h2 class="res-h2">QA Engineer</h2>
 	<h3 class="res-h3">Metal Toad • March 2016 - Present</h3>
-	<p>I own quality assurance for three Agile teams. My responsibilities include accessibility testing, technical documentation, requirements reviews, and overseeing continuous delivery practices. During feature testing of project work, I advocate for improved client and user experiences, and balance client needs against various quality attributes. I also focus on DX (developer experience) by creating flexible processes and workflows for my teams and our engineering department.</p>
+	<p>As a QA Engineer at Metal Toad, I've led the creation of quality standards and practices company-wide. Currently, I own quality assurance for three Agile teams. My responsibilities include accessibility testing, technical documentation, requirements reviews, and overseeing continuous delivery practices. During feature testing of project work, I advocate for improved client and user experiences, and balance client needs against various quality attributes. I also focus on DX (developer experience) by creating flexible processes and workflows for my teams and our engineering department.</p>
 
 	<h2 class="res-h2">Developer Intern</h2>
 	<h3 class="res-h3">Metal Toad • September 2015 - March 2016</h3>
@@ -24,7 +24,6 @@ permalink: /resume
 			<li>Detailed admin documentation for clients’ use and training</li>
 			<li>Strengthening the Metal Toad QA process by comparing and analyzing project workflows</li>
 		</ul>
-		<p>(Yes, I got the job!)</p>
 </div>
 
 <div>
