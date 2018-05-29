@@ -87,6 +87,12 @@ permalink: /resume
 <div>
 	<h1 class="res-sec-title">Publications & Talks</h1>
 
+	<h2 class="res-h2">Creating a Culture of Quality Assurance</h2>
+	<h3 class="res-h3"> TestBash San Francisco (Upcoming: 11/2018)</h3>
+
+	<h2 class="res-h2">Automated Visual Regression Testing with BackstopJS</h2>
+	<h3 class="res-h3">Pacific Northwest Software Quality Conference (Upcoming: 10/2018)</h3>
+
 	<h2 class="res-h2">Career & Technical Panel</h2>
 	<h3 class="res-h3">Women Who Code Portland</h3>
 
@@ -97,15 +103,13 @@ permalink: /resume
 	<h2 class="res-h2">The Many Hats of Quality Assurance Engineers</h2>
 	<h3 class="res-h3"><a href="https://www.metaltoad.com/blog/many-hats-quality-assurance-engineers-tester">https://www.metaltoad.com/blog/many-hats-quality-assurance-engineers-tester</a></h3>
 
-	<h2 class="res-h2">BackstopJS Part Deux: Javascript Config & Makefile</h2>
-	<h3 class="res-h3"><a href="https://www.metaltoad.com/blog/backstopjs-part-deux-javascript-config-and-makefile">https://www.metaltoad.com/blog/backstopjs-part-deux-javascript-config-and-makefile</a></h3>
-
-	<h2 class="res-h2">Tweeting for Understanding & Community</h2>
-	<h3 class="res-h3"><a href="http://mathys-potestio.com/a-developer-tweets-to-build-community-and-understanding/">http://mathys-potestio.com/a-developer-tweets-to-build-community-and-understanding/</a></h3>
+	<h2 class="res-h2">Using Serverless Config to Deploy an AWS CloudWatch Dashboard</h2>
+	<h3 class="res-h3"><a href="http://angelariggs.github.io/blog/using-serverless-config-deploy-aws-cloudwatch-dashboard">http://angelariggs.github.io/blog/using-serverless-config-deploy-aws-cloudwatch-dashboard</a></h3>
 </div>
 
 <div>
 	<h1 class="res-sec-title" id="internet-pres">Quality Assurance Project Repos</h1>
 	<h2 class="res-h2">Visual Regression Testing:</h2><a href="https://github.com/angelariggs/visual-regression" class="internet-pres-link">https://github.com/angelariggs/visual-regression</a>
 	<h2 class="res-h2">Accessibility Testing:</h2><a href="https://github.com/angelariggs/pa11y-setup/tree/master/config" class="internet-pres-link">https://github.com/angelariggs/pa11y-setup/tree/master/config</a>
+	<h2 class="res-h2">Documentation:</h2><a href="https://github.com/angelariggs/docs-setup" class="internet-pres-link">https://github.com/angelariggs/docs-setup</a>
 </div>
