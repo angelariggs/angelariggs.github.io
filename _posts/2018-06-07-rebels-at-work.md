@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to be a Rebel at Work"
+title:  "How To Be a Rebel at Work"
 date:   2018-06-07
 permalink: /blog/how-to-be-a-rebel-at-work
 comments: true
