@@ -6,6 +6,8 @@ permalink: /blog/building-relationship-developers-qa
 comments: true
 ---
 
+*[ Originally published on [TestCraft](https://www.testcraft.io/building-relationship-developers-qa/) ]*
+
 The relationship between developers and QA engineers is often a work-in-progress. There are some long-lasting stereotypes on both sides that can contribute to tensions – *“Developers just throw the work over a wall”* or *“QA engineers block the work from getting deployed”*. At its core, this way of thinking is a trust issue – neither one of them is trusting that the other has good intentions in how they work and collaborate.
 
 Creating a foundation of trust, collaboration, and communication is vital to team morale and a positive working environment. It also enhances the team’s ability to produce work that you can have confidence in because it was a joint effort – collaboration – to ensure its quality.
