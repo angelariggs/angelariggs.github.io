@@ -1,19 +1,24 @@
 ---
 layout: page
-title: Resume
+title: 
 permalink: /resume
 ---
 
-<div>
+<!-- <div>
 	<p>Hello! You can view my resume below, or click here to download a PDF version:
 <a class='res-link' href="/angela-riggs-resume.pdf" target="_blank">Angela's Resume</a></p>
-</div>
+</div> -->
 
 <div>
 	<h1 class="res-sec-title">Experience</h1>
+
 	<h2 class="res-h2">QA Engineer</h2>
-	<h3 class="res-h3">Metal Toad • March 2016 - Present</h3>
-	<p>As a QA Engineer at Metal Toad, I've led the creation of quality standards and practices company-wide. Currently, I own quality assurance for three Agile teams. My responsibilities include accessibility testing, technical documentation, requirements reviews, and overseeing continuous delivery practices. During feature testing of project work, I advocate for improved client and user experiences, and balance client needs against various quality attributes. I also focus on DX (developer experience) by creating flexible processes and workflows for my teams and our engineering department.</p>
+	<h3 class="res-h3">Vacasa • June 2018 - Present</h3>
+	<p>I oversee testing, validation, and release management for Vacasa's Trip Manager and company pages. In addition, I've initiated an accessibility audit so our product team and stakeholders can understand accessibility requirements, and the work we need to do in order to meet those requirements for our customers.</p>
+	
+	<h2 class="res-h2">QA Engineer</h2>
+	<h3 class="res-h3">Metal Toad • March 2016 - June 2018</h3>
+	<p>As a QA Engineer at Metal Toad, I led the creation of quality standards and practices company-wide, and I owned quality assurance for three Agile teams. My responsibilities included accessibility testing, technical documentation, requirements reviews, and overseeing continuous delivery practices. During feature testing of project work, I was a strong advocate for improved client and user experiences, and balancing client needs against various quality attributes. I also focused on DX (developer experience) by creating flexible processes and workflows for my teams and our engineering department.</p>
 
 	<h2 class="res-h2">Developer Intern</h2>
 	<h3 class="res-h3">Metal Toad • September 2015 - March 2016</h3>
@@ -89,9 +94,11 @@ permalink: /resume
 
 	<h2 class="res-h2">Creating a Culture of Quality Assurance</h2>
 	<h3 class="res-h3"> TestBash San Francisco (Upcoming: 11/2018)</h3>
+	<h3 class="res-h3"><a href="https://www.ministryoftesting.com/events/testbash-san-francisco-2018#creating-a-culture-of-quality-assurance">https://www.ministryoftesting.com/events/testbash-san-francisco-2018#creating-a-culture-of-quality-assurance</a></h3>
 
 	<h2 class="res-h2">Automated Visual Regression Testing with BackstopJS</h2>
 	<h3 class="res-h3">Pacific Northwest Software Quality Conference (Upcoming: 10/2018)</h3>
+	<h3 class="res-h3"><a href="https://www.pnsqc.org/automated-visual-regression-testing-with-backstopjs">https://www.pnsqc.org/automated-visual-regression-testing-with-backstopjs</a></h3>
 
 	<h2 class="res-h2">Career & Technical Panel</h2>
 	<h3 class="res-h3">Women Who Code Portland</h3>
@@ -100,11 +107,10 @@ permalink: /resume
 	<h3 class="res-h3">Typescript PDX</h3>
 	<h3 class="res-h3"><a href="https://speakerdeck.com/angelariggs/accept-acceptance-testing-no-exceptions">https://speakerdeck.com/angelariggs/accept-acceptance-testing-no-exceptions</a></h3>
 
-	<h2 class="res-h2">The Many Hats of Quality Assurance Engineers</h2>
-	<h3 class="res-h3"><a href="https://www.metaltoad.com/blog/many-hats-quality-assurance-engineers-tester">https://www.metaltoad.com/blog/many-hats-quality-assurance-engineers-tester</a></h3>
+	<h2 class="res-h2">The 3 Hats of QA Engineers: How to Wear Them Well</h2>
+	<h3 class="res-h3">Published in TechBeacon</h3>
+	<h3 class="res-h3"><a href="https://techbeacon.com/3-hats-qa-engineers-how-wear-them-well">https://techbeacon.com/3-hats-qa-engineers-how-wear-them-well</a></h3>
 
-	<h2 class="res-h2">Using Serverless Config to Deploy an AWS CloudWatch Dashboard</h2>
-	<h3 class="res-h3"><a href="http://angelariggs.github.io/blog/using-serverless-config-deploy-aws-cloudwatch-dashboard">http://angelariggs.github.io/blog/using-serverless-config-deploy-aws-cloudwatch-dashboard</a></h3>
 </div>
 
 <div>
