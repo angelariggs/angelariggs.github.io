@@ -45,7 +45,10 @@ Find ways to make the onboarding process easier for your team. If you can reduce
 A makefile is a great way to do this. It lets you create simpler commands for running and setting up new tools, so your developers have one less thing to worry about. When I introduced a suite of end-to-end tests to one of my engineering teams, the initial command for a full test run ended up looking like this:
 
 ```
-pkill -f selenium-standalone; selenium-standalone start; sleep 2s && codeceptjs run --grep "admin-workflow" --profile https://website.com --reporter mochawesome --reporter-options reportDir=./output,reportFilename=desktop-admin.html; pkill -f selenium-standalone
+pkill -f selenium-standalone; selenium-standalone start;
+sleep 2s && codeceptjs run --grep "admin-workflow" --profile https://website.com
+--reporter mochawesome --reporter-options reportDir=./output,reportFilename=desktop-admin.html;
+pkill -f selenium-standalone
 ```
 
 Understandably, there was a lot of resistance to using these tests. Yes, the tool itself and the actual tests were useful, but the overhead of using them in daily work was a big blocker—and a tool that people won't use is ultimately useless.
