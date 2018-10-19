@@ -97,7 +97,7 @@ permalink: /resume
 	<h3 class="res-h3"><a href="https://www.ministryoftesting.com/events/testbash-san-francisco-2018#creating-a-culture-of-quality-assurance">https://www.ministryoftesting.com/events/testbash-san-francisco-2018#creating-a-culture-of-quality-assurance</a></h3>
 
 	<h2 class="res-h2">Automated Visual Regression Testing with BackstopJS</h2>
-	<h3 class="res-h3">Pacific Northwest Software Quality Conference (Upcoming: 10/2018)</h3>
+	<h3 class="res-h3">Pacific Northwest Software Quality Conference 2018</h3>
 	<h3 class="res-h3"><a href="https://www.pnsqc.org/automated-visual-regression-testing-with-backstopjs">https://www.pnsqc.org/automated-visual-regression-testing-with-backstopjs</a></h3>
 
 	<h2 class="res-h2">Career & Technical Panel</h2>
