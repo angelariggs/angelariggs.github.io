@@ -93,22 +93,26 @@ permalink: /resume
 	<h1 class="res-sec-title">Publications & Talks</h1>
 
 	<h2 class="res-h2">Creating a Culture of Quality Assurance</h2>
-	<h3 class="res-h3"> TestBash San Francisco (Upcoming: 11/2018)</h3>
+	<h3 class="res-h3"> Refactr.Tech (Upcoming, June 2019)</h3>
+	<h3 class="res-h3"><a href="http://refactr.tech/">http://refactr.tech/</a></h3>
+
+	<h2 class="res-h2">Creating a Culture of Quality Assurance</h2>
+	<h3 class="res-h3"> TestBash San Francisco (2018)</h3>
 	<h3 class="res-h3"><a href="https://www.ministryoftesting.com/events/testbash-san-francisco-2018#creating-a-culture-of-quality-assurance">https://www.ministryoftesting.com/events/testbash-san-francisco-2018#creating-a-culture-of-quality-assurance</a></h3>
 
 	<h2 class="res-h2">Automated Visual Regression Testing with BackstopJS</h2>
-	<h3 class="res-h3">Pacific Northwest Software Quality Conference 2018</h3>
+	<h3 class="res-h3">Pacific Northwest Software Quality Conference (2018)</h3>
 	<h3 class="res-h3"><a href="https://www.pnsqc.org/automated-visual-regression-testing-with-backstopjs">https://www.pnsqc.org/automated-visual-regression-testing-with-backstopjs</a></h3>
 
 	<h2 class="res-h2">Career & Technical Panel</h2>
 	<h3 class="res-h3">Women Who Code Portland</h3>
 
-	<h2 class="res-h2">Accept Acceptance Testing (No Exceptions)</h2>
-	<h3 class="res-h3">Typescript PDX</h3>
-	<h3 class="res-h3"><a href="https://speakerdeck.com/angelariggs/accept-acceptance-testing-no-exceptions">https://speakerdeck.com/angelariggs/accept-acceptance-testing-no-exceptions</a></h3>
+	<h2 class="res-h2">Building Better Relationships Between Developes and QA Engineers</h2>
+	<h3 class="res-h3">TestCraft, September 2018</h3>
+	<h3 class="res-h3"><a href="https://www.testcraft.io/building-relationship-developers-qa/">https://www.testcraft.io/building-relationship-developers-qa/</a></h3>
 
 	<h2 class="res-h2">The 3 Hats of QA Engineers: How to Wear Them Well</h2>
-	<h3 class="res-h3">Published in TechBeacon</h3>
+	<h3 class="res-h3">TechBeacon, August 2018</h3>
 	<h3 class="res-h3"><a href="https://techbeacon.com/3-hats-qa-engineers-how-wear-them-well">https://techbeacon.com/3-hats-qa-engineers-how-wear-them-well</a></h3>
 
 </div>
