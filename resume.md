@@ -98,7 +98,7 @@ permalink: /resume
 
 	<h2 class="res-h2">Creating a Culture of Quality Assurance</h2>
 	<h3 class="res-h3"> TestBash San Francisco (2018)</h3>
-	<h3 class="res-h3"><a href="https://www.ministryoftesting.com/events/testbash-san-francisco-2018#creating-a-culture-of-quality-assurance">https://www.ministryoftesting.com/events/testbash-san-francisco-2018#creating-a-culture-of-quality-assurance</a></h3>
+	<h3 class="res-h3"><a href="https://www.ministryoftesting.com/dojo/lessons/creating-a-culture-of-quality-assurance-angela-riggs">https://www.ministryoftesting.com/dojo/lessons/creating-a-culture-of-quality-assurance-angela-riggs</a></h3>
 
 	<h2 class="res-h2">Automated Visual Regression Testing with BackstopJS</h2>
 	<h3 class="res-h3">Pacific Northwest Software Quality Conference (2018)</h3>
