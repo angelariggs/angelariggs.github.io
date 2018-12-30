@@ -29,7 +29,7 @@ permalink: /community
 <div>
 	<h1 class="res-sec-title">Talks</h1>
 
-	<h2 class="res-h2">Creating a Culture of Quality Assurance</h2>
+	<h2 class="res-h2">Creating a Culture of Quality</h2>
 	<h3 class="res-h3"> Refactr.Tech, June 2019 (Upcoming)</h3>
 	<h3 class="res-h3"><a href="http://refactr.tech/">http://refactr.tech/</a></h3>
 
