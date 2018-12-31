@@ -16,7 +16,7 @@ permalink: /community
 	<h3 class="res-h3">TechBeacon, October 2018</h3>
 	<h3 class="res-h3"><a href="https://techbeacon.com/how-i-created-culture-quality">https://techbeacon.com/how-i-created-culture-quality</a></h3>
 
-	<h2 class="res-h2">Building Better Relationships Between Developes and QA Engineers</h2>
+	<h2 class="res-h2">Building Better Relationships Between Developers and QA Engineers</h2>
 	<h3 class="res-h3">TestCraft, September 2018</h3>
 	<h3 class="res-h3"><a href="https://www.testcraft.io/building-relationship-developers-qa/">https://www.testcraft.io/building-relationship-developers-qa/</a></h3>
 
