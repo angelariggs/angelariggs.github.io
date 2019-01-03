@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /community
+permalink: /work
 ---
 
 <!-- <div>
@@ -14,15 +14,15 @@ permalink: /community
 
     <h2 class="res-h2">How I Created a Culture of Quality</h2>
     <h3>TechBeacon, October 2018</h3>
-    <h3><a href="https://techbeacon.com/how-i-created-culture-quality">https://techbeacon.com/how-i-created-culture-quality</a></h3>
+    <h4><a href="https://techbeacon.com/how-i-created-culture-quality">https://techbeacon.com/how-i-created-culture-quality</a></h4>
 
     <h2 class="res-h2">Building Better Relationships Between Developers and QA Engineers</h2>
     <h3>TestCraft, September 2018</h3>
-    <h3><a href="https://www.testcraft.io/building-relationship-developers-qa/">https://www.testcraft.io/building-relationship-developers-qa/</a></h3>
+    <h4><a href="https://www.testcraft.io/building-relationship-developers-qa/">https://www.testcraft.io/building-relationship-developers-qa/</a></h4>
 
     <h2 class="res-h2">The 3 Hats of QA Engineers: How to Wear Them Well</h2>
     <h3>TechBeacon, August 2018</h3>
-    <h3><a href="https://techbeacon.com/3-hats-qa-engineers-how-wear-them-well">https://techbeacon.com/3-hats-qa-engineers-how-wear-them-well</a></h3>
+    <h4><a href="https://techbeacon.com/3-hats-qa-engineers-how-wear-them-well">https://techbeacon.com/3-hats-qa-engineers-how-wear-them-well</a></h4>
 
 </div>
 
