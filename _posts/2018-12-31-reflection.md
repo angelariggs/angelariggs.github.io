@@ -6,7 +6,7 @@ permalink: /blog/2018-reflection
 comments: true
 ---
 
-I don't typically do a end-of-year post. In fact, I think this is my first one. I wasn't going to wrote this one, either - mostly because I felt like I hadn't really _accomplished_ anything. But as I thought back about my 2018, I realized that I actually had accomplished quite a few things that I'm proud of. One of my goals for 2019 is to be more intentional - that is, to do more explicit planning for my path forward, and I know there are things in 2018 that I can use to inform and inspire my approaches and goals for 2019. So my first step toward that is writing this post, thinking about what I did or didn't do, and how I can use my experiences from the past year to succeed in the new year.
+I don't typically do a end-of-year post. In fact, I think this is my first one. I wasn't going to write this one, either - mostly because I felt like I hadn't really _accomplished_ anything. But as I thought back about my 2018, I realized that I actually had accomplished quite a few things that I'm proud of. One of my goals for 2019 is to be more intentional - that is, to do more explicit planning for my path forward, and I know there are things in 2018 that I can use to inform and inspire my approaches and goals for 2019. So my first step toward that is writing this post, thinking about what I did or didn't do, and how I can use my experiences from the past year to succeed in the new year.
 
 ## 2018 Accomplishments
 
