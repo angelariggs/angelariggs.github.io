@@ -14,15 +14,15 @@ permalink: /work
 
     <h2 class="res-h2">How I Created a Culture of Quality</h2>
     <h3>TechBeacon, October 2018</h3>
-    <h4><a href="https://techbeacon.com/how-i-created-culture-quality">https://techbeacon.com/how-i-created-culture-quality</a></h4>
+    <a href="https://techbeacon.com/how-i-created-culture-quality" class="internet-pres-link">https://techbeacon.com/how-i-created-culture-quality</a>
 
     <h2 class="res-h2">Building Better Relationships Between Developers and QA Engineers</h2>
     <h3>TestCraft, September 2018</h3>
-    <h4><a href="https://www.testcraft.io/building-relationship-developers-qa/">https://www.testcraft.io/building-relationship-developers-qa/</a></h4>
+    <a href="https://www.testcraft.io/building-relationship-developers-qa/" class="internet-pres-link">https://www.testcraft.io/building-relationship-developers-qa/</a>
 
     <h2 class="res-h2">The 3 Hats of QA Engineers: How to Wear Them Well</h2>
     <h3>TechBeacon, August 2018</h3>
-    <h4><a href="https://techbeacon.com/3-hats-qa-engineers-how-wear-them-well">https://techbeacon.com/3-hats-qa-engineers-how-wear-them-well</a></h4>
+    <a href="https://techbeacon.com/3-hats-qa-engineers-how-wear-them-well" class="internet-pres-link">https://techbeacon.com/3-hats-qa-engineers-how-wear-them-well</a>
 
 </div>
 
@@ -68,7 +68,7 @@ permalink: /work
 
 <div>
     <h1 class="res-sec-title" id="internet-pres">Quality Assurance Project Templates</h1>
-    <h2 class="res-h2">Visual Regression Testing:</h2><a href="https://github.com/angelariggs/visual-regression" class="internet-pres-link">https://github.com/angelariggs/visual-regression</a>
-    <h2 class="res-h2">Accessibility Testing:</h2><a href="https://github.com/angelariggs/pa11y-setup/tree/master/config" class="internet-pres-link">https://github.com/angelariggs/pa11y-setup/tree/master/config</a>
-    <h2 class="res-h2">Documentation:</h2><a href="https://github.com/angelariggs/docs-setup" class="internet-pres-link">https://github.com/angelariggs/docs-setup</a>
+    <h2 class="res-h2">Visual Regression Testing</h2><a href="https://github.com/angelariggs/visual-regression" class="internet-pres-link">https://github.com/angelariggs/visual-regression</a>
+    <h2 class="res-h2">Accessibility Testing</h2><a href="https://github.com/angelariggs/pa11y-setup/tree/master/config" class="internet-pres-link">https://github.com/angelariggs/pa11y-setup/tree/master/config</a>
+    <h2 class="res-h2">Documentation</h2><a href="https://github.com/angelariggs/docs-setup" class="internet-pres-link">https://github.com/angelariggs/docs-setup</a>
 </div>
