@@ -3,7 +3,10 @@ h1 {
   font-weight: 700;
   margin-bottom: 0.7em;
   font-size: 36px;
-  color: $coral;
+  color: $main-color;
+  a {
+    color: $main-color;
+  }
   a:hover {
     text-decoration: underline;
   }
@@ -39,7 +42,7 @@ p {
 }
 
 a {
-  color: $coral;
+  color: $secondary-color;
   &:hover {
     text-decoration: underline;
   }
