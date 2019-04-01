@@ -12,6 +12,10 @@ permalink: /work
 <div>
     <h1 class="res-sec-title">Publications</h1>
 
+    <h2 class="res-h2">A Beginner's Guide to Test Automation</h2>
+    <h3>TechWell's StickyMinds, March 2019</h3>
+    <h4><a href="https://www.stickyminds.com/article/beginners-guide-test-automation">https://www.stickyminds.com/article/beginners-guide-test-automation</a></h4>
+
     <h2 class="res-h2">How I Created a Culture of Quality</h2>
     <h3>TechBeacon, October 2018</h3>
     <h4><a href="https://techbeacon.com/how-i-created-culture-quality">https://techbeacon.com/how-i-created-culture-quality</a></h4>
@@ -27,7 +31,15 @@ permalink: /work
 </div>
 
 <div>
-    <h1 class="res-sec-title">Talks</h1>
+   <h1 class="res-sec-title">Talks</h1>
+
+    <h2 class="res-h2">Why is There a Marble in Your Nose?</h2>
+    <h3> CAST, August 2019 (Upcoming)</h3>
+    <h4 markdown='1'>
+    <details>
+        - Conference: [https://www.associationforsoftwaretesting.org/conference/cast2019/](https://www.associationforsoftwaretesting.org/conference/cast2019/)  
+    </details>
+    </h4>
 
     <h2 class="res-h2">Creating a Culture of Quality</h2>
     <h3> Refactr.Tech, June 2019 (Upcoming)</h3>
