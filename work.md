@@ -14,7 +14,7 @@ permalink: /work
 
     <h2 class="res-h2">A Beginner's Guide to Test Automation</h2>
     <h3>TechWell's StickyMinds, March 2019</h3>
-    <h4><a href="https://www.stickyminds.com/article/beginners-guide-test-automation">https://www.stickyminds.com/article/beginners-guide-test-automation</a></h4>
+    <h4><a href="https://www.stickyminds.com/article/beginners-guide-test-automation" class="internet-pres-link">https://www.stickyminds.com/article/beginners-guide-test-automation</a></h4>
 
     <h2 class="res-h2">How I Created a Culture of Quality</h2>
     <h3>TechBeacon, October 2018</h3>
