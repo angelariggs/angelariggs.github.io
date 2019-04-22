@@ -6,6 +6,8 @@ permalink: /blog/beginners-guide-test-automation
 comments: true
 ---
 
+*[ Originally published on [Techwell's StickyMinds](https://www.stickyminds.com/article/beginners-guide-test-automation) ]*
+
 If you’re new to automated testing, you’re probably starting off with a lot of questions: How do I know which tests to automate? Why is automated testing useful for me and my team? How do I choose a tool or framework? The options for automated testing are wide open, and you may feel overwhelmed.
 
 I want to help turn some of your “unknown unknowns” into “known unknowns”! The goal of automation is to create anti-fragile tests that are easy to understand, maintain, and hand off. I’ll get you closer to that goal by answering some questions that many of us had when we first started with automated testing, and I’ll also give you some additional questions that are good to consider.
