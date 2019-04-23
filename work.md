@@ -79,8 +79,8 @@ permalink: /work
 </div>
 
 <div>
-    <h1 class="res-sec-title" id="internet-pres">Quality Assurance Project Templates</h1>
-    <h2 class="res-h2">Visual Regression Testing</h2><a href="https://github.com/angelariggs/visual-regression" class="internet-pres-link">https://github.com/angelariggs/visual-regression</a>
-    <h2 class="res-h2">Accessibility Testing</h2><a href="https://github.com/angelariggs/pa11y-setup/tree/master/config" class="internet-pres-link">https://github.com/angelariggs/pa11y-setup/tree/master/config</a>
-    <h2 class="res-h2">Documentation</h2><a href="https://github.com/angelariggs/docs-setup" class="internet-pres-link">https://github.com/angelariggs/docs-setup</a>
+    <h1 class="res-sec-title" id="internet-pres">Testing Templates</h1>
+    <h2 class="res-h2">Visual Regression</h2><a href="https://github.com/angelariggs/visual-regression" class="internet-pres-link">https://github.com/angelariggs/visual-regression</a>
+    <h2 class="res-h2">Accessibility</h2><a href="https://github.com/angelariggs/pa11y-setup/tree/master/config" class="internet-pres-link">https://github.com/angelariggs/pa11y-setup/tree/master/config</a>
+    <h2 class="res-h2">Technical Documentation</h2><a href="https://github.com/angelariggs/docs-setup" class="internet-pres-link">https://github.com/angelariggs/docs-setup</a>
 </div>
