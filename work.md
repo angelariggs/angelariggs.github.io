@@ -4,11 +4,6 @@ title:
 permalink: /work
 ---
 
-<!-- <div>
-    <p>Hello! You can view my resume below, or click here to download a PDF version:
-<a class='res-link' href="/angela-riggs-resume.pdf" target="_blank">Angela's Resume</a></p>
-</div> -->
-
 <div>
     <h1 class="res-sec-title">Publications</h1>
 
