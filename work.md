@@ -44,6 +44,14 @@ permalink: /work
     </details>
     </h4>
 
+    <h2 class="res-h2">Communication in Testing</h2>
+    <h3> Software Test Professionals Webinar, 2019</h3>
+    <h4 markdown='1'>
+    <details>
+        - Recording: [https://www.softwaretestpro.com/communication-in-testing/](https://www.softwaretestpro.com/communication-in-testing/)
+    </details>
+    </h4>
+
     <h2 class="res-h2">Creating a Culture of Quality Assurance</h2>
     <h3> TestBash San Francisco, 2018</h3>
     <h4 markdown='1'>
