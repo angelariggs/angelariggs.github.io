@@ -28,6 +28,14 @@ permalink: /work
 <div>
    <h1 class="res-sec-title">Talks</h1>
 
+       <h2 class="res-h2">A Beginner's Guide to Test Automation</h2>
+    <h3> TestBash San Francisco, November 2019 (Upcoming)</h3>
+    <h4 markdown='1'>
+    <details>
+        - Conference: [https://www.ministryoftesting.com/events/testbash-san-francisco-2019](https://www.ministryoftesting.com/events/testbash-san-francisco-2019#a-beginner-s-guide-to-test-automation)  
+    </details>
+    </h4>
+
     <h2 class="res-h2">Why is There a Marble in Your Nose?</h2>
     <h3> CAST, August 2019 (Upcoming)</h3>
     <h4 markdown='1'>
@@ -45,7 +53,7 @@ permalink: /work
     </h4>
 
     <h2 class="res-h2">Communication in Testing</h2>
-    <h3> Software Test Professionals Webinar, 2019</h3>
+    <h3> Software Test Professionals Webinar, April 2019</h3>
     <h4 markdown='1'>
     <details>
         - Recording: [https://www.softwaretestpro.com/communication-in-testing/](https://www.softwaretestpro.com/communication-in-testing/)
@@ -53,7 +61,7 @@ permalink: /work
     </h4>
 
     <h2 class="res-h2">Creating a Culture of Quality Assurance</h2>
-    <h3> TestBash San Francisco, 2018</h3>
+    <h3> TestBash San Francisco, November 2018</h3>
     <h4 markdown='1'>
     <details>
         - Video: [https://www.ministryoftesting.com/dojo/lessons/creating-a-culture-of-quality-assurance-angela-riggs](https://www.ministryoftesting.com/dojo/lessons/creating-a-culture-of-quality-assurance-angela-riggs)  
@@ -63,7 +71,7 @@ permalink: /work
     </h4>
 
     <h2 class="res-h2">Automated Visual Regression Testing with BackstopJS</h2>
-    <h3>Pacific Northwest Software Quality Conference, 2018</h3>
+    <h3>PNSQC, October 2018</h3>
     <h4 markdown='1'>
     <details>
         - Abstract: [https://www.pnsqc.org/automated-visual-regression-testing-with-backstopjs](https://www.pnsqc.org/automated-visual-regression-testing-with-backstopjs)  
@@ -73,7 +81,7 @@ permalink: /work
     </h4>
 
     <h2 class="res-h2">Career & Technical Panel</h2>
-    <h3>Women Who Code Portland, 2018</h3>
+    <h3>Women Who Code Portland, February 2018</h3>
     <h4 markdown='1'>
     <details>
         - Event: [https://www.meetup.com/Women-Who-Code-Portland/events/245945636](https://www.meetup.com/Women-Who-Code-Portland/events/245945636)  
