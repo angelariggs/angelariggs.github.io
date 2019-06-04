@@ -52,8 +52,16 @@ permalink: /work
     </details>
     </h4>
 
-    <h2 class="res-h2">Communication in Testing</h2>
-    <h3> Software Test Professionals Webinar, April 2019</h3>
+    <h2 class="res-h2">Panel Discussion: Continuous Testing</h2>
+    <h3> Mabl webinar, May 2019</h3>
+    <h4 markdown='1'>
+    <details>
+        - Recording: [https://www.mabl.com/blog/how-to-shift-to-continuous-testing-in-devops](https://www.mabl.com/blog/how-to-shift-to-continuous-testing-in-devops)
+    </details>
+    </h4>
+
+    <h2 class="res-h2">Panel Discussion: Communication in Testing</h2>
+    <h3> Software Test Professionals webinar, April 2019</h3>
     <h4 markdown='1'>
     <details>
         - Recording: [https://www.softwaretestpro.com/communication-in-testing/](https://www.softwaretestpro.com/communication-in-testing/)
