@@ -28,11 +28,19 @@ permalink: /work
 <div>
    <h1 class="res-sec-title">Talks</h1>
 
-       <h2 class="res-h2">A Beginner's Guide to Test Automation</h2>
+    <h2 class="res-h2">A Beginner's Guide to Test Automation</h2>
     <h3> TestBash San Francisco, November 2019 (Upcoming)</h3>
     <h4 markdown='1'>
     <details>
         - Conference: [https://www.ministryoftesting.com/events/testbash-san-francisco-2019](https://www.ministryoftesting.com/events/testbash-san-francisco-2019#a-beginner-s-guide-to-test-automation)  
+    </details>
+    </h4>
+
+    <h2 class="res-h2">Creating a Culture of Quality</h2>
+    <h3>PNSQC, October 2019 (Upcoming)</h3>
+    <h4 markdown='1'>
+    <details>
+        - Conference: [https://www.pnsqc.org/2019-conference/](https://www.pnsqc.org/2019-conference/)  
     </details>
     </h4>
 
@@ -45,10 +53,11 @@ permalink: /work
     </h4>
 
     <h2 class="res-h2">Creating a Culture of Quality</h2>
-    <h3> Refactr.Tech, June 2019 (Upcoming)</h3>
+    <h3> Refactr.Tech, June 2019</h3>
     <h4 markdown='1'>
     <details>
-        - Conference: [http://refactr.tech](http://refactr.tech)  
+        - Conference: [http://refactr.tech](http://refactr.tech)
+        - Slides: [http://bit.ly/refactr2019-culture-quality](http://bit.ly/refactr2019-culture-quality)
     </details>
     </h4>
 
