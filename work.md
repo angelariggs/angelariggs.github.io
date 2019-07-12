@@ -57,6 +57,7 @@ permalink: /work
     <h4 markdown='1'>
     <details>
         - Conference: [http://refactr.tech](http://refactr.tech)
+        
         - Slides: [http://bit.ly/refactr2019-culture-quality](http://bit.ly/refactr2019-culture-quality)
     </details>
     </h4>
