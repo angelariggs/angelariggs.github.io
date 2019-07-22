@@ -26,6 +26,7 @@
 body {
   line-height: 1.5;
   font-size: 18px;
+  background-color: #232429;
   // background-color: white;
 }
 
@@ -37,7 +38,7 @@ a {
   }
   /*// &:hover, &:active {
   //   color: $white;
-  //   background-color: $darkGray;
+  //   background-color: $h2;
   // }*/
 }
 
@@ -67,9 +68,9 @@ a {
 }
 
 .wrapper-footer {
-  border-top: 1px solid $darkGray;
-  border-bottom: 1px solid $darkGray;
-  background-color: $darkGray;
+  border-top: 1px solid $tertiary-color;
+  border-bottom: 1px solid $tertiary-color;
+  background-color: $tertiary-color;
 /*  // position: fixed;
   // bottom: 0;
   // z-index: 2;

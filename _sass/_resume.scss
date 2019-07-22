@@ -4,11 +4,26 @@
 
 .res-sec-title {
   margin-top: 1em;
+  text-align: center;
+  color: $main-color;
 }
 
 .res-h2 {
 	font-family: $display;
-	color: $darkGray;
+	color: $main-color;
+}
+
+.res-h3 {
+	color: $text;
+}
+
+.res-h4 a {
+	color: $secondary-color;
+}
+
+.year {
+	text-align: center;
+	color: $text;
 }
 
 .skill-list {
