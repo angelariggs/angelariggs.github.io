@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/many-hats-quality-assurance-engineers-tester
 layout: post
 title:  "The Many Hats of Quality Assurance Engineers: Tester"
 date:   2018-04-05
-permalink: /blog/many-hats-quality-assurance-engineers-tester
+permalink: /articles/many-hats-quality-assurance-engineers-tester
 comments: true
 ---
 

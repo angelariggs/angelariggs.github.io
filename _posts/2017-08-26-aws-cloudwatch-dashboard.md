@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/using-serverless-config-deploy-aws-cloudwatch-dashboard
 layout: post
 title:  "Using Serverless Config to Deploy an AWS CloudWatch Dashboard"
 date:   2017-08-26
-permalink: /blog/using-serverless-config-deploy-aws-cloudwatch-dashboard
+permalink: /articles/using-serverless-config-deploy-aws-cloudwatch-dashboard
 comments: true
 ---
 

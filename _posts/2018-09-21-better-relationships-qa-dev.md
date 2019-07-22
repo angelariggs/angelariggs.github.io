@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/building-relationship-developers-qa
 layout: post
 title:  "Building Better Relationships Between Developers and QA Engineers"
 date:   2018-09-21
-permalink: /blog/building-relationship-developers-qa
+permalink: /articles/building-relationship-developers-qa
 comments: true
 ---
 

@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/starting-down-the-dev-path
 layout: post
 title:  Starting Down the Dev Path
 date:   2015-08-24
-permalink: /blog/starting-down-the-dev-path
+permalink: /articles/starting-down-the-dev-path
 comments: true
 ---
 

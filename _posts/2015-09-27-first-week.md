@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/a-knot-of-toads
 layout: post
 title:  "A Knot of Toads"
 date:   2015-09-27
-permalink: /blog/a-knot-of-toads
+permalink: /articles/a-knot-of-toads
 comments: true
 ---
 

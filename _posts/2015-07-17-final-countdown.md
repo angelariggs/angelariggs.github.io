@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/final-countdown
 layout: post
 title:  "Final Countdown"
 date:   2015-07-17
-permalink: /blog/final-countdown
+permalink: /articles/final-countdown
 comments: true
 ---
 

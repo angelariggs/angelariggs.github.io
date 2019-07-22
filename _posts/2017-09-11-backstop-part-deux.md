@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/backstopjs-part-deux-javascript-config-and-makefile
 layout: post
 title:  "BackstopJS Part Deux: Javascript Config and Makefile"
 date:   2017-09-11
-permalink: /blog/backstopjs-part-deux-javascript-config-and-makefile
+permalink: /articles/backstopjs-part-deux-javascript-config-and-makefile
 comments: true
 ---
 

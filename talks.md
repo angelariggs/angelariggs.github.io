@@ -1,4 +1,5 @@
 ---
+redirect_from: /work
 layout: page
 permalink: /talks
 ---

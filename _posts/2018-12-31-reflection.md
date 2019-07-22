@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/2018-reflection
 layout: post
 title:  "Reflecting Back and Looking Forward"
 date:   2018-12-31
-permalink: /blog/2018-reflection
+permalink: /articles/2018-reflection
 comments: true
 ---
 

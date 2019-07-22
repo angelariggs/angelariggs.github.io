@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/many-hats-quality-assurance-engineers-devops
 layout: post
 title:  "The Many Hats of Quality Assurance Engineers: Devops"
 date:   2018-04-05
-permalink: /blog/many-hats-quality-assurance-engineers-devops
+permalink: /articles/many-hats-quality-assurance-engineers-devops
 comments: true
 ---
 

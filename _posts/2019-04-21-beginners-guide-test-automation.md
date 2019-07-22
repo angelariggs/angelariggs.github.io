@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/beginners-guide-test-automation
 layout: post
 title:  "A Beginner's Guide to Test Automation"
 date:   2019-02-20
-permalink: /blog/beginners-guide-test-automation
+permalink: /articles/beginners-guide-test-automation
 comments: true
 ---
 

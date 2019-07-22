@@ -1,6 +1,7 @@
 ---
+redirect_from: "/blog/"
 layout: page
-permalink: /articles/
+permalink: /articles
 ---
 <div>
 	<div class="posts">

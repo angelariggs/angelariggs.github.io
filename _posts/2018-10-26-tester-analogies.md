@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/tester-analogies
 layout: post
 title:  "By Any Other Name"
 date:   2018-10-26
-permalink: /blog/tester-analogies
+permalink: /articles/tester-analogies
 comments: true
 ---
 

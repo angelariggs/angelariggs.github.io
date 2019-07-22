@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/how-to-be-a-rebel-at-work
 layout: post
 title:  "How To Be a Rebel at Work"
 date:   2018-06-07
-permalink: /blog/how-to-be-a-rebel-at-work
+permalink: /articles/how-to-be-a-rebel-at-work
 comments: true
 ---
 

@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/tesbash-sf
 layout: post
 title:  "TestBash San Francisco 2018"
 date:   2018-11-20
-permalink: /blog/tesbash-sf
+permalink: /articles/tesbash-sf
 comments: true
 ---
 

@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/devopsdayspdx
 layout: post
 title:  "DevOpsDays PDX"
 date:   2017-08-10
-permalink: /blog/devopsdayspdx
+permalink: /articles/devopsdayspdx
 comments: true
 ---
 

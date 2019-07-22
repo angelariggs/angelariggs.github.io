@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/schrodinger-testing-case-study
 layout: post
 title:  "Case Study: Schrodinger"
 date:   2018-02-09
-permalink: /blog/schrodinger-testing-case-study
+permalink: /articles/schrodinger-testing-case-study
 comments: true
 tags: case-study
 ---

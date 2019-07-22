@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/creating-culture
 layout: post
 title:  "Creating Culture"
 date:   2016-04-13
-permalink: /blog/creating-culture
+permalink: /articles/creating-culture
 comments: true
 ---
 

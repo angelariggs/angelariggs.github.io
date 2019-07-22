@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/welcome
 layout: post
 title:  "Welcome!"
 date:   2015-05-30
-permalink: /blog/welcome
+permalink: /articles/welcome
 comments: true
 ---
 

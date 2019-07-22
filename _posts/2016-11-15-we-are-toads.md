@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/we-are-toads
 layout: post
 title:  "We Are Toads"
 date:   2016-11-15
-permalink: /blog/we-are-toads
+permalink: /articles/we-are-toads
 comments: true
 ---
 

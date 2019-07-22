@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/monitorama
 layout: post
 title:  "Monitorama!"
 date:   2017-05-26
-permalink: /blog/monitorama
+permalink: /articles/monitorama
 comments: true
 ---
 

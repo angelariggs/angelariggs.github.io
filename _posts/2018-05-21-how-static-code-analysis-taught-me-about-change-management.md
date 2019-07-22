@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/static-code-analysis-taught-me-about-change-management
 layout: post
 title:  "How Static Code Analysis Taught Me About Change Management"
 date:   2018-05-20
-permalink: /blog/static-code-analysis-taught-me-about-change-management
+permalink: /articles/static-code-analysis-taught-me-about-change-management
 comments: true
 ---
 

@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/code-quality
 layout: post
 title:  "Code Quality"
 date:   2016-08-22
-permalink: /blog/code-quality
+permalink: /articles/code-quality
 comments: true
 ---
 

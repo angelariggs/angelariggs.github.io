@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/shift-teams-not-testers
 layout: post
 title:  "Shift Teams, Not Testers"
 date:   2019-02-20
-permalink: /blog/shift-teams-not-testers
+permalink: /articles/shift-teams-not-testers
 comments: true
 ---
 

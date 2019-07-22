@@ -1,8 +1,9 @@
 ---
+redirect_from: /blog/creating-culture-quality
 layout: post
 title:  "Creating a Culture of Quality"
 date:   2018-10-14
-permalink: /blog/creating-culture-quality
+permalink: /articles/creating-culture-quality
 comments: true
 ---
 
