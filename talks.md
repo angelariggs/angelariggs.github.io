@@ -23,7 +23,7 @@ permalink: /talks
 
 <h2 class="res-h2">Creating a Culture of Quality</h2>
 <h3 class="res-h3"> Refactr.Tech, June 2019</h3>
-<h4 class="res-h4"><a href="https://refactr.tech/detail/sessions.html#creating-a-culture-of-quality">Description</a> | <a href="http://bit.ly/refactr2019-culture-quality">Slides</a></h4>
+<h4 class="res-h4"><a href="https://refactr.tech/detail/sessions.html#creating-a-culture-of-quality">Description</a> | <a href="http://bit.ly/refactr2019-culture-quality">Slides</a> | <a href="https://youtu.be/43wmFFtKD34">Video</a></h4>
 
 <h2 class="res-h2">Panel Discussion: Continuous Testing</h2>
 <h3 class="res-h3"> Mabl webinar, May 2019</h3>
