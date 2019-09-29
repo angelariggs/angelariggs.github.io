@@ -19,11 +19,11 @@ permalink: /talks
 
 <h2 class="res-h2">Why is There a Marble in Your Nose?</h2>
 <h3 class="res-h3"> CAST, August 2019</h3>
-<h4 class="res-h4"><a href="https://cast2019.sched.com/event/O8qZ/why-is-there-a-marble-in-your-nose">Description</a> | <a href="http://bit.ly/cast2019-marble-nose">Slides</a></h4>
+<h4 class="res-h4"><a href="https://cast2019.sched.com/event/O8qZ/why-is-there-a-marble-in-your-nose">Description</a> | <a href="http://bit.ly/cast2019-marble-nose">Slides</a> | <a href="http://bit.ly/angela-cast2019-video">Video</a></h4>
 
 <h2 class="res-h2">Creating a Culture of Quality</h2>
 <h3 class="res-h3"> Refactr.Tech, June 2019</h3>
-<h4 class="res-h4"><a href="https://refactr.tech/detail/sessions.html#creating-a-culture-of-quality">Description</a> | <a href="http://bit.ly/refactr2019-culture-quality">Slides</a> | <a href="https://youtu.be/43wmFFtKD34">Video</a></h4>
+<h4 class="res-h4"><a href="https://refactr.tech/detail/sessions.html#creating-a-culture-of-quality">Description</a> | <a href="http://bit.ly/refactr2019-culture-quality">Slides</a> | <a href="http://bit.ly/angela-refactr2019-video">Video</a></h4>
 
 <h2 class="res-h2">Panel Discussion: Continuous Testing</h2>
 <h3 class="res-h3"> Mabl webinar, May 2019</h3>
