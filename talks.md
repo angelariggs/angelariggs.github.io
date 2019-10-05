@@ -17,6 +17,10 @@ permalink: /talks
 <h3 class="res-h3">PNSQC, October 2019 (Upcoming)</h3>
 <h4 class="res-h4"><a href="https://www.pnsqc.org/creating-a-culture-of-quality/">Description</a></h4>
 
+<h2 class="res-h2">MoT Podcast Challenge: Carlos Kidman & Angela Riggs</h2>
+<h3 class="res-h3">Ministry of Testing, September 2019</h3>
+<h4 class="res-h4"><a href="http://bit.ly/angela-mot-podcast">Podcast</a></h4>
+
 <h2 class="res-h2">Why is There a Marble in Your Nose?</h2>
 <h3 class="res-h3"> CAST, August 2019</h3>
 <h4 class="res-h4"><a href="https://cast2019.sched.com/event/O8qZ/why-is-there-a-marble-in-your-nose">Description</a> | <a href="http://bit.ly/cast2019-marble-nose">Slides</a> | <a href="http://bit.ly/angela-cast2019-video">Video</a></h4>
