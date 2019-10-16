@@ -13,10 +13,6 @@ permalink: /talks
 <h3 class="res-h3"> TestBash San Francisco, November 2019 (Upcoming)</h3>
 <h4 class="res-h4" class="res-h4"><a href="https://www.ministryoftesting.com/events/testbash-san-francisco-2019#a-beginner-s-guide-to-test-automation">Description</a></h4>
 
-<h2 class="res-h2">Creating a Culture of Quality</h2>
-<h3 class="res-h3">PNSQC, October 2019 (Upcoming)</h3>
-<h4 class="res-h4"><a href="https://www.pnsqc.org/creating-a-culture-of-quality/">Description</a></h4>
-
 <h2 class="res-h2">MoT Podcast Challenge: Carlos Kidman & Angela Riggs</h2>
 <h3 class="res-h3">Ministry of Testing, September 2019</h3>
 <h4 class="res-h4"><a href="http://bit.ly/angela-mot-podcast">Podcast</a></h4>
