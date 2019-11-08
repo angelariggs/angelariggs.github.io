@@ -9,9 +9,6 @@ permalink: /about
 
 <p>Outside of work, I enjoy loom weaving, traveling, and finding new sci-fi books to read. I have a great enthusiasm for karaoke, and serious debates about what can truly be categorized as a sandwich.</p>
 
-<p>For more detailed information on my work experience, you can download a PDF of my resume here:
-<a class='res-link' href="/angela-riggs-resume.pdf" target="_blank">Angela's Resume</a></p>
-
 </div>
 
 <div id="about-recs">
