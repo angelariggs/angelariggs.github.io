@@ -11,7 +11,7 @@ permalink: /talks
 
 <h2 class="res-h2">A Beginner's Guide to Test Automation</h2>
 <h3 class="res-h3"> TestBash San Francisco, November 2019</h3>
-<h4 class="res-h4" class="res-h4"><a href="https://www.ministryoftesting.com/events/testbash-san-francisco-2019#a-beginner-s-guide-to-test-automation">Description</a> | <a href="http://bit.ly/angela-testbash2019">Slides</a></h4>
+<h4 class="res-h4" class="res-h4"><a href="https://www.ministryoftesting.com/events/testbash-san-francisco-2019#a-beginner-s-guide-to-test-automation">Description</a> | <a href="http://bit.ly/angela-testbash2019">Slides</a> | <a href="/ask-tristan">Video?</a></h4>
 
 <h2 class="res-h2">MoT Podcast Challenge: Carlos Kidman & Angela Riggs</h2>
 <h3 class="res-h3">Ministry of Testing, September 2019</h3>
