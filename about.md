@@ -5,9 +5,9 @@ permalink: /about
 ---
 <div class='add-pad'>
 
-<p>I believe that empathy and curiosity are driving forces of quality and strive to lead from this perspective. The hiker’s mindset of “leave it better than you found it” inspires my approach at work, whether it’s people, processes, or the organization as a whole. I nerd out on process improvements and have strong feelings about change management. I love my job the most when I get to take on challenges that allow me to learn and grow, and when I’m supporting people and teams to do their best work. I also care deeply about company culture, and strive to be an advocate and active participant in maintaining a safe and inclusive environment.</p>
+<p>The hiker’s mindset of “leave it better than you found it” inspires my approach at work, whether it’s people, processes, or the organization as a whole. I believe that compassion and curiosity are driving forces of quality, and I strive to lead from this perspective. I nerd out on process improvements and have strong feelings about change management. I love my job the most when I take on challenges that allow me to learn and grow, and when I’m supporting people and teams to do their best work. I also care deeply about company culture, and strive to be an advocate and active participant in maintaining a safe and inclusive environment.</p>
 
-<p>Outside of work, I enjoy loom weaving, traveling, and finding new sci-fi books to read. I have a great enthusiasm for karaoke, and serious debates about what can truly be categorized as a sandwich.</p>
+<p>I also enjoy loom weaving, pretty clicky-clack keyboards, and reading sci-fi & fantasy books! I'm bad at singing but great at karaoke, and my most-used emoji is 😄. I was Team Yanny all the way.</p>
 
 </div>
 
