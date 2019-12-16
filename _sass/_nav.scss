@@ -8,6 +8,10 @@ nav ul {
     a {
       font-family: $display;
       color: $main-color;
+      &:hover {
+        text-decoration-line: underline;
+        text-decoration-style: wavy;
+      }
     }
   }
 }

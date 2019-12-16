@@ -40,14 +40,19 @@ p {
   font-size: 18px;
   line-height: 1.57;
   color: $text;
+  a {
+    color: $secondary-color;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+  }
 }
 
-a {
+/*a {
   color: $secondary-color;
   &:hover {
     text-decoration: underline;
   }
-}
+}*/
 
 ol, ul {
   font-family: $sans-serif;
