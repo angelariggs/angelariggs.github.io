@@ -8,8 +8,7 @@ h1 {
     color: $main-color;
   }
   a:hover {
-    text-decoration: underline;
-    color: $secondary-color;
+    text-decoration-style: wavy;
   }
 }
 
@@ -42,17 +41,19 @@ p {
   color: $text;
   a {
     color: $secondary-color;
-    text-decoration-line: underline;
-    text-decoration-style: wavy;
+    text-decoration-line: none;
+    &:hover {
+      text-decoration-style: wavy;
+    }
   }
 }
 
-/*a {
+a {
   color: $secondary-color;
   &:hover {
-    text-decoration: underline;
+    text-decoration-style: wavy;
   }
-}*/
+}
 
 ol, ul {
   font-family: $sans-serif;

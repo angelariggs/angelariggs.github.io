@@ -19,6 +19,9 @@
 
 .res-h4 a {
 	color: $secondary-color;
+	&:hover {
+		text-decoration-style: wavy;
+	}
 }
 
 .year {
