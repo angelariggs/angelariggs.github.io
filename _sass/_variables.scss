@@ -4,14 +4,14 @@
 //
 
 //Colors
-$main-color: #EA2A9D; // pink
-$secondary-color: #FFE65B; // yellow
+$main-color: #ff00a1; // pink
+$secondary-color: #FFF15B; // yellow
 $tertiary-color: #23242A; // dark grey
 $text: #FFF7F7; // cream
 
 // Font stacks
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700|Playfair+Display:400,400italic,700italic,700);
-$sans-serif: "Roboto", sans-serif;
+@import url(https://fonts.googleapis.com/css?family=DM+Sans|Playfair+Display&display=swap);
+$sans-serif: "DM Sans", sans-serif;
 $display: "Playfair Display", serif;
 
 // Mobile breakpoints

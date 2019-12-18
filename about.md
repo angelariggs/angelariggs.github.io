@@ -4,10 +4,15 @@ title:
 permalink: /about
 ---
 <div class='add-pad'>
+	<p>👋🏼 Hello! I'm a quality assurance engineer in Portland, OR.</p>
 
-<p>The hiker’s mindset of “leave it better than you found it” inspires my approach at work, whether it’s people, processes, or the organization as a whole. I believe that compassion and curiosity are driving forces of quality, and I strive to lead from this perspective. I nerd out on process improvements and have strong feelings about change management. I love my job the most when I take on challenges that allow me to learn and grow, and when I’m supporting people and teams to do their best work. I also care deeply about company culture, and strive to be an advocate and active participant in maintaining a safe and inclusive environment.</p>
+	<p>I'm currently at <a href="https://www.instrument.com">Instrument</a> as their first QA Manager, working to create Quality Engineering as an internal discipline! This means I get to solve people problems and nerd out on process improvements, which I love ✨</p>
 
-<p>I also enjoy loom weaving, pretty clicky-clack keyboards, and reading sci-fi & fantasy books! I'm bad at singing but great at karaoke, and my most-used emoji is 😄. I was Team Yanny all the way.</p>
+	<p>I enjoy speaking at <a href="https://angelariggs.github.io/talks">conferences, webinars, and podcasts</a>! In 2020, you can find me at <a href="https://www.stpcon.com/event-schedule/">STPCon</a>, <a href="https://saucecon.com/">SauceCon</a>, and <a href="https://agiletestingdays.us/program/conf-day-1/">Agile Testing Days USA</a>.</p>
+
+	<p>In my spare time at home, I'm usually watching GBBO or reading - my current lineup is Will Wight's "Unsouled" series and Hanif Abdurraqib's "They Can't Kill Us Until They Kill Us". I also love traveling! I get to travel for conferences, but also enjoy taking trips and exploring new places with <a href="http://joshriggs.net/">this handsome guy</a>.</p>
+
+	<p>You can check out my resume and career on <a href="https://www.linkedin.com/in/angelariggs/">LinkedIn</a>, and find me tweeting about various topics at <a href="https://twitter.com/AngelaRiggs_">@AngelaRiggs_</a>. </p>
 
 </div>
 
