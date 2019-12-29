@@ -33,6 +33,13 @@ h4 {
   font-size: 16px;
   font-weight: 500;
   color: $main-color;
+  a {
+    color: $secondary-color;
+    text-decoration-line: none;
+    &:hover {
+      text-decoration-style: wavy;
+    }
+  }
 }
 
 p {

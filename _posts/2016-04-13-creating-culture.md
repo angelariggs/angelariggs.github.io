@@ -13,7 +13,7 @@ I decided to take the question to Twitter.
 
 ![tweet about culture](../images/creating-culture-tweet.png)
 
-As I’ve [written about previously](http://mathys-potestio.com/a-developer-tweets-to-build-community-and-understanding/), Twitter can be a fantastic community for collaboration, conversation, and knowledge-sharing. I was curious to hear what some of the tech community had to say on the subject - and sure enough, the insights and ideas came flooding in! It was interesting and enlightening to hear people’s thoughts on culture indicators, and the conversation has given me some great insights on how Metal Toad can make sure we not only continue to create a positive and inclusive culture, but also make sure we effectively communicate that culture to people.
+As I’ve [written about previously](https://angelariggs.github.io/articles/tweeting-for-community-and-understanding), Twitter can be a fantastic community for collaboration, conversation, and knowledge-sharing. I was curious to hear what some of the tech community had to say on the subject - and sure enough, the insights and ideas came flooding in! It was interesting and enlightening to hear people’s thoughts on culture indicators, and the conversation has given me some great insights on how Metal Toad can make sure we not only continue to create a positive and inclusive culture, but also make sure we effectively communicate that culture to people.
 
 ## Culture as People
 
