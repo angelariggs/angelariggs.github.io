@@ -10,9 +10,9 @@ $tertiary-color: #23242A; // dark grey
 $text: #FFF7F7; // cream
 
 // Font stacks
-@import url(https://fonts.googleapis.com/css?family=DM+Sans|Playfair+Display&display=swap);
-$sans-serif: "DM Sans", sans-serif;
-$display: "Playfair Display", serif;
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville|Open+Sans&display=swap);
+$sans-serif: "Open Sans", sans-serif;
+$display: "Libre Baskerville", serif;
 
 // Mobile breakpoints
 @mixin mobile {
