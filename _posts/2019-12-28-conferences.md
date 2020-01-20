@@ -6,7 +6,7 @@ permalink: /articles/2020-conferences
 comments: true
 ---
 
-I'm super excited for my 🌟 2020 conference lineup 🌟 I'll be giving my Beginner's Guide to Test Automation talk at four different conferences, and they're all new conferences for me! It'll be a different experience giving the same talk at each conference - unlike 2019, when I gave 3 different talks at 4 different conferences, with 2 of them being brand new talks 😅
+I'm super excited for my 🌟 2020 conference lineup 🌟 I'll be giving my Beginner's Guide to Test Automation talk at three different conferences, and they're all new conferences for me! It'll be a different experience giving the same talk at each conference - unlike 2019, when I gave 3 different talks at 4 different conferences, with 2 of them being brand new talks 😅
 
 It won't be exactly the same presentation at each conference - some time slots are longer so I can add more content, and some conferences have a specific theme that I'll be adjusting the talk to match. It'll be good experience for me to give the same talk a few times - one of my goals for public speaking is to be more comfortable and less nervous, and having the same topic for several conferences will let me focus on improving my delivery and connecting more with my audience.
 
@@ -25,9 +25,6 @@ You can come see my talk at these conferences in 2020:
 
 ## STPCon
 #### March 30 - April 2 | San Diego, CA | [Conference info](https://www.stpcon.com/event-schedule/)
-
-## SauceCon
-#### April 27 - 29 | Austin, TX | [Conference info](https://saucecon.com/agenda-2020/)
 
 ## Agile Testing Days USA
 #### June 21 - 25 | Chicago, IL | [Conference info](https://agiletestingdays.us/program/)
