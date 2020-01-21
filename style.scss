@@ -15,21 +15,14 @@
 @import "about";
 
 
-//Syntax highlighting @import is at the bottom of this file
+/*Syntax highlighting @import is at the bottom of this file*/
 
 /**************/
 /* BASE RULES */
 /**************/
-// html {
+/*// html {
 //   background-color: #333;
-// }
-
-body {
-  line-height: 1.5;
-  font-size: 18px;
-  background-color: #232429;
-  // background-color: white;
-}
+// }*/
 
 a {
   text-decoration: none;
@@ -87,7 +80,7 @@ footer {
   font-family: $sans-serif
 }
 
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
+/*Settled on moving the import of syntax highlighting to the bottom of the CSS
+... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start*/
 @import "highlights";
 @import "svg-icons";

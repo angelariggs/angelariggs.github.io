@@ -1,3 +1,7 @@
+body {
+  background-color: $tertiary-color;
+}
+
 h1 {
   font-family: $display;
   font-weight: 700;
@@ -24,7 +28,7 @@ h2 {
 h3 {
   font-family: $display;
   font-size: 18px;
-  // font-weight: 700;
+  /*font-weight: 700;*/
   color: $main-color;
 }
 
@@ -44,8 +48,8 @@ h4 {
 
 p {
   font-family: $sans-serif;
-  font-size: 16px;
-  line-height: 1.57;
+  font-size: 15px;
+  line-height: 1.8;
   color: $text;
   a {
     color: $secondary-color;
@@ -65,8 +69,8 @@ a {
 
 ol, ul {
   font-family: $sans-serif;
-  font-size: 16px;
-  line-height: 1.57;
+  font-size: 15px;
+  line-height: 1.8;
   color: $main-color;
   margin-top: 0;
   margin-bottom: 1em;

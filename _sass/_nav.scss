@@ -8,7 +8,7 @@ nav ul {
     a {
       font-family: $display;
       font-style: italic;
-      color: $main-color;
+      color: $secondary-color;
       &:hover {
         text-decoration-line: underline;
         text-decoration-style: wavy;
@@ -93,7 +93,7 @@ nav {
   a {
     font-size: 22px;
     font-weight: 700;
-    color: $main-color;
+    color: $secondary-color;
     margin: 0 0.5em;
     text-align: right;
     &:hover, &:active {

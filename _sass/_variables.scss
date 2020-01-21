@@ -4,13 +4,13 @@
 //
 
 //Colors
-$main-color: #ff00a1; // pink
-$secondary-color: #FFF15B; // yellow
-$tertiary-color: #23242A; // dark grey
-$text: #FFF7F7; // cream
+$main-color: #A40E4C; 
+$secondary-color: #008051; 
+$tertiary-color: #F7F5EF; 
+$text: #444850;
 
 // Font stacks
-@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville|Open+Sans&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700|Open+Sans:400,400i,700,700i,800,800i&display=swap);
 $sans-serif: "Open Sans", sans-serif;
 $display: "Libre Baskerville", serif;
 
