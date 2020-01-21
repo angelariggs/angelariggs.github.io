@@ -4,7 +4,7 @@ title:
 permalink: /about
 ---
 <div class='add-pad'>
-	<p>👋🏼 Hello! I'm a quality assurance engineer in Portland, OR.</p>
+	<p>👋🏼 Hello! I'm a Quality Advocate in Portland, OR.</p>
 
 	<p>I'm currently at <a href="https://www.instrument.com">Instrument</a> as their first QA Manager, working to create Quality Engineering as an internal discipline! This means I get to solve people problems and nerd out on process improvements, which I love ✨</p>
 
