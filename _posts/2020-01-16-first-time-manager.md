@@ -48,4 +48,4 @@ Along with the advice based on personal experience, people recommended resources
 
 To everyone who retweeted and replied, THANK YOU. I'm super excited about starting down this new career path, and this support and knowledge-sharing is an amazing way to get started!
 
-Next up - [culture]({% post_url 2020-01-21-manager-culture %})! 
+**Next up - [culture]({% post_url 2020-01-21-manager-culture %})!**
