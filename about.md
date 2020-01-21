@@ -8,7 +8,7 @@ permalink: /about
 
 	<p>I'm currently at <a href="https://www.instrument.com">Instrument</a> as their first QA Manager, working to create Quality Engineering as an internal discipline! This means I get to solve people problems and nerd out on process improvements, which I love ✨</p>
 
-	<p>I enjoy speaking at <a href="https://angelariggs.github.io/talks">conferences, webinars, and podcasts</a>! In 2020, you can find me at <a href="https://www.stpcon.com/event-schedule/">STPCon</a>, <a href="https://saucecon.com/">SauceCon</a>, and <a href="https://agiletestingdays.us/program/conf-day-1/">Agile Testing Days USA</a>.</p>
+	<p>I enjoy speaking at <a href="https://angelariggs.github.io/talks">conferences, webinars, and podcasts</a>! In 2020, you can find me at <a href="https://tsqa.org/sessions#block-yui_3_17_2_1_1577116787998_19057">TSQA</a>, <a href="https://www.stpcon.com/event-schedule/">STPCon</a>, and <a href="https://agiletestingdays.us/program/conf-day-1/">Agile Testing Days USA</a>.</p>
 
 	<p>In my spare time at home, I'm usually watching GBBO or reading - my current lineup is Will Wight's "Unsouled" series and Hanif Abdurraqib's "They Can't Kill Us Until They Kill Us". I also love traveling! I get to travel for conferences, but also enjoy taking trips and exploring new places with <a href="http://joshriggs.net/">this handsome guy</a>.</p>
 
