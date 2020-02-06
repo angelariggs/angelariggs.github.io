@@ -10,7 +10,7 @@ permalink: /about
 
 	<p>I enjoy speaking at <a href="https://angelariggs.github.io/talks">conferences, webinars, and podcasts</a>! In 2020, you can find me at <a href="https://tsqa.org/sessions#block-yui_3_17_2_1_1577116787998_19057">TSQA</a>, <a href="https://www.stpcon.com/event-schedule/">STPCon</a>, and <a href="https://agiletestingdays.us/program/conf-day-1/">Agile Testing Days USA</a>.</p>
 
-	<p>In my spare time at home, I'm usually watching GBBO or reading - my current lineup is Will Wight's "Unsouled" series and Hanif Abdurraqib's "They Can't Kill Us Until They Kill Us". I also love traveling! I get to travel for conferences, but also enjoy taking trips and exploring new places with <a href="http://joshriggs.net/">this handsome guy</a>.</p>
+	<p>In my spare time at home, I'm usually watching GBBO or reading - my current lineup is Will Wight's "Unsouled" series and Hanif Abdurraqib's "They Can't Kill Us Until They Kill Us". I also love traveling! I get to travel for conferences, but also enjoy taking trips and exploring new places with <a href="https://www.instagram.com/joshriggs">this handsome guy</a>.</p>
 
 	<p>You can check out my resume and career on <a href="https://www.linkedin.com/in/angelariggs/">LinkedIn</a>, and find me tweeting about various topics at <a href="https://twitter.com/AngelaRiggs_">@AngelaRiggs_</a>. </p>
 
