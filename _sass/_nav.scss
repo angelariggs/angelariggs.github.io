@@ -70,10 +70,7 @@ nav ul {
 }
 
 h1.site-name a {
-  color: $main-color;
-  &:hover {
-    color: $main-color;
-  }
+  color: $secondary-color;
 }
 
 nav {
@@ -96,9 +93,6 @@ nav {
     color: $secondary-color;
     margin: 0 0.5em;
     text-align: right;
-    &:hover, &:active {
-      color: $main-color;
-    }
     @include mobile {
       font-size: 26px;
     }
