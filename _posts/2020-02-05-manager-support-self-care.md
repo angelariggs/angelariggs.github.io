@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "New Managers: Support & Self-Care"
+date:   2020-02-06
+permalink: /articles/new-managers-support
+comments: true
+---
+
+Hello there 👋🏼 This is the third article in my "Advice for New Managers" series! If this is your first stop, you may want to check out the [original post]({% post_url 2020-01-16-first-time-manager %}) that I wrote after getting a ton of awesome feedback on Twitter, and you can read the second article on creating culture as a new manager [here]({% post_url 2020-01-21-manager-culture %}).
+
+After reading through and reflecting on the responses from Twitter, the second theme that stood out was **Support & Self-Care**. As someone who believes in the sanctity of work-life balance and not sacrificing your self for your job, I love this theme. How do you seek out advice when you're struggling? What's your pep talk when you're facing a new challenge? (Maybe you [tweet](https://twitter.com/AngelaRiggs_/status/1216078559346741249) about it!) What does celebrating your wins look like? How do you handle the stresses of people management? How do you take care of yourself so you can take care of your people?
+
+Some of the advice that stood out to me around this theme:
+
+- I wish I'd created (and used) a network of peer managers earlier. Managing can be isolating and you need to get feedback and ideas from others!
+- Asking for help can be so hard when you’re the boss! It’s easy to fall in the trap of thinking you have to have all the answers all the time.
+- Everyone hates change. Don't mistake this for resistance to you.
+- You can't pour from an empty cup. It's easy to get lost in making sure you invest in your direct reports, but forget that you need to make sure you are feeling fulfilled, energized, and truly love your job.
+- Don't go in, guns ablaze, and attack. The people who work there know a lot and can help you achieve your goals. 
+- Listen enough and sleep enough. And trust yourself. 
+- Find your people. Set up regular meetings with other managers and talk things through with them
+- Learn to recognise my own needs and feelings too. Always so good at doing it for others... Awful at doing it for myself
+- Realizing that I couldn't do it all and that I needed to build resilience to be able to play the infinite game rather than trying to do everything
+
+**Everyone hates change. Don't mistake this for resistance to you.** I'm a huge advocate of change management, but I hadn't thought about how those principles might apply to people management! As a manager, you'll often be the messenger of change for people - and change is an emotional thing, from fear and frustration to indifference or excitement. But introducing change doesn't mean you're a bad person or a bad manager. It's just part of your job! Make sure you're being reflective of the difference between people disliking the message and disliking the messenger.
+
+**You can't pour from an empty cup.** YES. This was one of my favorites from the hundreds of responses that I got. It's like the safety presentation on an airplane - you have to put on your own oxygen mask before you help other people. We all know this, right? Of _course_ we'll take care of ourselves... right after I take care of this task and that task and help out this team and make sure that person has what they need _and and and_. I have always fought to make sure companies support people taking time off - for mental and physical health, for their families, for those "just because I need a break" days. But I've realized that I don't always support myself in that same way. 
+
+I don't always know how to admit that I'm struggling. But if I'm not able to be vulnerable and trust that I'll be supported, how can I encourage the people I manage that it's okay for _them_ to be vulnerable and trust that I'll support them? You don't have to spill your guts or get more personal than you're comfortable with, but I think - I hope - you should be able to feel safe asking for the things you need. In my case, I'm struggling to balance my role (which currently requires a lot of face-to-face relationship building) with chronic leg pain as I'm working to counter hypermobility in my knees. I have days where all I can think about it how much my hip flexors or IT bands hurt, and on those days it's exhausting to make it through meetings and QA reviews and being able to sit at my desk. I find it hard to explain, even though chronic pain is not uncommon and I _know_ that the only response I'd get from my team would be "How can we help?" 
+
+So one of my goals for self-care is to get comfortable speaking up when I need to work from home or even take a day off. I wouldn't hesitate or question if someone else came to me and said they need to do either of those - so I shouldn't hesitate for myself, either. By prioritizing my self-care instead of avoiding it, I can show the people I manage that I also prioritize _their_ self-care.
+
+**Create and use a network of peer managers.** My thoughts on this are basically an echo of Lara Hogan's [blog post](https://larahogan.me/blog/manager-voltron/) on creating a Manager Voltron 😄 Even as I get more experience being a manager, there will always be aspects of the role that I have to work harder at. There will always be new challenges to explore. Having a network of people in similar roles with different experiences and backgrounds can help me be a better manager by expanding my knowledge beyond my own personal experience. To this end, I'm in a couple of leadership Slack teams, and I have a wonderful crew of women in tech and testing who are awesome at sharing advice as well as their own challenges in management.  
+
+**Asking for help can be so hard when you’re the boss.** Managers are people too! We wouldn't expect anyone else to know all the answers or get things right all the time, and we shouldn't expect that of ourselves. I learn best when I'm directly applying the thing I'm trying to learn, but that means that I sometimes flail around a bit before getting it right. And that's okay! Some flailing is fine - but admitting that I need reinforcements is also fine. Remember that manager peer network I mentioned? Call on them!
+
+Sometimes asking for help is as simple as saying "I don't know", which is an underrated skill. Maybe it's my teaching background, but I've become really comfortable speaking up when I don't know the acronym someone is using, or the process they're describing, or the complex techncial solution they just summarized. I find it really easy to ask "What does that mean?". It feels so good! It's empowering! It lets me learn more! And I've often found that when I speak up to say "I don't know", someone else in the room _also_ didn't know - but they didn't feel comfortable asking for more information. So you get to feel great and empowered and learn, but you also get to help other people! 
+
+**Listen enough and sleep enough.** I'm all about building that sleep routine! I try to put down my phone about an hour before bed, both to reduce blue light and to reduce cramming more things into my brain. I'll wash my face, do some stretching, and use some lavender lotion on my hands (I found one that smells really nice and not too strong or perfume-y). Then I'll massage my forehead because I tend to have tension there by the end of the day and it feels super relaxing! I might read a book if I've got a current one, and I'll try really hard not to unlock my phone again when I plug it in. I've started taking L-theanine at bedtime to relax, since I have a tendency to start writing emails and to-lists or reviewing conversations in my head once everything is still (hello, fellow internal monloguers! Do we all struggle with this when it's time for sleep?). I also just got a sunrise alarm clock, which is AMAZING and has made waking up so much better. There are studies upon studies that reinforce how much sleep - or lack of it - affects your health. When I successfully get a good night's sleep, I can _feel_ the difference both mentally and physically. Get your eight hours! 
+
+_What's your experience with support & self-care as a tech manager? What routines or foundations have you set for either?_
