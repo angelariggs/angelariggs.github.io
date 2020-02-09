@@ -53,8 +53,11 @@ p {
   color: $text;
   a {
     color: $secondary-color;
-    text-decoration-line: none;
+    background-color: $tertiary-color;
     &:hover {
+      color: $tertiary-color;
+      background-color: $secondary-color;
+      text-decoration-line: underline;
       text-decoration-style: wavy;
     }
   }
