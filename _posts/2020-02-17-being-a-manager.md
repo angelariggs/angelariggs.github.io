@@ -8,7 +8,7 @@ comments: true
 
 Congratulations, you're a manager 🎉 First step off the IC path, first rung of the leadership ladder - exciting career changes! 
 
-So - now what? How is your role changing? What do you _do_ when you're a manager? How is it different from your IC responsibilities? What shifts in work and, more importantly, shifts in strategy and perspective will you need to make? A career ladder should offer some insights here, but many companies don't have one. Drawing on the advice of tech managers who have learned this through experience, let's take a look at some of those shifts:
+So - now what? How is your role changing? What do you _do_ when you're a manager? What shifts in work and, more importantly, shifts in strategy and perspective will you need to make? A career ladder should offer some insights here, but many companies don't have one. Drawing on the advice of tech managers who have learned this through experience, let's take a look at some of those shifts:
 
 - Be ready to change what "productive" looks like in your mind. Your to-do list is more about others and making sure they are able to complete tasks than about your contributions to the deliverable.
 - Develop your people not your position, if you do your position will develop itself with management and just importantly with your team. Good luck!
