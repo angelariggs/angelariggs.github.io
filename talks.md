@@ -7,6 +7,21 @@ permalink: /talks
 <div>
 <h1 class="res-sec-title">Talks & Panels</h1>
 
+<h1 class="year">// 2020 //</h1>
+
+<h2 class="res-h2">A Beginner's Guide to Test Automation</h2>
+<h3 class="res-h3">Agile Testing Days USA, June 2020</h3>
+<h4 class="res-h4" class="res-h4"><a href="https://agiletestingdays.us/session/a-beginners-guide-to-test-automation">Description</a>
+
+<h2 class="res-h2">A Beginner's Guide to Test Automation</h2>
+<h3 class="res-h3">STPCon, March 2020</h3>
+<h4><i>Postponed to March 2021</i></h4>
+
+<h2 class="res-h2">Beginner's Guide to the Automation Galaxy</h2>
+<h3 class="res-h3">TSQA, February 2020</h3>
+<h4 class="res-h4" class="res-h4"><a href="https://tsqa.org/sessions#block-yui_3_17_2_1_1577116787998_19057">Description</a> | <a href="http://bit.ly/beginners-guide-automation-galaxy">Slides</a>
+
+
 <h1 class="year">// 2019 //</h1>
 
 <h2 class="res-h2">A Beginner's Guide to Test Automation</h2>
