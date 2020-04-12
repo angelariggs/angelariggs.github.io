@@ -5,8 +5,6 @@ permalink: /talks
 ---
 
 # Talks & Panels
-&nbsp;
-&nbsp;
 
 # // 2020 //
 
