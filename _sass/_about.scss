@@ -1,11 +1,12 @@
 #about-recs {
-  background-color: $tertiary-color;
+  background-color: $page-background;
   padding: 1em 1em;
   font-family: $display;
   font-size: 18px;
+  line-height: 1.5em;
   color: $text;
   text-align: left;
   border-style: inset;
   border-width: 3px;
-  border-color: #ff00a1;
+  border-color: $accent-color;
 }

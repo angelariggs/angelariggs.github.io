@@ -61,15 +61,16 @@ a {
   font-family: $sans-serif;
 }
 
-.wrapper-footer {
-  border-top: 1px solid $tertiary-color;
-  border-bottom: 1px solid $tertiary-color;
-  background-color: $tertiary-color;
+/*.wrapper-footer {
+  border-top: 1px solid $accent-color;
+  border-bottom: 1px solid $accent-color;
+  background-color: $accent-color;*/
+
 /*  // position: fixed;
-  // bottom: 0;
-  // z-index: 2;
-  // width: 100%;*/
-}
+  bottom: 0;
+  z-index: 2;
+  width: 100%;*/
+/*}*/
 
 footer {
   padding: 20px 0;
