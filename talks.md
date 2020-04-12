@@ -4,61 +4,64 @@ layout: page
 permalink: /talks
 ---
 
-<div>
-<h1 class="res-sec-title">Talks & Panels</h1>
+# Talks & Panels
+&nbsp;
+&nbsp;
 
-<h1 class="year">// 2020 //</h1>
+# // 2020 //
 
-<h2 class="res-h2">A Beginner's Guide to Test Automation</h2>
-<h3 class="res-h3">Agile Testing Days USA, June 2020</h3>
-<h4 class="res-h4" class="res-h4"><a href="https://agiletestingdays.us/session/a-beginners-guide-to-test-automation">Description</a>
+## A Beginner's Guide to Test Automation
+### Agile Testing Days USA, June 2020
+[Description](https://agiletestingdays.us/session/a-beginners-guide-to-test-automation")
 
-<h2 class="res-h2">A Beginner's Guide to Test Automation</h2>
-<h3 class="res-h3">STPCon, March 2020</h3>
-<h4><i>Postponed to March 2021</i></h4>
+## A Beginner's Guide to Test Automation
+### STPCon, March 2020
+_Postponed to March 2021_
 
-<h2 class="res-h2">Beginner's Guide to the Automation Galaxy</h2>
-<h3 class="res-h3">TSQA, February 2020</h3>
-<h4 class="res-h4" class="res-h4"><a href="https://tsqa.org/sessions#block-yui_3_17_2_1_1577116787998_19057">Description</a> | <a href="http://bit.ly/beginners-guide-automation-galaxy">Slides</a>
+## Beginner's Guide to the Automation Galaxy
+### TSQA, February 2020
+[Description](https://tsqa.org/sessions#block-yui_3_17_2_1_1577116787998_19057) | [Slides](http://bit.ly/beginners-guide-automation-galaxy)
 
+&nbsp;
+&nbsp;
+# // 2019 //
 
-<h1 class="year">// 2019 //</h1>
+## A Beginner's Guide to Test Automation
+### TestBash San Francisco, November 2019
+[Description](https://www.ministryoftesting.com/events/testbash-san-francisco-2019#a-beginner-s-guide-to-test-automation) | [Slides](http://bit.ly/angela-testbash2019) | [Video](https://www.ministryoftesting.com/dojo/series/testbash-san-francisco-2019/lessons/a-beginner-s-guide-to-test-automation-angela-riggs)
 
-<h2 class="res-h2">A Beginner's Guide to Test Automation</h2>
-<h3 class="res-h3"> TestBash San Francisco, November 2019</h3>
-<h4 class="res-h4" class="res-h4"><a href="https://www.ministryoftesting.com/events/testbash-san-francisco-2019#a-beginner-s-guide-to-test-automation">Description</a> | <a href="http://bit.ly/angela-testbash2019">Slides</a> | <a href="https://www.ministryoftesting.com/dojo/series/testbash-san-francisco-2019/lessons/a-beginner-s-guide-to-test-automation-angela-riggs">Video</a></h4>
+## MoT Podcast Challenge: Carlos Kidman & Angela Riggs
+### Ministry of Testing, September 2019
+[Podcast](http://bit.ly/angela-mot-podcast)
 
-<h2 class="res-h2">MoT Podcast Challenge: Carlos Kidman & Angela Riggs</h2>
-<h3 class="res-h3">Ministry of Testing, September 2019</h3>
-<h4 class="res-h4"><a href="http://bit.ly/angela-mot-podcast">Podcast</a></h4>
+## Why is There a Marble in Your Nose?
+### CAST, August 2019
+[Description](https://cast2019.sched.com/event/O8qZ/why-is-there-a-marble-in-your-nose) | [Slides](http://bit.ly/cast2019-marble-nose) | [Video](http://bit.ly/angela-cast2019-video)
 
-<h2 class="res-h2">Why is There a Marble in Your Nose?</h2>
-<h3 class="res-h3"> CAST, August 2019</h3>
-<h4 class="res-h4"><a href="https://cast2019.sched.com/event/O8qZ/why-is-there-a-marble-in-your-nose">Description</a> | <a href="http://bit.ly/cast2019-marble-nose">Slides</a> | <a href="http://bit.ly/angela-cast2019-video">Video</a></h4>
+## Creating a Culture of Quality
+### Refactr.Tech, June 20198
+[Description](https://refactr.tech/detail/sessions.html#creating-a-culture-of-quality) | [Slides](http://bit.ly/refactr2019-culture-quality) | [Video](http://bit.ly/angela-refactr2019-video)
 
-<h2 class="res-h2">Creating a Culture of Quality</h2>
-<h3 class="res-h3"> Refactr.Tech, June 2019</h3>
-<h4 class="res-h4"><a href="https://refactr.tech/detail/sessions.html#creating-a-culture-of-quality">Description</a> | <a href="http://bit.ly/refactr2019-culture-quality">Slides</a> | <a href="http://bit.ly/angela-refactr2019-video">Video</a></h4>
+## Panel Discussion: Continuous Testing
+### Mabl webinar, May 2019
+[Webinar](https://www.mabl.com/blog/how-to-shift-to-continuous-testing-in-devops)
 
-<h2 class="res-h2">Panel Discussion: Continuous Testing</h2>
-<h3 class="res-h3"> Mabl webinar, May 2019</h3>
-<h4 class="res-h4"><a href="https://www.mabl.com/blog/how-to-shift-to-continuous-testing-in-devops">Video</a></h4>
+## Panel Discussion: Communication in Testing
+### Software Test Professionals webinar, April 2019
+[Webinar](https://www.softwaretestpro.com/communication-in-testing)
 
-<h2 class="res-h2">Panel Discussion: Communication in Testing</h2>
-<h3 class="res-h3"> Software Test Professionals webinar, April 2019</h3>
-<h4 class="res-h4"><a href="https://www.softwaretestpro.com/communication-in-testing/">Video</a></h4>
+&nbsp;
+&nbsp;
+# // 2018 //
 
-<br /><h1 class="year">// 2018 //</h1>
+## Creating a Culture of Quality Assurance
+### TestBash San Francisco
+[Description](https://www.ministryoftesting.com/events/testbash-san-francisco-2018#creating-a-culture-of-quality-assurance) | [Slides](https://speakerdeck.com/angelariggs/creating-a-culture-of-quality-testbash-sf) | [Video](https://www.ministryoftesting.com/dojo/lessons/creating-a-culture-of-quality-assurance-angela-riggs)
 
-<h2 class="res-h2">Creating a Culture of Quality Assurance</h2>
-<h3 class="res-h3"> TestBash San Francisco, November 2018</h3>
-<h4 class="res-h4"><a href="https://www.ministryoftesting.com/events/testbash-san-francisco-2018#creating-a-culture-of-quality-assurance">Description</a> | <a href="https://speakerdeck.com/angelariggs/creating-a-culture-of-quality-testbash-sf">Slides</a> | <a href="https://www.ministryoftesting.com/dojo/lessons/creating-a-culture-of-quality-assurance-angela-riggs">Video</a></h4>
+## Automated Visual Regression Testing with BackstopJS
+### PNSQC, October 2018
+[Description](https://www.pnsqc.org/automated-visual-regression-testing-with-backstopjs) | [Slides](https://speakerdeck.com/angelariggs/automating-visual-regression-testing-with-backstopjs)
 
-<h2 class="res-h2">Automated Visual Regression Testing with BackstopJS</h2>
-<h3 class="res-h3">PNSQC, October 2018</h3>
-<h4 class="res-h4"><a href="https://www.pnsqc.org/automated-visual-regression-testing-with-backstopjs">Description</a> | <a href="https://speakerdeck.com/angelariggs/automating-visual-regression-testing-with-backstopjs">Slides</a></h4>
-
-<h2 class="res-h2">Career & Technical Panel</h2>
-<h3 class="res-h3">Women Who Code Portland, February 2018</h3>
-<h4 class="res-h4"><a href="https://www.meetup.com/Women-Who-Code-Portland/events/245945636">Description</a></h4>
-</div>
+## Career & Technical Panel
+### Women Who Code Portland, February 2018
+[Description](https://www.meetup.com/Women-Who-Code-Portland/events/245945636)

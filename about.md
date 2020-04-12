@@ -3,18 +3,19 @@ layout: page
 title:
 permalink: /about
 ---
-<div class='add-pad'>
-	<p>👋🏼 Hello! I'm a Quality Advocate in Portland, OR.</p>
 
-	<p>I'm currently at <a href="https://www.instrument.com">Instrument</a> as their first QA Manager, working to create Quality Engineering as an internal discipline! This means I get to solve people problems and nerd out on process improvements, which I love ✨</p>
+👋 Hello! I'm a Quality Advocate in Portland, OR.
 
-	<p>I enjoy speaking at <a href="https://angelariggs.github.io/talks">conferences, webinars, and podcasts</a>! In 2020, you can find me at <a href="https://tsqa.org/sessions#block-yui_3_17_2_1_1577116787998_19057">TSQA</a>, <a href="https://www.stpcon.com/event-schedule/">STPCon</a>, and <a href="https://agiletestingdays.us/program/conf-day-1/">Agile Testing Days USA</a>.</p>
+I'm currently at [Instrument](https://www.instrument.com) as their first QA Manager, working to create Quality Engineering as an internal discipline! This means I get to solve people problems and nerd out on process improvements.
 
-	<p>In my spare time at home, I'm usually watching GBBO or reading - my current lineup is Will Wight's "Unsouled" series and Hanif Abdurraqib's "They Can't Kill Us Until They Kill Us". I also love traveling! I get to travel for conferences, but also enjoy taking trips and exploring new places with <a href="https://www.instagram.com/joshriggs">this handsome guy</a>.</p>
+I enjoy speaking at [conferences, webinars, and podcasts](https://angelariggs.github.io/talks). In 2020, you can find me at [TSQA](https://tsqa.org/sessions#block-yui_3_17_2_1_1577116787998_19057), [STPCon](https://www.stpcon.com/event-schedule), and [Agile Testing Days USA](https://agiletestingdays.us/program/conf-day-1/).
 
-	<p>You can check out my resume and career on <a href="https://www.linkedin.com/in/angelariggs/">LinkedIn</a>, and find me tweeting about various topics at <a href="https://twitter.com/AngelaRiggs_">@AngelaRiggs_</a>. </p>
+In my spare time at home, I'm usually watching GBBO or reading - my current lineup is Will Wight's "Unsouled" series and Hanif Abdurraqib's "They Can't Kill Us Until They Kill Us". I also love traveling! I get to travel for conferences, but also enjoy taking trips and exploring new places with [this handsome guy](https://www.instagram.com/joshriggs).
 
-</div>
+You can check out my resume and career on [LinkedIn](https://www.linkedin.com/in/angelariggs), and find me tweeting about various topics at [@AngelaRiggs_](https://twitter.com/AngelaRiggs_).
+
+&nbsp;
+&nbsp;
 
 <div id="about-recs">
 	<h2>People ♥ working with me!</h2>
