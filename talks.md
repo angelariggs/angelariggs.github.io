@@ -1,10 +1,9 @@
 ---
 redirect_from: /work
 layout: page
+title: "Talks & Panels"
 permalink: /talks
 ---
-
-# Talks & Panels
 
 # // 2020 //
 
