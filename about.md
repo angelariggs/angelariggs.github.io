@@ -10,7 +10,7 @@ I'm currently at [Instrument](https://www.instrument.com) as their first QA Mana
 
 I enjoy speaking at [conferences, webinars, and podcasts](https://angelariggs.github.io/talks). In 2020, you can find me at [TSQA](https://tsqa.org/sessions#block-yui_3_17_2_1_1577116787998_19057), [STPCon](https://www.stpcon.com/event-schedule), and [Agile Testing Days USA](https://agiletestingdays.us/program/conf-day-1/).
 
-In my spare time at home, I'm usually watching GBBO or reading - my current lineup is Will Wight's "Unsouled" series and Hanif Abdurraqib's "They Can't Kill Us Until They Kill Us". I also love traveling! I get to travel for conferences, but also enjoy taking trips and exploring new places with [this handsome guy](https://www.instagram.com/joshriggs).
+In my spare time at home, I'm usually watching GBBO or reading - my current lineup is N.K. Jemisin's Broken Earth series. I also love traveling! I get to travel for conferences, but also enjoy taking trips and exploring new places with [this handsome guy](https://www.instagram.com/joshriggs).
 
 You can check out my resume and career on [LinkedIn](https://www.linkedin.com/in/angelariggs), and find me tweeting about various topics at [@AngelaRiggs_](https://twitter.com/AngelaRiggs_).
 
