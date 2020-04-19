@@ -10,6 +10,7 @@ permalink: /talks
 ## A Beginner's Guide to Test Automation
 ### Agile Testing Days USA, June 2020
 [Description](https://agiletestingdays.us/session/a-beginners-guide-to-test-automation")
+_Postponed to March 2021_
 
 ## A Beginner's Guide to Test Automation
 ### STPCon, March 2020
