@@ -88,8 +88,8 @@ sass:
 
 # Use the following plug-ins
 plugins:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem.
   - jekyll-redirect-from
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem.
 
 plugins_dir:
   - jekyll-feed
