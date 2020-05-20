@@ -8,7 +8,7 @@ comments: true
 
 Welcome to the fifth and final post in my [New Managers]({% post_url 2020-01-16-first-time-manager %}) series! I've talked about creating a supportive culture, tips for self-care, and what your responsibilities might look like as a new manager. For this last post, I want to talk about how to manage people effectively so that you and they can succeed!
 
-The tl;dr of effective management is to develop your core skills (also know as "soft skills"). It's a somewhat common fallacy that core skills are innate - e.g. you either have them or you don't - but as a former early childhood teacher please believe me when I say that core skills are 100% learnable throughout your entire career. (If you're interested in a broader exploration of this topic, I'll be speaking about it at [Test Leadership Congress](https://testleadership2020.sched.com/speaker/riggs.ang) this summer!)
+The tl;dr of effective management is to develop your core skills (also known as "soft skills"). It's a somewhat common fallacy that core skills are innate - e.g. you either have them or you don't - but as a former early childhood teacher please believe me when I say that core skills are 100% learnable throughout your entire career. (If you're interested in a broader exploration of this topic, I'll be speaking about it at [Test Leadership Congress](https://testleadership2020.sched.com/speaker/riggs.ang) this summer!)
 
 But let's dive a little deeper into this! When I asked for feedback and advice about [being a new manager on Twitter](https://twitter.com/AngelaRiggs_/status/1216078559346741249), here are some of the responses that fell into this category of effective management:
 
