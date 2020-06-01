@@ -12,7 +12,7 @@ I'm also seeing a lot of great resources out there for self-education and allysh
 
 *If you have resources for any category that you would like me to include, please DM me or send me a tweet at [@AngelaRiggs_](https://twitter.com/AngelaRiggs_). If it's a resource that someone else created, please make sure to include the appropriate way to credit them!*
 
-### Useful advocacy & support 
+### Effective advocacy & support 
 
 - 3 Steps for Leaders to Take in Emergencies: Lara Hogan's article on things you should prioritize as a leader in order to support your team
   - [https://larahogan.me/blog/3-steps-for-leaders-in-emergencies/](https://larahogan.me/blog/3-steps-for-leaders-in-emergencies/)
