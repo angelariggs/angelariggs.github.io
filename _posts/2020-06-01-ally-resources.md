@@ -10,7 +10,7 @@ I'm seeing a lot of non-Black folks seeking ways to support their Black friends 
 
 I'm also seeing a lot of great resources out there for self-education and allyship, so I thought I'd compile some of them into one place. This is intended to be a living article, so I'll update it as I continue to learn and engage.
 
-*If you have resources for any category that you would like me to include, please DM me or send me a tweet at [@AngelaRiggs_](https://twitter.com/AngelaRiggs_). If it's a resource that someone else created, please make sure to include the appropriate way to credit them!*
+*If you have resources for any category that you would like me to include, please drop by Twitter to DM me or send me a tweet at [@AngelaRiggs_](https://twitter.com/AngelaRiggs_). If it's a resource that someone else created, please make sure to include the appropriate way to credit them!*
 
 ### Effective advocacy & support 
 
@@ -51,8 +51,30 @@ I'm also seeing a lot of great resources out there for self-education and allysh
 
 - Rihanna's NAACP Image Awards speech on the importance of Black issues being everyone's issues
   - [https://www.refinery29.com/en-us/2020/05/9841376/black-trauma-george-floyd-dear-white-people](https://www.refinery29.com/en-us/2020/05/9841376/black-trauma-george-floyd-dear-white-people)
+
+- Stats That Matter, an animated episode series from Titus Animates
+  - [https://www.instagram.com/p/CA51NLcBIU5/](https://www.instagram.com/p/CA51NLcBIU5/)
+
   
 ### Donate
+
+Note: As Kimberly Bryant [pointed out](https://twitter.com/6Gems/status/1267526405937483778), donating isn't just about the immediate needs of bail funds - it's about funding grassroots organizations that are working for systemic and community changes.
+
+- Code 2040
+  - [http://www.code2040.org/](http://www.code2040.org/)
+
+- Hack the Hood
+  - [https://www.hackthehood.org/](https://www.hackthehood.org/)
+
+- Project Include
+  - [https://projectinclude.org/](https://projectinclude.org/)
+
+- INTech
+  - [http://www.code2040.org/](http://www.code2040.org/)
+
+- Black Girls Code
+  - [https://www.blackgirlscode.com/](https://www.blackgirlscode.com/)
+
 
 - Black Visions Collective (BLVC)
   - [https://blackvisionsmn.org](https://blackvisionsmn.org)
