@@ -55,6 +55,9 @@ I'm also seeing a lot of great resources out there for self-education and allysh
 - Stats That Matter, an animated episode series from Titus Animates
   - [https://www.instagram.com/p/CA51NLcBIU5/](https://www.instagram.com/p/CA51NLcBIU5/)
 
+- Mapping Police Violence
+  - [https://mappingpoliceviolence.org/](https://mappingpoliceviolence.org/)
+
   
 ### Donate
 
@@ -75,6 +78,8 @@ Note: As Kimberly Bryant [pointed out](https://twitter.com/6Gems/status/12675264
 - Black Girls Code
   - [https://www.blackgirlscode.com/](https://www.blackgirlscode.com/)
 
+- Rachel Cargle's Loveland Foundation
+  - [https://thelovelandfoundation.org/ways-to-give/](https://thelovelandfoundation.org/ways-to-give/)
 
 - Black Visions Collective (BLVC)
   - [https://blackvisionsmn.org](https://blackvisionsmn.org)
@@ -107,3 +112,6 @@ Note: As Kimberly Bryant [pointed out](https://twitter.com/6Gems/status/12675264
 
 - 5 Calls: Demand reform on police use of force
   - [https://5calls.org/issue/police-use-of-force-reform](https://5calls.org/issue/police-use-of-force-reform)
+
+- Consistently support Black-owned businesses! Here's a great roundup for Portland from Stephen Green and Built Oregon
+  - [https://siliconflorist.com/2020/03/03/missing-the-daily-black-history-month-tweets-about-portland-founders-me-too-relive-them/](https://siliconflorist.com/2020/03/03/missing-the-daily-black-history-month-tweets-about-portland-founders-me-too-relive-them/)
