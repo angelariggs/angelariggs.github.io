@@ -30,11 +30,11 @@ hr {
   opacity: 0.25;
 }
 
-#quotes {
+#land p {
   background-color: $page-background;
-  padding: 2em 1em;
-  font-family: $display;
-  font-size: 24px;
+  padding: 3em 3em;
+  font-family: $sans-serif;
+  font-size: 12px;
   color: $accent-color;
-  text-align: center;
+  text-align: left;
 }
