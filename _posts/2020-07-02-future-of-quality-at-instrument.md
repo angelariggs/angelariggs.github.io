@@ -1,12 +1,10 @@
 ---
 layout: post
 title:  "The Future of Quality At Instrument"
-date:   2020-07-02
+date:   2020-07-30
 permalink: /articles/future-of-quality-at-instrument
 comments: true
 ---
-
-*[ Originally published on [Instrument](https://www.instrument.com/articles/the-future-of-quality-at-instrument) ]*
 
 For the past six months, I’ve been leading a new initiative at Instrument: creating an internal Quality Engineering discipline within our larger Technology discipline.
 
@@ -84,3 +82,5 @@ Our embedded model also increases the productivity and efficiency of the teams. 
 Over the past six months, the feedback we’ve received from internal teams has been unequivocally positive. We’re changing the way people think about quality and QA. We’re making it easier for everyone to do great work, and have confidence that it’s their best work. 
 
 We’re making concrete, visible improvements in the way we build and launch projects at Instrument, setting a foundation of quality that will empower us to solve bigger and better challenges together.
+
+*[ Originally published on [Instrument](https://www.instrument.com/articles/the-future-of-quality-at-instrument) ]*
