@@ -10,8 +10,12 @@ permalink: /talks
 # // 2020 //
 
 ## Why is There a Marble in Your Nose?
-### _(Upcoming)_ Test Leadership Congress - August 4th, 2020
-[Description](https://testleadership2020.sched.com/event/cL6U/why-is-there-a-marble-in-your-nose#sched-page-event-sharing)
+### _(Upcoming)_ STPCon Virtual - September 30, 2020
+[Description](https://www.stpcon.com/speakers/angela-riggs/)
+
+## Why is There a Marble in Your Nose?
+### Test Leadership Congress - August 2020
+[Description](https://testleadership2020.sched.com/event/cL6U/why-is-there-a-marble-in-your-nose#sched-page-event-sharing) | [Slides](https://bit.ly/tlc-marble-in-nose)
 
 ## A Beginner's Guide to Test Automation
 ### Agile Testing Days USA - June 2020
