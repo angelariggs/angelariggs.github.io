@@ -7,7 +7,7 @@ image: ../images/metadata.png
 comments: true
 ---
 
-For the past six months, I’ve been leading a new initiative at Instrument: creating an internal Quality Engineering discipline within our larger Technology discipline. test
+For the past six months, I’ve been leading a new initiative at Instrument: creating an internal Quality Engineering discipline within our larger Technology discipline.
 
 Instrument has historically partnered with external agencies for quality assurance, using a model that brings in a separate QA team during the closing sprints of a project. Instrument has launched beautiful and innovative products under this model - but now I want to take it even further, and set a foundation that will allow us to solve bigger and better challenges together.
 

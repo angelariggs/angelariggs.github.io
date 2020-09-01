@@ -16,3 +16,9 @@
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
+
+    {% if page.image %}
+    <meta property="og:image" content="../images/metadata.png">
+    {% else %}
+    <meta property="og:image" content="../images/metadata.png">
+    {% endif %}
