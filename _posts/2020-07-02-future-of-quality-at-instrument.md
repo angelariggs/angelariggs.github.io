@@ -3,7 +3,6 @@ layout: post
 title:  "The Future of Quality At Instrument"
 date:   2020-07-30
 permalink: /articles/future-of-quality-at-instrument
-image: ../images/metadata.png
 comments: true
 ---
 
