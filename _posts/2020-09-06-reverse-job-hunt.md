@@ -22,10 +22,10 @@ Now or soon!
 
 This is kind of a squishy question right now - all companies are Covid-remote, but not all companies are planning to maintain a fully remote workplace once it’s safe to return to an office. So I'm flexible on the "where" requirement! Locations include:
 
-- Portland, OR
-- US remote
-- Non-US remote if the time zone differences work out for everyone
-- Open to future relocation, US and abroad
+- Portland, OR.
+- US remote.
+- Non-US remote if the time zone differences work out for everyone.
+- Open to future relocation, US and abroad.
 
 ## 😄 About Me
 
@@ -62,14 +62,14 @@ These items are important aspects of company culture that I look for and would s
 
 These are strong preferences I have for any company I’m at!
 
-- Unlimited sick leave
-- 401k matching
-- Proactive outreach and meaningful support for employees during the Covid crisis
-- 15+ days of vacation
-- Trans-inclusive healthcare
-- Parental leave policies
-- Budget and time off for professional development
-- Active in their communities and industry 
+- Unlimited sick leave.
+- 401k matching.
+- Proactive outreach and meaningful support for employees during the Covid crisis.
+- 15+ days of vacation.
+- Trans-inclusive healthcare.
+- Parental leave policies.
+- Budget and time off for professional development.
+- Active in their communities and industry.
 
 ### Cons
 
