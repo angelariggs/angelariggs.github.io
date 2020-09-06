@@ -12,7 +12,7 @@ This post was inspired by Julie Pagano's ["reverse job hunt" blog post](https://
 
 ## ❓ Why
 
-This past Thursday, Instrument dissolved my engineering team and eliminated my role at the company.
+This past Thursday, Instrument dissolved the engineering team I was on and eliminated my role at the company.
 
 ## 📆 When
 
