@@ -81,18 +81,18 @@ These aren’t dealbreakers, but they’ll make me more hesitant to be part of y
 
 ### Dealbreakers
 
-- You don't have an official HR 
-- You don't have any Black employees
+- You don't have an official HR. 
+- You don't have any Black employees.
 
 ## Contact Me
 If my experience and expectations sound good to you, please reach out! You can email me at [riggs.ang+jobs@gmail.com](mailto:riggs.ang+jobs@gmail.com) and include the following in your email:
 
-- The name of the organization you are contacting me about
-- Your role within the organization
-- Where the organization is based, and whether the role is Covid-remote or fully remote
-- What kind of organization it is (e.g. private/public company, non-profit, agency, product company)
-- Information about the position(s) and/or a link to relevant job postings
-- A brief description of why the organization would be a good fit for me and vice versa
-- Any other information you think is useful
+- The name of the organization you are contacting me about.
+- Your role within the organization.
+- Where the organization is based, and whether the role is Covid-remote or fully remote.
+- What kind of organization it is (e.g. private/public company, non-profit, agency, product company).
+- Information about the position(s) and/or a link to relevant job postings.
+- A brief description of why the organization would be a good fit for me and vice versa.
+- Any other information you think is useful.
 
 Thanks in advance - I look forward to hearing from you!
