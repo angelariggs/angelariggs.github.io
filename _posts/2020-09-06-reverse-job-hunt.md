@@ -2,7 +2,7 @@
 layout: post
 title:  "Looking for Work!"
 date:   2020-09-06
-permalink: /articles/future-of-quality-at-instrument
+permalink: /articles/looking-for-work
 comments: true
 ---
 
