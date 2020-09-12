@@ -54,9 +54,9 @@ I’m potentially open to an IC role at a company that has a clear path back to 
 These items are important aspects of company culture that I look for and would strive to maintain while I’m there.
 
 - **Psychological safety:** People feel safe advocating for their needs. People feel safe trying new things because they know mistakes aren’t punished. People feel safe asking questions and expecting honest answers.
-- **Authenticity > niceness:** Sometimes you have to have hard conversations, and that’s okay. The ability to hold those conversations in a respectful and meaningful way is what allows us to move forward and improve. 
-- **Collaboration:** Across departments and hierarchy, people consistently work together to solve problems, share knowledge, and create.
-- **Compassion:** People understand that there are identities outside of their own, especially if they benefit from intersections of inherent privilege. E.g. I’m a white straight cis able-bodied woman, which benefits me in many ways that I haven’t earned - so I have to be mindful about incorporating and understanding perspectives and experiences beyond my own default. This applies to the people we work with, as well as the users we’re building things for.
+- **Authenticity > niceness:** Companies that prioritize a facade of "niceness" often do so at the detriment of authentic conversations, meaningful feedback, and the ability to iterate or improve as needed. _Kind_ and _constructive_ aren't mutually exclusive, and a supportive company culture understands how to balance those traits. 
+- **Collaboration:** Across departments and hierarchy, people consistently work together to solve problems, share knowledge, and create. 
+- **Compassion:** People understand that there are identities outside of their own, especially if they benefit from intersections of inherent privilege. E.g. I’m a white straight cis able-bodied woman, which benefits me in many ways that I haven’t earned - so I have to be mindful about incorporating perspectives and experiences beyond my own default. This applies to the people we work with, as well as the users we’re building things for.
 
 ### Pros
 
@@ -68,16 +68,17 @@ These are strong preferences I have for any company I’m at!
 - 15+ days of vacation.
 - Trans-inclusive healthcare.
 - Parental leave policies.
-- Budget and time off for professional development.
+- Budget and time off for professional development, e.g. attending or speaking at conferences.
 - Active in their communities and industry.
+- Your company actively helps people or makes a positive difference in the world.
 
 ### Cons
 
 These aren’t dealbreakers, but they’ll make me more hesitant to be part of your company.
 
 - The executive leadership group consists only of white men.
-- No career ladders. Career ladders, when created and implemented correctly, offer a shared understanding of expectations for hiring, reviews, and promotions. They help remove subjectivity and bias and attempt to bring in more objectivity, which benefits people who are most harmed by biased decisions. 
-- Hidden pay bands, or no pay bands. Under-represented and minoritized groups are most harmed when salaries are not transparent. Pay bands, when adhered to across the org, allow for equitable pay practices in hiring, raises, and promotions. If a company has chosen not to implement and enforce transparent pay bands, I would assume that people are being harmed by pay inequities.  
+- No career ladders. Career ladders, when created and implemented correctly, offer a shared understanding of expectations. They help remove subjectivity and bias to create better opportunities for equitable, objective decisions around hiring, reviews, and promotions - which benefits minoritized or marginalized people who are most likely to be harmed by biased decisions.
+- Hidden pay bands, or no pay bands. Marginalized and minoritized groups are most harmed when salaries are not transparent. Pay bands, when adhered to across the company, allow for equitable pay practices in hiring, raises, and promotions. If a company has chosen not to implement and enforce transparent pay bands, I would assume that people are being harmed by pay inequities.  
 
 ### Dealbreakers
 
