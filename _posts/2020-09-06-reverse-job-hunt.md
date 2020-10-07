@@ -3,7 +3,7 @@ layout: post
 title:  "Looking for Work!"
 date:   2020-09-06
 permalink: /articles/looking-for-work
-related_image: ../images/img-reverse-job-hunt.png
+image: ../images/img-reverse-job-hunt.png
 comments: true
 ---
 
