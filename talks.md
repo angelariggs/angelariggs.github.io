@@ -5,13 +5,21 @@ title: "Talks & Panels"
 permalink: /talks
 ---
 
+> _Welcome, and thanks for checking out my public speaking! If you're here to invite me as a speaker for your conference, webinar, or podcast, I'd like to refer you to the folks below instead_ 🙂 _Our industry can always benefit from wider perspectives, and they have a variety of expertise and experiences to share with your audience!_
+> - [Tolu Adegbite](https://www.tolu.xyz)
+> - [Erika Chestnut](https://erikachestnut.com)
+> - [Valerie Phoenix]()
+> - [Crystal Preston-Watson](https://crystalprestonwatson.com)
+> - [Julia Pottinger](https://www.linkedin.com/in/julia-pottinger)
+
 &nbsp;
 &nbsp;
+
 # // 2020 //
 
 ## Why is There a Marble in Your Nose?
-### _(Upcoming)_ STPCon Virtual - September 30, 2020
-[Description](https://www.stpcon.com/speakers/angela-riggs/)
+### STPCon Virtual - September 30, 2020
+[Description](https://www.stpcon.com/speakers/angela-riggs/) | [Slides](https://speakerdeck.com/angelariggs/stpcon-why-is-there-a-marble-in-your-nose) | [Video](http://bit.ly/stpcon-2020)
 
 ## Why is There a Marble in Your Nose?
 ### Test Leadership Congress - August 2020
@@ -35,7 +43,7 @@ _Postponed to March 2021_
 
 ## A Beginner's Guide to Test Automation
 ### TestBash San Francisco - November 2019
-[Description](https://www.ministryoftesting.com/events/testbash-san-francisco-2019#a-beginner-s-guide-to-test-automation) | [Slides](http://bit.ly/angela-testbash2019) | [Video](https://www.ministryoftesting.com/dojo/series/testbash-san-francisco-2019/lessons/a-beginner-s-guide-to-test-automation-angela-riggs)
+[Description](https://www.ministryoftesting.com/events/testbash-san-francisco-2019#a-beginner-s-guide-to-test-automation) | [Slides](http://bit.ly/angela-testbash2019) | [Video](http://bit.ly/testbash-2019)
 
 ## MoT Podcast Challenge: Carlos Kidman & Angela Riggs
 ### Ministry of Testing - September 2019
@@ -47,7 +55,7 @@ _Postponed to March 2021_
 
 ## Creating a Culture of Quality
 ### Refactr.Tech - June 20198
-[Description](https://refactr.tech/detail/sessions.html#creating-a-culture-of-quality) | [Slides](http://bit.ly/refactr2019-culture-quality) | [Video](http://bit.ly/angela-refactr2019-video)
+[Description](https://refactr.tech/detail/sessions.html#creating-a-culture-of-quality) | [Slides](http://bit.ly/refactr2019-culture-quality) | [Video](http://bit.ly/refactr-2019)
 
 ## Panel Discussion: Continuous Testing
 ### Mabl webinar - May 2019
