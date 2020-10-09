@@ -1,11 +1,11 @@
 ---
 redirect_from: /work
 layout: page
-title: "Talks & Panels"
+title: "Talks, Panels, & Podcasts"
 permalink: /talks
 ---
 
-> _Welcome, and thanks for checking out my public speaking! If you're here to invite me as a speaker for your conference, webinar, or podcast, I'd like to refer you to the folks below instead_ 🙂 _Our industry can always benefit from wider perspectives, and they have a variety of expertise and experiences to share with your audience!_
+> _Welcome, and thanks for checking out my public speaking! If you're here to invite me as a speaker for your conference, webinar, or podcast, I'd like to recommend the speakers listed below instead_ 🙂 _Our industry can always benefit from wider perspectives, and they have a variety of expertise to share with your audience!_
 > - [Tolu Adegbite](https://www.tolu.xyz)
 > - [Erika Chestnut](https://erikachestnut.com)
 > - [Ceora Ford](https://www.ceoraford.com)
@@ -47,8 +47,8 @@ _Postponed to March 2021_
 [Description](https://www.ministryoftesting.com/events/testbash-san-francisco-2019#a-beginner-s-guide-to-test-automation) | [Slides](http://bit.ly/angela-testbash2019) | [Video](http://bit.ly/testbash-2019)
 
 ## MoT Podcast Challenge: Carlos Kidman & Angela Riggs
-### Ministry of Testing - September 2019
-[Podcast](http://bit.ly/angela-mot-podcast)
+### Ministry of Testing podcast - September 2019
+[Recording](http://bit.ly/angela-mot-podcast)
 
 ## Why is There a Marble in Your Nose?
 ### CAST - August 2019
@@ -59,12 +59,12 @@ _Postponed to March 2021_
 [Description](https://refactr.tech/detail/sessions.html#creating-a-culture-of-quality) | [Slides](http://bit.ly/refactr2019-culture-quality) | [Video](http://bit.ly/refactr-2019)
 
 ## Panel Discussion: Continuous Testing
-### Mabl webinar - May 2019
-[Webinar](https://www.mabl.com/blog/how-to-shift-to-continuous-testing-in-devops)
+### Mabl - May 2019
+[Video](https://www.mabl.com/blog/how-to-shift-to-continuous-testing-in-devops)
 
 ## Panel Discussion: Communication in Testing
-### Software Test Professionals webinar - April 2019
-[Webinar](https://www.softwaretestpro.com/communication-in-testing)
+### Software Test Professionals - April 2019
+[Recording](https://www.softwaretestpro.com/communication-in-testing)
 
 &nbsp;
 &nbsp;
