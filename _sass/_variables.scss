@@ -5,47 +5,28 @@
 
 $page-background: #F7F5EF;
 
-	/*H1 & H2*/
-/*$main-color: #3F968C; */
+	/*H1 & H2, orange*/
 $main-color: #ED833E;
 
-	/*p tag links*/
+	/*p text, dark gray*/
+$text: #333333;
+
+	/*p tag links, green*/
 $link-color: #36817A;
 
-	
+	/*H3, green*/
 $secondary-color: #E3A72A; 
 
-	/*site nav*/
+	/*site nav, blue*/
 $tertiary-color: #1D6699;
 
-	/*Read More, link hover background*/
-$accent-color: #E075BC;
-
-	/*p text*/
-$text: #36383F;
-
-/*$main-color: #A40E4C; 
-$secondary-color: #008051; 
-$tertiary-color: #F7F5EF; 
-$text: #36383F;*/
-
-/*
-dark orange: #F95428;
-peach: #F8B97E;
-light blue: #8FC3BE;
-dark blue: #54A7BD;
-teal: #3F968C;
-lavender: #C4A4E7;
-purple: #7F57CA;
-golden-yellow: #E3A72A;
-
-
-*/
+	/*Read More, pink*/
+$accent-color: #DD69B6;
 
 /*Font stacks*/
-@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700|Open+Sans:400,400i,700,700i,800,800i&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Bree+Serif&family=Open+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap);
 $sans-serif: "Open Sans", sans-serif;
-$display: "Libre Baskerville", serif;
+$display: "Bree Serif", serif;
 
 /*Mobile breakpoints*/
 @mixin mobile {
