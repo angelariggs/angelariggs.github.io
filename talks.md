@@ -8,8 +8,8 @@ permalink: /talks
 > _Welcome, and thanks for checking out my public speaking! If you're here to invite me as a speaker for your conference, webinar, or podcast, I'd like to refer you to the folks below instead_ 🙂 _Our industry can always benefit from wider perspectives, and they have a variety of expertise and experiences to share with your audience!_
 > - [Tolu Adegbite](https://www.tolu.xyz)
 > - [Erika Chestnut](https://erikachestnut.com)
-> - [Ceora Ford](https://www.ceoraford.com/)
-> - [Valerie Phoenix]()
+> - [Ceora Ford](https://www.ceoraford.com)
+> - [Valerie Phoenix](https://www.linkedin.com/in/valeriesworklife)
 > - [Crystal Preston-Watson](https://crystalprestonwatson.com)
 > - [Julia Pottinger](https://www.linkedin.com/in/julia-pottinger)
 
