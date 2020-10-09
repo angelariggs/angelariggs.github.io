@@ -10,8 +10,8 @@ permalink: /talks
 > - [Erika Chestnut](https://erikachestnut.com)
 > - [Ceora Ford](https://www.ceoraford.com)
 > - [Valerie Phoenix](https://www.linkedin.com/in/valeriesworklife)
-> - [Crystal Preston-Watson](https://crystalprestonwatson.com)
 > - [Julia Pottinger](https://www.linkedin.com/in/julia-pottinger)
+> - [Crystal Preston-Watson](https://crystalprestonwatson.com)
 
 &nbsp;
 &nbsp;
