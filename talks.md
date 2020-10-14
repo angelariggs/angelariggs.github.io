@@ -19,7 +19,7 @@ permalink: /talks
 # // 2020 //
 
 ## Why is There a Marble in Your Nose?
-### STPCon Virtual - September 30, 2020
+### STPCon Virtual - September 2020
 [Description](https://www.stpcon.com/speakers/angela-riggs/) | [Slides](https://speakerdeck.com/angelariggs/stpcon-why-is-there-a-marble-in-your-nose) | [Video](http://bit.ly/stpcon-2020)
 
 ## Why is There a Marble in Your Nose?
