@@ -24,9 +24,9 @@ $tertiary-color: #1D6699;
 $accent-color: #DD69B6;
 
 /*Font stacks*/
-@import url(https://fonts.googleapis.com/css2?family=Bree+Serif&family=Open+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,400;0,600;1,400;1,600&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap);
 $sans-serif: "Open Sans", sans-serif;
-$display: "Bree Serif", serif;
+$display: "Bitter", serif;
 
 /*Mobile breakpoints*/
 @mixin mobile {
