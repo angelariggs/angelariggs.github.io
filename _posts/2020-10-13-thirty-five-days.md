@@ -61,7 +61,7 @@ People across the company used to tell me that they appreciated having someone w
 
 I want the company that I work for to be the best version of itself. More, I **want** it to want to be its best self. The executive leadership at Instrument didn’t seem to want that - and potentially, they fired me in order to continue avoiding that call to accountability and to silence what they saw as disruptive dissent. 
 
-So those are the two options. Either my team was dissolved and my role was eliminated for not meeting invisible metrics, in spite of my clear impact and success in creating the QE discipline; or I was fired in retaliation for speaking up. Either option is underhanded; the latter is cowardly and unethical.
+So those are the two options. Either my team was dissolved and my role was eliminated for not meeting invisible metrics, in spite of my clear impact and success in creating the QE discipline; or I was fired in retaliation for speaking up. Either option is unprincipled; the latter is cowardly and unethical.
 
 ## Closing Thoughts
 
