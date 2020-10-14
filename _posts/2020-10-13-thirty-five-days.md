@@ -81,4 +81,4 @@ The executive leadership team at Instrument created a veneer of [niceness](https
 
 I really want to write up a blog post around the topic of being fired - I don’t think it’s all that uncommon, but it’s something that feels shameful and embarrassing so people don’t really talk about it. Let’s normalize it as something that happens so we can talk about it, and we can share how we’re feeling and we can get the support we need when we’re going through it.
 
-And finally, thank you with all my heart to everyone who responded with such kindness when I was sharing the news, who offered support and encouragement, who spoke up, who made connections or sent a job req my way. You all helped make a terrible time a little easier, and I appreciate you so much ❤️
+And finally - thank you with all my heart to everyone who responded with such kindness when I was sharing the news, who offered support and encouragement, who spoke up, who made connections or sent a job req my way. You all helped make a terrible time a little easier, and I appreciate you so much ❤️
