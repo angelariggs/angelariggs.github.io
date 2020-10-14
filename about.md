@@ -4,7 +4,9 @@ title:
 permalink: /about
 ---
 
-👋 Hello! I'm a Quality Advocate in Portland, OR. 
+> **I'm currently looking for work - please read through my [reverse job hunt](https://angelariggs.github.io/articles/looking-for-work) and get in touch if you think I would be a good fit for your organization!**
+
+👋 Hello! I'm a Quality Advocate in Portland, OR.
 
 I believe that Quality = Compassion + Curiosity. The hiker's mantra "leave it better than you found it" inspires my approach at work, whether it’s people, processes, or the organization as a whole. I love my job the most when I get to take on challenges that allow me to learn and grow, and when I’m supporting people and teams to do their best work. 
 
