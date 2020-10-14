@@ -11,7 +11,7 @@ On September 3rd, I got a DM from the VP of Engineering asking me to hop on a qu
 
 I feel pretty confident saying that nobody has ever gotten a DM like that and felt good about it after. On that call, the floor dropped out from under me as the VP of Engineering told me that the shared services model of our engineering team - where developers, strategists, producers, and QA engineers were loaned out to project teams in order to provide more specialized skillsets - wasn’t working out and they were dissolving our team. As a result, my role was being eliminated because I was too senior to “rehome” on another team outside of the shared services model. 
 
-I initially starting writing this as a way to process my feelings at being fired without notice. There are two potential reasons for what happened - and in either case, the situation was handled extremely poorly.
+I initially starting writing this as a way to process my feelings at being fired without notice, and processing turned into reflection and trying to understand. There are two potential reasons for what happened - and in either case, the situation was handled extremely poorly.
 
 ## Reason 1A - Hidden Metrics
 
