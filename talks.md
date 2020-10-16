@@ -5,7 +5,7 @@ title: "Talks, Panels, & Podcasts"
 permalink: /talks
 ---
 
-> _Welcome, and thanks for checking out my public speaking! If you're here to invite me for your conference, webinar, or podcast, I'd like to recommend the speakers below instead_ 🙂 _Our industry can always benefit from wider perspectives, and they have a variety of expertise & experiences to share with your audiences!_
+> _Welcome, and thanks for checking out my public speaking! If you're here to invite me for your conference, webinar, or podcast, I'd like to recommend the speakers below instead_ 🙂 _Our industry can always benefit from wider perspectives, and they have a wonderful variety of expertise to share with your audiences!_
 > - [Tolu Adegbite](https://www.tolu.xyz)
 > - [Erika Chestnut](https://erikachestnut.com)
 > - [Ceora Ford](https://www.ceoraford.com)
