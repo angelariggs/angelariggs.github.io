@@ -29,7 +29,7 @@ This is kind of a squishy question right now - all companies are Covid-remote, b
 
 ## 😄 About Me
 
-Please review my [LinkedIn profile](https://www.linkedin.com/in/angelariggs/) for a detailed overview of my accomplishments and experience. You can also download my [resume](../resume-angela-riggs.pdf) for a more compact overview if needed. 
+Please review my [LinkedIn profile](https://www.linkedin.com/in/angelariggs/) for a detailed overview of my accomplishments and experience. You can also download my [resume](../angelaRiggs-resumeMain.pdf) for a more compact overview if needed. 
 
 I’m a QA Engineer with 5+ years of experience in tech and quality. I’ve been embedded on cross-functional engineering teams, on a centralized QA team within the engineering department, and most recently been a QA manager where I created an internal Quality Engineering discipline from the ground up.
 
