@@ -83,8 +83,8 @@ These aren’t dealbreakers, but they’ll make me more hesitant to be part of y
 ### Dealbreakers
 
 - You don't have an official HR. 
-- You don't have any Black employees.
-  - Note: it's a different question altogether whether Black employees (or any minoritized/under-represented employees) feel safe & supported at the company, but this factor serves as a litmus test for initial discovery purposes.
+- You don't have any BIPOC employees.
+  - Note: it's a different question altogether whether underrepresented or marginalized employees are safe & supported at the company, but this factor serves as a litmus test for initial discovery purposes.
 
 ## Contact Me
 If my experience and expectations sound good to you, please reach out! You can email me at [riggs.ang+jobs@gmail.com](mailto:riggs.ang+jobs@gmail.com) and include the following in your email:
