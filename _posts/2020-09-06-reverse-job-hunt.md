@@ -43,18 +43,22 @@ In either type of role, I often rely on my experiences as an early childhood tea
 
 ### Type of Role
 
-I really enjoy working within the QA/QE space and I would love to continue my growth as a manager, so I strongly prefer that my next role be as a QA Manager!
+I'm looking to stay in the quality & testing space, open to either a manager or an IC role!
 
-I’m open to an Engineering Manager role that doesn’t require hands-on technical contributions as part of the role. I don’t have the experience or desire for coding, and the type of role that required that work wouldn’t be a good fit. But if you’re looking for someone to manage the growth and careers of developers and help support the stability and vision of engineering and quality, let’s talk! 
+**As a QA engineer,** I love being a stakeholder for quality. I've always worked well in cross-functional teams and more broadly across different departments within a company. I enjoy the collaborative nature of my work, coaching on quality & testing across development, design, project management to advocate for whole-team quality. I tend to use a "find the gaps" model of getting things done, whether it's creating a lightweight process to improve developer experience during sprints or creating and launching an incident response runbook for the company. 
 
-I’m potentially open to an IC role at a company that has a clear path back to QA management. However, I also know that promotions depend on many competing factors within an organization, so an IC role is not my main focus. The role and company would need to be pretty compelling in other ways in order for me to consider it.
+As a caveat - I don’t have the experience or desire for coding, and the type of role that required a focus on implementing test automation probably wouldn’t be a good fit. But I stay current on the landscape of QE and I understand the context and concepts of automation, so I can contribute at a high level by coaching others and helping make decisions on where and when to include automation.
+
+**As a QA manager,** I really enjoy focusing on people's individual career and personal growth. I love being a leader for quality within an organization, and helping shape the vision and implementation of quality engineering. I have strong core skills that I built up during my time as an early childhood teacher - change management, understanding emotions and core needs, communication, adaptability - that have served me extremely well during my time in tech. 
+
+I also think it's important to use the privilege of title to help shape company culture and make sure we're creating and maintaining an environment that is safe, inclusive, and equitable. 
 
 ### Culture
 
 These items are important aspects of company culture that I look for and would strive to maintain while I’m there.
 
 - **Psychological safety:** People feel safe advocating for their needs. People feel safe trying new things because they know mistakes aren’t punished. People feel safe asking questions and expecting honest answers.
-- **Authenticity > niceness:** Companies that prioritize a facade of "niceness" often do so at the detriment of authentic conversations, meaningful feedback, and the ability to iterate or improve as needed. _Kind_ and _constructive_ aren't mutually exclusive, and a supportive company culture understands how to balance those traits. 
+- **Authenticity > niceness:** Companies that prioritize a facade of "niceness" often do so at the detriment of authentic conversations, meaningful feedback, and the ability to iterate or improve as needed. _Kind_ and _constructive_ shouldn't be mutually exclusive, and a supportive company culture understands how to balance those traits. 
 - **Collaboration:** Across departments and hierarchy, people consistently work together to solve problems, share knowledge, and create. 
 - **Compassion:** People understand that there are identities outside of their own, especially if they benefit from intersections of inherent privilege. E.g. I’m a white straight cis able-bodied woman, which benefits me in many ways that I haven’t earned - so I have to be mindful about incorporating perspectives and experiences beyond my own default. This applies to the people we work with, as well as the users we’re building things for.
 
