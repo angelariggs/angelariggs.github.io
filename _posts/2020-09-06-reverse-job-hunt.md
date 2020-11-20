@@ -29,29 +29,25 @@ This is kind of a squishy question right now - all companies are Covid-remote, b
 
 ## 😄 About Me
 
-Please review my [LinkedIn profile](https://www.linkedin.com/in/angelariggs/) for a detailed overview of my accomplishments and experience. You can also download my [resume](../angelaRiggs-resumeMain.pdf) for a more compact overview if needed. 
+Please review my [LinkedIn profile](https://www.linkedin.com/in/angelariggs/) for a detailed overview of my accomplishments and experience, and I invite you to learn about the positive impact I've had over my career via the recommendations that people have chosen to write. You can also download my [resume](../angelaRiggs-resumeMain.pdf) if needed. 
 
 I’m a QA Engineer with 5+ years of experience in tech and quality. I’ve been embedded on cross-functional engineering teams, on a centralized QA team within the engineering department, and most recently been a QA manager where I created an internal Quality Engineering discipline from the ground up.
 
-My role as an individual contributor is to be the team’s stakeholder for quality. I use an exploratory testing approach while balancing the perspectives of the team, the users, and the project stakeholders to make sure we’re building the right things in the right way. I consider everything from developer experience to user experience, and try to make sure the needs of both are supported.
+I enjoy operating with a "find the gaps" approach - listening to people and paying attention to the way things work, and finding ways to iterate and improve. I have a strong core skillset that I developed during my time as an early childhood teacher, and have relied on that expertise througout my career in tech. 
 
-In a manager role, I love being part of people’s growth. I enjoy helping set the vision for quality and engineering, and being a part of making that vision a reality. My role as a leader is also to advocate for the people at the company - are the policies in place meeting their needs? Are they able to grow their careers? Do they have clear understandings of the work that’s expected of them? Have we created clear avenues of communication across teams, departments, and organizational hierarchy?
-
-In either type of role, I often rely on my experiences as an early childhood teacher. I’m adaptable and curious, which means I can learn new things as the job calls for it. I do my best to work with compassion and empathy, and I believe that company success is rooted in supporting the people, personally and professionally. I understand the nuances of change management, and how to iterate policies or processes in a way that minimizes churn. _(The deck for my talk [Why is There a Marble in Your Nose?](https://bit.ly/tlc-marble-in-nose) actually gives a pretty good summary of the skills and approach I bring to work!)_
+I’m adaptable and curious, which means I can learn new things as the job calls for it. I do my best to work with compassion and empathy, and I believe that company success is rooted in supporting the people, personally and professionally. I understand the nuances of change management, and how to iterate policies or processes in a way that minimizes churn. _(The deck for my talk [Why is There a Marble in Your Nose?](https://bit.ly/tlc-marble-in-nose) actually gives a pretty good summary of the skills and approach I bring to work!)_
 
 ## 🏢 What I’m Looking For
 
 ### Type of Role
 
-I'm looking to stay in the quality & testing space, open to either a manager or an IC role!
+I'd love to stay in the quality & testing space as a manager or an IC, but I'm open to different opportunities that would allow me to learn new skills!
 
-**As a QA engineer,** I love being a stakeholder for quality. I've always worked well in cross-functional teams and more broadly across different departments within a company. I enjoy the collaborative nature of my work, coaching on quality & testing across development, design, project management to advocate for whole-team quality. I tend to use a "find the gaps" model of getting things done, whether it's creating a lightweight process to improve developer experience during sprints or creating and launching an incident response runbook for the company. 
+**As a QA engineer,** I love being a stakeholder for quality. I use an exploratory approach and focus on adherence to WCAG accessibility standards, regression testing, acceptance testing, performance, and user experience. I've learned how to balance the perspectives of the team, the users, and the project stakeholders to make sure we’re building the right things in the right way. 
 
-As a caveat - I don’t have the experience or desire for coding, and the type of role that required a focus on implementing test automation probably wouldn’t be a good fit. But I stay current on the landscape of QE and I understand the context and concepts of automation, so I can contribute at a high level by coaching others and helping make decisions on where and when to include automation.
+I've always worked well in cross-functional teams and more broadly across different departments within a company. I enjoy the collaborative nature of my work - coaching on quality & testing across development, design, and project management to advocate for whole-team quality. 
 
-**As a QA manager,** I really enjoy focusing on people's individual career and personal growth. I love being a leader for quality within an organization, and helping shape the vision and implementation of quality engineering. I have strong core skills that I built up during my time as an early childhood teacher - change management, understanding emotions and core needs, communication, adaptability - that have served me extremely well during my time in tech. 
-
-I also think it's important to use the privilege of title to help shape company culture and make sure we're creating and maintaining an environment that is safe, inclusive, and equitable. 
+**As a QA manager,** I love being part of people’s career and personal growth. I really enjoy helping set the vision for quality and engineering, and being a part of making that vision a reality. My role as a manager is also to advocate for the people at the company - are the policies in place meeting their needs? Are they able to grow their careers? Do they have clear understandings of the work that’s expected of them? Have we created clear avenues of communication across teams, departments, and organizational hierarchy? It's important to use the privilege of title to help shape company culture and make sure we're creating an environment that is safe, inclusive, and equitable. 
 
 ### Culture
 
