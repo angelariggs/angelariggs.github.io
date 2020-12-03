@@ -18,6 +18,10 @@ permalink: /talks
 
 # // 2020 //
 
+## Testers' Island Discs Podcast Ep. 41
+### Ministry of Testing - December 2020
+[Recording](https://www.ministryoftesting.com/dojo/lessons/testers-island-discs-ep41-angela-riggs)
+
 ## Why is There a Marble in Your Nose?
 ### STPCon Virtual - September 2020
 [Description](https://www.stpcon.com/speakers/angela-riggs/) | [Slides](https://speakerdeck.com/angelariggs/stpcon-why-is-there-a-marble-in-your-nose) | [Video](http://bit.ly/stpcon-2020)
