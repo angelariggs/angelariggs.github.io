@@ -12,7 +12,7 @@ I got so many great responses! It was very cool to see how many managers out the
 
 - schedule your 1:1s
 - don't cancel your 1:1s
-- never ever say "let's chat" with no warning and no agenda.
+- never ever say "let's chat" with no warning and no agenda
 
 But what about those other themes? There's a lot to unpack there, and I really want to try and capture my understanding of them through the advice that was shared. I want this article to act as a reminder for myself as I'm getting started, but also as a resource to share for other managers in tech. Instead of having one enormous article, I'm going to use this as a jumping-off point. I think this will be a great way to introduce the advice and themes at a high-level, and be able to dive deeper into each theme with more consideration in subsequent articles.
 
@@ -21,17 +21,25 @@ But what about those other themes? There's a lot to unpack there, and I really w
 
 This means the culture you create for your people and your teams as a manager. What sort of environment do you want to work in? What culture are you building? What are your values, and how do you communicate them? 
 
+_(Read the [Creating Culture]({% post_url 2020-01-21-manager-culture %}) post!)_
+
 ## Support & Self-Care
 
 Whether you're a brand-new manager or have been doing it for years, you can benefit from the advice and support of other people doing the same thing as you. It helps to have people to bounce ideas off of, troubleshoot challenges, and celebrate your wins with you. Having what Lara Hogan calls a [manager Voltron](https://larahogan.me/blog/manager-voltron/) can help you build your best manager self. At the same time, you need to take care of your human self so you can be your best manager self.
+
+_(Read the [Support & Self-Care]({% post_url 2020-02-05-manager-support-self-care %}) post!)_
 
 ## Being a Manager
 
 What even is this job? What do you... _do_ all day? Switching careers from an IC to a manager means understanding what your responsibilities are now, and what success looks like.
 
+_(Read the [Being a Manager]({% post_url 2020-02-17-being-a-manager %}) post!)_
+
 ## Managing People Effectively
 
 Speaking of your responsibilities as a manager... learning how to effectively manage people is important! Whether it's our own time as a manager or being managed, we all have experiences that range from fantastic to benign neglect to actively terrible. How do you get closer to the fantastic side of the spectrum? How do you coach and mentor and manage people - their goals, their growth, their careers?
+
+_(Read the [Effective Management]({% post_url 2020-05-19-effective-management %}) post!)_
 
 ## Resources
 
@@ -47,10 +55,3 @@ Along with the advice based on personal experience, people recommended resources
 - [97 Things Every Engineering Manager Should Know](https://www.oreilly.com/library/view/97-things-every/9781492050896/), Various authors
 
 To everyone who retweeted and replied, THANK YOU. I'm super excited about starting down this new career path, and this support and knowledge-sharing is an amazing way to get started!
-
-**Here's the full list of my New Manager article series!**
-- [Creating Culture]({% post_url 2020-01-21-manager-culture %})
-- [Support & Self-Care]({% post_url 2020-02-05-manager-support-self-care %})
-- [Being a Manager]({% post_url 2020-02-17-being-a-manager %})
-- [Effective Management]({% post_url 2020-05-19-effective-management %})
-
