@@ -23,6 +23,9 @@ h2 {
   font-weight: 700;
   color: $secondary-color;
   margin-bottom: 0.5em;
+  a {
+    color: $link-color;
+  }
 }
 
 h3 {
