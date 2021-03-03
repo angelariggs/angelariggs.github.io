@@ -9,3 +9,13 @@
   border-width: 3px;
   border-color: $accent-color;
 }
+
+.quote-text {
+	font-style: italic;
+}
+
+.quote-author {
+	font-family: $display;
+	color: $accent-color;
+	text-indent: 1em;
+}
