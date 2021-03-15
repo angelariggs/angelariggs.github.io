@@ -9,6 +9,7 @@ permalink: /talks
 > - [Tolu Adegbite](https://www.tolu.xyz)
 > - [Erika Chestnut](https://erikachestnut.com)
 > - [Ceora Ford](https://www.ceoraford.com)
+> - [Crystal Martin](https://www.crystalmartin.co)
 > - [Valerie Phoenix](https://www.linkedin.com/in/valeriesworklife)
 > - [Julia Pottinger](https://www.linkedin.com/in/julia-pottinger)
 > - [Crystal Preston-Watson](https://crystalprestonwatson.com)
