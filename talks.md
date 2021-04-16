@@ -21,7 +21,7 @@ permalink: /talks
 
 ## Put Your Own Oxygen Mask on First: Self-Care and Leading by Example
 ### STPCon Webinar Series - April 7, 2021
-[Description](https://www.softwaretestpro.com/training/put-your-own-oxygen-mask-on-first-self-care-and-leading-by-example/)
+[Recording](https://www.softwaretestpro.com/put-your-own-oxygen-mask-on-first-self-care-and-leading-by-example/)
 
 &nbsp;
 &nbsp;
