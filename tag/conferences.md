@@ -4,4 +4,3 @@ title: "Tag: conferences"
 tag: conferences
 robots: noindex
 ---
-{% include archive.html %}
