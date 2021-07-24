@@ -4,7 +4,7 @@ title:  "New Managers: Being a Manager"
 date:   2020-04-04
 permalink: /articles/being-a-manager
 comments: true
-tag: managering series-new-manager
+tags: managering series-new-manager
 ---
 
 Congratulations, you're a manager 🎉 First step off the IC path, first rung of the leadership ladder - exciting career changes! 
