@@ -1,0 +1,15 @@
+a.archive-tag {
+	font-family: $sans-serif;
+	line-height: 2.5em;
+	color: $link-color;
+    text-decoration: none;
+    border-bottom: $link-color 0.13em solid;
+    margin-left: 10px;
+    margin-right: 10px;
+    &:hover {
+      color: $text;
+      background-color: #F8B97E;
+      text-decoration: none;
+      border-bottom: $accent-color 0.2em solid;
+    }
+}
