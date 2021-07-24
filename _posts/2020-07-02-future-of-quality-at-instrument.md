@@ -83,5 +83,3 @@ Our embedded model also increases the productivity and efficiency of the teams. 
 Over the past six months, the feedback we’ve received from internal teams has been unequivocally positive. We’re changing the way people think about quality and QA. We’re making it easier for everyone to do great work, and have confidence that it’s their best work. 
 
 We’re making concrete, visible improvements in the way we build and launch projects at Instrument, setting a foundation of quality that will empower us to solve bigger and better challenges together.
-
-*[ Originally published on [Instrument](https://www.instrument.com/articles/the-future-of-quality-at-instrument) ]*

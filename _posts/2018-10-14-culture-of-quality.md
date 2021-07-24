@@ -8,8 +8,6 @@ comments: true
 tags: guest-post culture quality testbash
 ---
 
-*[ Originally published on [TechBeacon](https://techbeacon.com/how-i-created-culture-quality) ]*
-
 Quality assurance is often assumed to be a narrow slice of work — something that happens in between writing code and getting it deployed to production. 
 
 But software quality doesn't happen at just one point in time, and it encompasses more than your testing tools or your bug count. QA is a mindset, and it's a culture that your team — and your entire company — should be involved in.
@@ -108,4 +106,7 @@ When you create this culture shift, you also create a way for people to collabor
 With a rise in quality comes a rise in confidence, which improves team cohesiveness and overall morale. At the core, a culture of quality assurance enhances your ability to build and launch high-quality products that meet your stakeholders’ needs — and that's a culture that benefits everyone.
 
 
-*Interested in learning more about creating a culture of quality? Join Angela for her talk at TestBash San Francisco, which takes place November 8-9, 2018. She'll take you on a deeper dive into the details of creating this culture, and how your company can experience long-term benefits it.*
+**Interested in learning more about creating a culture of quality? Join Angela for her talk at TestBash San Francisco, which takes place November 8-9, 2018. She'll take you on a deeper dive into the details of creating this culture, and how your company can experience long-term benefits it.**
+
+*Originally published on [TechBeacon](https://techbeacon.com/how-i-created-culture-quality)*
+

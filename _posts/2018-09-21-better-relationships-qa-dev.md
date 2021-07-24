@@ -8,8 +8,6 @@ comments: true
 tags: guest-post culture collaboration
 ---
 
-*[ Originally published on [TestCraft](https://www.testcraft.io/building-relationship-developers-qa/) ]*
-
 The relationship between developers and QA engineers is often a work-in-progress. There are some long-lasting stereotypes on both sides that can contribute to tensions – *“Developers just throw the work over a wall”* or *“QA engineers block the work from getting deployed”*. At its core, this way of thinking is a trust issue – neither one of them is trusting that the other has good intentions in how they work and collaborate.
 
 Creating a foundation of trust, collaboration, and communication is vital to team morale and a positive working environment. It also enhances the team’s ability to produce work that you can have confidence in because it was a joint effort – collaboration – to ensure its quality.
@@ -55,3 +53,5 @@ I generally wouldn’t recommend taking your life advice from Robert Van Winkle;
 When you have improved working relationships, you have happier people who feel safe in their work and team environments. That means everyone can focus on the actual projects, instead of being blocked by poor communication and a lack of trust.
 
 Mindful communication, consistent collaboration, and empathy for the people you work with create a strong foundation for a high-performing team. Working together, you’ll be able to increase the quality of work you produce and have a smoother development workflow from start to finish.
+
+*Originally published on [TestCraft](https://www.testcraft.io/building-relationship-developers-qa/)*
