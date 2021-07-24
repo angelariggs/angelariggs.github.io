@@ -4,6 +4,7 @@ title:  "It's Okay Not to be Okay"
 date:   2020-04-04
 permalink: /articles/its-okay-not-to-be-okay
 comments: true
+tags: 2020
 ---
 
 That's it. That's the post. _(Well, almost.)_

@@ -4,6 +4,7 @@ title:  "New Managers: Support & Self-Care"
 date:   2020-02-06
 permalink: /articles/new-managers-support
 comments: true
+tags: managering series-new-manager
 ---
 
 Hello there 👋🏼 This is the third article in my "Advice for New Managers" series! If this is your first stop, you may want to check out the [original post]({% post_url 2020-01-16-first-time-manager %}) that I wrote after getting a ton of awesome feedback on Twitter, and you can read the second article on creating culture as a new manager [here]({% post_url 2020-01-21-manager-culture %}).

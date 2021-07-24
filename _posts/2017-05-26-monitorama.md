@@ -5,6 +5,7 @@ title:  "Monitorama!"
 date:   2017-05-26
 permalink: /articles/monitorama
 comments: true
+tags: conferences
 ---
 
 I just attended Monitorama 2017 in Portland, and I wanted to talk about my experience! I think it’s useful for me as a brain-dump and reflection about what I took away from the talks, but it’s also nice for other people to have some more insight into what the conference is about.

@@ -5,6 +5,7 @@ title:  "Shift Teams, Not Testers"
 date:   2019-02-20
 permalink: /articles/shift-teams-not-testers
 comments: true
+tags: testing
 ---
 
 I’ve written about the [many hats](https://techbeacon.com/app-dev-testing/3-hats-qa-engineers-how-wear-them-well) that testers wear, and the importance of [collaboration](https://www.testcraft.io/building-relationship-developers-qa) between testers and engineers. My thinking in those articles focused mainly on the work that testers put into their teams, but lately I’ve been considering the other side - the effort that teams and companies put into their QA engineers and testers.

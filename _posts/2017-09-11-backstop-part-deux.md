@@ -5,6 +5,7 @@ title:  "BackstopJS Part Deux: Javascript Config and Makefile"
 date:   2017-09-11
 permalink: /articles/backstopjs-part-deux-javascript-config-and-makefile
 comments: true
+tags: quality automation testing backstopjs
 ---
 
 I’ve [written previously](https://www.metaltoad.com/blog/visual-regression-testing-backstopjs) about my setup for BackstopJS (which I’m still excited to say is the creator-recommended [tutorial](https://www.npmjs.com/package/backstopjs#tutorials-extensions-and-more) for V2 of the package!). Since that article, I’ve switched from JSON to Javascript configuration, and added a Makefile as the main method of running visual regression tests with BackstopJS.

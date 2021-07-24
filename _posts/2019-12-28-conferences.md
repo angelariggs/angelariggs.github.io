@@ -4,6 +4,7 @@ title:  "2020 Conferences"
 date:   2019-12-28
 permalink: /articles/2020-conferences
 comments: true
+tags: conferences
 ---
 
 I'm super excited for my 🌟 2020 conference lineup 🌟 I'll be giving my Beginner's Guide to Test Automation talk at three different conferences, and they're all new conferences for me! It'll be a different experience giving the same talk at each conference - unlike 2019, when I gave 3 different talks at 4 different conferences, with 2 of them being brand new talks 😅

@@ -5,6 +5,7 @@ title:  "The Many Hats of Quality Assurance Engineers: Devops"
 date:   2018-04-05
 permalink: /articles/many-hats-quality-assurance-engineers-devops
 comments: true
+tags: quality testing series-many-hats
 ---
 
 *Note: This is the second post in a series about the different roles I end up carrying out as a Quality Assurance Engineer. You can check out the first post [here](http://angelariggs.github.io/blog/many-hats-quality-assurance-engineers-tester), where I talk about wearing my Tester hat!*

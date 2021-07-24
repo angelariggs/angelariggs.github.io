@@ -5,6 +5,7 @@ title:  "How To Be a Rebel at Work"
 date:   2018-06-07
 permalink: /articles/how-to-be-a-rebel-at-work
 comments: true
+tags: culture
 ---
 
 I saw this illustration make its way across Twitter recently, and it immediately resonated with me. This illustration perfectly captures how I feel and how I work, and what I strive for in my roles. It’s what I want every company, every manager that I work for to understand about me.

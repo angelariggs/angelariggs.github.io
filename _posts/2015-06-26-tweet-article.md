@@ -5,6 +5,7 @@ title:  "Tweeting for Community & Understanding"
 date:   2015-06-26
 permalink: /articles/tweeting-for-community-and-understanding
 comments: true
+tags: community learning code-school
 ---
 
 I'm halfway through my [developer bootcamp](http://www.portlandcodeschool.com/javascriptimmersion/), filling my brain with JavaScript and preparing to transition my skills out of the classroom and into a job. Along the way, I've been collecting resources: documentation libraries for Orchestrate and jQuery, tutorials like [Mozilla Developer's Network](https://developer.mozilla.org/en-US/) and [Treehouse](https://teamtreehouse.com/), and oodles of bookmarked pages for projects and tips. There are an enormous number of resources out there, and they cover every aspect of development that I could want.

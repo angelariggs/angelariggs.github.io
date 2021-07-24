@@ -5,6 +5,7 @@ title:  "DevOpsDays PDX"
 date:   2017-08-10
 permalink: /articles/devopsdayspdx
 comments: true
+tags: conferences
 ---
 
 Last week, I attended my first DevOpsDays PDX! I wasn’t quite sure what to expect, but it seemed like a cool conference - DevOps obviously intersects with QA work, and my interest has been peaked by articles I’ve read from the likes of [New Relic](https://newrelic.com/devops/what-is-devops), [Julia Evans](https://jvns.ca/blog/2016/10/16/whats-devops/), and [Etsy](http://www.networkworld.com/article/2886672/software/how-etsy-makes-devops-work.html). It ended up being an awesome experience, full of interesting talks and conversations, and I came away from it feeling reinvigorated about how I do my job as a QA Engineer.

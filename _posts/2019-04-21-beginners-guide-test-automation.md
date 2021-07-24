@@ -5,6 +5,7 @@ title:  "A Beginner's Guide to Test Automation"
 date:   2019-02-20
 permalink: /articles/beginners-guide-test-automation
 comments: true
+tags: guest-post automation
 ---
 
 *[ Originally published on [Techwell's StickyMinds](https://www.stickyminds.com/article/beginners-guide-test-automation) ]*

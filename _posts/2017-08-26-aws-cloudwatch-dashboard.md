@@ -5,6 +5,7 @@ title:  "Using Serverless Config to Deploy an AWS CloudWatch Dashboard"
 date:   2017-08-26
 permalink: /articles/using-serverless-config-deploy-aws-cloudwatch-dashboard
 comments: true
+tags: aws automation quality serverless
 ---
 
 My team’s most recent project has been really interesting - it’s a JavaScript project that includes using the Serverless Framework to deploy a variety of AWS Lambda Functions (e.g. uploading to S3 buckets and making requests to the API that we built). Part of my responsibility as QA Engineer was to set up a CloudWatch dashboard in AWS. Dashboards can be created manually in the CloudWatch service, but I wanted to create the dashboards through code deploys.

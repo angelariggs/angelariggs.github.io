@@ -5,6 +5,7 @@ title:  "How Static Code Analysis Taught Me About Change Management"
 date:   2018-05-20
 permalink: /articles/static-code-analysis-taught-me-about-change-management
 comments: true
+tags: testing change-management automation
 ---
 
 Recently, I helped spearhead our department’s adoption of centralized static code analysis. I worked with one of our mobile engineers to research various tools and create a decision matrix for comparing options. I’ve introduced [new tools](https://www.metaltoad.com/blog/backstopjs-part-deux-javascript-config-and-makefile) to my team before, but this was my first time selecting a tool that would be rolled out and used by my entire engineering department. It was also our department’s first time trying centralized static code analysis. Now that I’ve had the experience of researching and selecting tools that other people will use, I thought it would be interesting to lay out why we chose to implement centralized static code analysis, how we chose a tool for it, and maybe most important of all - how we introduced these changes to our department.

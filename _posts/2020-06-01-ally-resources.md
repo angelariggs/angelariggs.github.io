@@ -4,6 +4,7 @@ title:  "Resources for Self-Education and Allyship"
 date:   2020-06-01
 permalink: /articles/black-lives-matter
 comments: true
+tags: twitter advocacy
 ---
 
 I'm seeing a lot of non-Black folks seeking ways to support their Black friends and coworkers, to advocate against racism and police brutality and the systems of oppression that are becoming harder for people with inherent privilege to ignore.

@@ -5,6 +5,7 @@ title:  "A Knot of Toads"
 date:   2015-09-27
 permalink: /articles/a-knot-of-toads
 comments: true
+tags: learning
 ---
 
 I just finished my first week as a toad!

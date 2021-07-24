@@ -4,6 +4,7 @@ title:  "Looking for Work!"
 date:   2020-09-06
 permalink: /articles/looking-for-work
 comments: true
+tags: 2020 job-search
 ---
 
 I'm currently in search of a new role - please read through and get in touch if you think I would be a good fit for your organization! 

@@ -4,6 +4,7 @@ title:  "New Managers: Effective Management"
 date:   2020-05-19
 permalink: /articles/effective-management
 comments: true
+tags: managering series-new-manager
 ---
 
 Welcome to the fifth and final post in my [New Managers]({% post_url 2020-01-16-first-time-manager %}) series! I've talked about creating a supportive culture, tips for self-care, and what your responsibilities might look like as a new manager. For this last post, I want to talk about how to manage people effectively so that you and they can succeed!

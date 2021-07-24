@@ -5,6 +5,7 @@ title:  "Building Better Relationships Between Developers and QA Engineers"
 date:   2018-09-21
 permalink: /articles/building-relationship-developers-qa
 comments: true
+tags: guest-post culture collaboration
 ---
 
 *[ Originally published on [TestCraft](https://www.testcraft.io/building-relationship-developers-qa/) ]*

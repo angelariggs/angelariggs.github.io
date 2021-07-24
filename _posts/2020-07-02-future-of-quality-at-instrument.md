@@ -4,6 +4,7 @@ title:  "The Future of Quality At Instrument"
 date:   2020-07-30
 permalink: /articles/future-of-quality-at-instrument
 comments: true
+tags: quality managering testing
 ---
 
 For the past six months, I’ve been leading a new initiative at Instrument: creating an internal Quality Engineering discipline within our larger Technology discipline.

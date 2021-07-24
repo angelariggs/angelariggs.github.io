@@ -5,6 +5,7 @@ title:  "TestBash San Francisco 2018"
 date:   2018-11-20
 permalink: /articles/tesbash-sf
 comments: true
+tags: conferences testbash
 ---
 
 I really enjoy writing about the conferences I attend - I think it’s a great way for me to reflect on what I learned, and remember which cultural or technical ideas I want to try out. I also hope that it helps someone who is on the fence about whether to attend a conference - being able to read about the content and impact can help them decide (or convince their company to pay for it)!

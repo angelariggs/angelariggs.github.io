@@ -5,6 +5,7 @@ title:  "We Are Toads"
 date:   2016-11-15
 permalink: /articles/we-are-toads
 comments: true
+tags: community
 ---
 
 We are Toads

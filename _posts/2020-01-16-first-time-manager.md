@@ -4,6 +4,7 @@ title:  "Advice for New Managers"
 date:   2020-01-15
 permalink: /articles/advice-for-new-managers
 comments: true
+tags: managering series-new-manager
 ---
 
 I've recently started in my first role as a manager! I recognize that this isn't just a promotion from being an individual contributor (IC) - it's a separate career path, and it requires a different way of working. As a new manager, I want to learn from the experiences and expertise of other managers! So last week, I [asked a question](https://twitter.com/AngelaRiggs_/status/1216078559346741249) on Twitter: _Tech managers, what is something you wish you’d done differently in your early manager roles?_ 

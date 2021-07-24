@@ -5,6 +5,7 @@ title:  "By Any Other Name"
 date:   2018-10-26
 permalink: /articles/tester-analogies
 comments: true
+tags: testing twitter
 ---
 
 Earlier this week, Ash Coleman [asked a question](https://twitter.com/AshColeman30/status/1054903908567408640) on Twitter: “Today I walked a team through several analogies to describe testing, like ‘gatekeeper’ or ‘goalie’... Curious, which analogies do you use to describe testing and testers?”

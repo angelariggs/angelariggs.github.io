@@ -19,6 +19,10 @@
     <meta property="twitter:title" content="{{ page.title }}" />
 {% endif %}
 
+{% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}
+
 {% if page.image %}
     <meta property="og:image" content="{{page.image}}" />
     <meta name="twitter:image" content="{{page.image}}" />

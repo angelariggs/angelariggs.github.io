@@ -5,6 +5,7 @@ title:  "Code Quality"
 date:   2016-08-22
 permalink: /articles/code-quality
 comments: true
+tags: process quality
 ---
 
 One of Metal Toad’s continuing goals for developers centers around mastery. There are some [high-level ideas and objectives](http://www.metaltoad.com/blog/sense-of-software-craftsmanship) around this, but part of reaching mastery has to do with enhancing and maintaining the code quality of our projects. We’ve put some workflows in place for our projects, including changing the way we deploy and QA. Teams at Metal Toad function fairly autonomously, with the ability to create the tools and processes that work best for them; so I’ll be speaking for my team, as the QA Engineer for Team Mutant Ninja Toaders (TMNT).

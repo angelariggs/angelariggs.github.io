@@ -5,7 +5,7 @@ title:  "Case Study: Schrodinger"
 date:   2018-02-09
 permalink: /articles/schrodinger-testing-case-study
 comments: true
-tags: case-study
+tags: case-study testing
 ---
 
 Last year, our VP of Engineering came to me with a request. One of our long-term clients was having continued issues with the functionality of a website feature, and Tony needed me to do some investigating to figure out why the failures were happening, as well as make recommendations for fixing it.

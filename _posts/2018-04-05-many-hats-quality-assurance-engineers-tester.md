@@ -5,6 +5,7 @@ title:  "The Many Hats of Quality Assurance Engineers: Tester"
 date:   2018-04-05
 permalink: /articles/many-hats-quality-assurance-engineers-tester
 comments: true
+tags: quality testing series-many-hats
 ---
 
 Quality Assurance Engineer is a broad term that can cover a wide variety of roles and responsibilities. It can refer to a more specialized role, like Automation Engineer or Technical Support. It might be used to describe someone responsible for DevOps practices, or the person in charge of Scrum Master duties and feature testing.

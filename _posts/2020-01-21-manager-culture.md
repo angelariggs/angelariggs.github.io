@@ -4,6 +4,7 @@ title:  "New Managers: Creating Culture"
 date:   2020-01-20
 permalink: /articles/new-managers-culture
 comments: true
+tags: managering series-new-manager
 ---
 
 Last week, I [wrote about]({% post_url 2020-01-16-first-time-manager %}) the new manager advice I received on Twitter. A lot of the responses fell into a handful of themes, one of which was **Culture**. By culture, I mean the culture that I cultivate for my people as their manager. What sort of environment do I want to offer them? What kind of culture am I building? What are my values, and how do I communicate them?

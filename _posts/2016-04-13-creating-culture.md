@@ -5,6 +5,7 @@ title:  "Creating Culture"
 date:   2016-04-13
 permalink: /articles/creating-culture
 comments: true
+tags: culture twitter
 ---
 
 A few weeks ago, I joined some of my Toads at the first [TechTown Change Agents](https://www.eventbrite.com/e/techtown-change-agents-series-1-tickets-23120917286), an event put on by Portland Development Commission to talk about how we can bring diversity, inclusion, and equity to our workplaces. One of the most interesting conversations revolved around the topic of culture. What makes up a company’s culture? How can a company show their culture? What culture indicators are already in place, and do they accurately represent the culture we have and/or want?
