@@ -6,10 +6,10 @@ layout: navpages
 	<article class="post">
 	  <h1 class='blog-title'>{{ page.title }}</h1>
 
-	  <span>[
+	  <span class="tag-section">[
 	    {% for tag in page.tags %}
 	      {% capture tag_name %}{{ tag }}{% endcapture %}
-	      <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+	      <a class="tag-section" href="/tag/{{ tag_name }}"><nobr>{{ tag_name }}</nobr>&nbsp;</a>
 	    {% endfor %}
 	  ]</span>
 

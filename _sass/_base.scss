@@ -68,6 +68,24 @@ p {
   }
 }
 
+code {
+  font-family: $sans-serif;
+  font-size: 15px;
+  line-height: 1.8;
+  color: $text;
+  a {
+    color: $link-color;
+    text-decoration: none;
+    border-bottom: $link-color 0.13em solid;
+    &:hover {
+      color: $text;
+      background-color: #F8B97E;
+      text-decoration: none;
+      border-bottom: $accent-color 0.2em solid;
+    }
+  }
+}
+
 /*a {
   color: $secondary-color;
   &:hover {
