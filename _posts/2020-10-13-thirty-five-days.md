@@ -4,7 +4,7 @@ title:  "The Future of Quality at Instrument was 35 Days Long"
 date:   2020-10-13
 permalink: /articles/thirty-five-days
 comments: true
-tag: 2020 
+tags: learning
 ---
 
 ## The Call
