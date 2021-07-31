@@ -30,4 +30,4 @@ Occasionally, we’ll have a bug or regression that calls for a deeper dive. Whe
 
 The need for building that trust and confidence is a large part of why we offer Quality Assurance practices in the first place. By including QA practices throughout our software development life cycles, we show our clients that we take the quality of our work seriously, and ensure at each step that we’re producing the type of work we’re proud to deliver. And we reassure ourselves - from engineers and product owners all the way up to our C-suite executives - that we have checks in place to prevent and catch bugs, regressions, or otherwise sub-par code. We give *ourselves* the ability to trust in our code and our processes, to have confidence in the products we’re creating.
 
-***What other hats do I wear as a QA Engineer? Read on for more insight into what it looks like when I wear my [DevOps](http://angelariggs.github.io/blog/many-hats-quality-assurance-engineers-devops) hat!***
+**What other hats do I wear as a QA Engineer? Read on for more insight into what it looks like when I wear my [DevOps](http://angelariggs.github.io/blog/many-hats-quality-assurance-engineers-devops) hat!**

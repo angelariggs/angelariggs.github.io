@@ -43,5 +43,5 @@ I focused a lot on my career in 2018, and obviously I still have a lot of profes
 
 At a high-level, all of this means that I want to take more time for myself in the new year. I will always be a work in progress, and I want to figure out who and how I want to be in 2019, and make progress on being the best version of me.
 
-_What are your goals for 2019? What are things that you learned from 2018? Have you figured out the secret to motivating yourself to workout every day, or discovered an amazing bread recipe? Leave a comment - I'd love to hear from you!_
+**What are your goals for 2019? What are things that you learned from 2018? Have you figured out the secret to motivating yourself to workout every day, or discovered an amazing bread recipe? Leave a comment - I'd love to hear from you!**
 

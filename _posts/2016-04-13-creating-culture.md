@@ -84,7 +84,7 @@ A company's positive culture isn't something that just happens. Creating an incl
 
 And it's not just a one-time decision. Creating a thoroughly positive culture is a continuous work in progress, and needs to take place across all layers of the company. It won't always be an easy process, and there will be lots of learning experiences along the way - but the company you become as a result will be well worth the efforts.
 
-*What are some positive culture indicators that you or your company have put into practice? What are you proud of, or what are you working to change? What are some lessons you've learned about creating a positive culture?*
+**What are some positive culture indicators that you or your company have put into practice? What are you proud of, or what are you working to change? What are some lessons you've learned about creating a positive culture?**
 
 *The Twitter conversation around culture included contributions from: @concreteniche, @kwuchu, @karmajunkie, @Brigette_Eckert, and @robdel12. Many other people also contributed via Twitter, but I am erring respectfully on the side of caution by keeping people anonymous if they haven't expicitly given requests for attribution. However, I am happy and willing to update this post with proper attribution as those contributors make their wishes known!*
 

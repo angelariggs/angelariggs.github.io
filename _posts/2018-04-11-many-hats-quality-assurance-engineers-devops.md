@@ -24,4 +24,4 @@ More recently, I helped spearhead our move to centralized static code analysis. 
 
 Practices and processes that foster collaboration and communication. DevOps. All of these workflows and tools that I’ve implemented are with that in mind - to reduce overhead and increase understanding; to make it as easy as possible to create and maintain our code; to establish transparent accountability and responsibility. These are things that we will constantly review and reflect on, and potentially iterate - but now we have a solid foundation to build on.
 
-***How did you start implementing DevOps practices at your company? What are some lessons you learned, or some things you want to try next? Share your experience in a comment!***
+**How did you start implementing DevOps practices at your company? What are some lessons you learned, or some things you want to try next? Share your experience in a comment!**

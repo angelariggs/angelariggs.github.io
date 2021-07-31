@@ -79,7 +79,7 @@ One of the most useful changes was actually the simplest - setting up the Suppor
 
 Once the first round of testing was done, and the improvements had been made and re-tested, I wrote up everything in a report. I included a high-level view of the problem and goals of the testing, as well as a description of my process, and a summary of the results. As a result of my work, the Support Form became a feature to be proud of - it was more consistent, better understood, and had improved functionality for both our client and their customers. The testing and subsequent improvements also served to reassure the client about our commitment to them, and allowed them to have more confidence in our company and our work.
 
-***My intent is for this to be the first of a few case studies, where I dive a little deeper into specfiic testing experiences!***
+**My intent is for this to be the first of a few case studies, where I dive a little deeper into specfiic testing experiences!**
 
 
 

@@ -72,4 +72,4 @@ We kept our department mantra of “shoulder-to-shoulder” in mind. We didn’t
 
 Notice that almost every sentence in the section about change management starts with a “we”. That ownership over the changes you introduce is incredibly vital. For one, it lets people know who to go to with questions or concerns. It highlights the fact that when you introduce change, you are responsible for that change, and for its results. It’s also a reminder that you need to be invested in your change. You need to pay attention to how you’re introducing it, what the reactions are, and what the outcomes are. [Change is emotional](http://larahogan.me/blog/desk-moves), and you need to care.
 
-*What are some pitfalls and successes you’ve experienced around change management or introducing new tools? Let me know in the comments!*
+**What are some pitfalls and successes you’ve experienced around change management or introducing new tools? Let me know in the comments!**

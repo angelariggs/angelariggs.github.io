@@ -231,5 +231,5 @@ MetricsDashboard:
 
 NOW I had a successfully deployed dashboard! If you’re interested in setting up a metric alarm in AWS, you can find the docs for that [here](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-cw-alarm.html); and if you want to set up a separate alarm in LogicMonitor, you can find the docs for that [here](https://www.logicmonitor.com/support/monitoring/cloud/adding-your-aws-account-to-logicmonitor/) and [here](https://www.logicmonitor.com/support/monitoring/cloud/aws-configuration/). I honestly had just a ton of fun getting to figure this out - I hope my experience makes your configuration go a little more smoothly!
 
-_**Have you worked with AWS or Serverless before? What cool stuff have you done - or what pitfalls have you found? Leave a comment and let me know!**_
+**Have you worked with AWS or Serverless before? What cool stuff have you done - or what pitfalls have you found? Leave a comment and let me know!**
 
