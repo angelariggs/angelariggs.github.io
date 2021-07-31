@@ -5,3 +5,6 @@ _site/
 .sass-cache
 npm-debug.log
 .jekyll-metadata
+.jekyll-cache/
+_posts/.jekyll-cache/
+_sass/.jekyll-cache/
