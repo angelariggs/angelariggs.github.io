@@ -4,14 +4,15 @@
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0' />
 <meta property="og:image" content="{{ site.url }}/images/metadata.png" />
 <meta name="author" content="{{ site.name }}" />
-<meta property="og:type" content="website" />
+<meta name="twitter:site" content="@{{ site.twitter_username }}">
+<meta name="twitter:title" content="{{ page.title }}">
 
 {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
-    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    <meta property="twitter:description" content="{{ page.excerpt| strip_html }}" />
 {% else %}
     <meta name="description" content="{{ site.description }}" />
-    <meta property="og:description" content="{{ site.description }}" />
+    <meta property="twitter:description" content="{{ site.description }}" />
 {% endif %}
 
 {% if page.title %}
@@ -30,9 +31,3 @@
     <meta property="og:image" content="{{ site.url }}/images/metadata.png" />
     <meta name="twitter:image" content="{{ site.url }}/images/metadata.png" />
 {% endif %}
-<!-- 
-{% if page.image %}
-<meta property="og:image" content="{{ page.image }}" />
-{% else %}
-<meta property="og:image" content="../images/metadata.png" />
-{% endif %} -->
