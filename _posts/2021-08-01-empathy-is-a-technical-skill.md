@@ -3,7 +3,7 @@ layout: post
 title:  "Empathy is a Technical Skill"
 date:   2021-08-01
 permalink: /articles/empathy-is-a-technical-skill
-comments: false
+comments: true
 tags: technical-skills soft-skills
 ---
 
