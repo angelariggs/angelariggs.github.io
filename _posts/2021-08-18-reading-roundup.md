@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reading Roundup No. 1"
-date:   2021-08-01
+date:   2021-08-18
 permalink: /articles/reading-roundup-1
 comments: true
 tags: series-reading-roundup
