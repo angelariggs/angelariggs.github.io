@@ -7,7 +7,7 @@ comments: true
 tags: series-reading-roundup
 ---
 
-<br />
+🌈 Welcome to the second reading roundup!
 
 * [Introducing change: Risk based regression](https://fishoutthebox.medium.com/introducing-change-risk-based-regression-58969eb7bce9) from Melissa Fisher: Melissa uses the concept of risk-based regression testing as a great vehicle for talking about change management! It's one thing to be confident that the change you're suggesting is necessary, but it's another effort entirely to actually get that buy-in 😄 I need to look up the Math of Risk strategy now! I really like how Melissa switched up her approach to make the argument for risk-based regression testing more concrete by attaching numbers to it - some things can be harder for folks to visualize, and finding a way to quantify it can be super useful for getting past that.
 
