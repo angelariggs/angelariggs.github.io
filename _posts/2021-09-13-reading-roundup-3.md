@@ -7,7 +7,7 @@ comments: true
 tags: series-reading-roundup
 ---
 
-Welcome to another reading roundup! I have to say, I'm really enjoying writing these. It's great to get a writing "win" in spite of having some writer's block / never-ending pandemic fatigue on my longer articles, and I like getting to share and support other people's work! Wins all around 🥰
+Welcome to another reading roundup! I have to say, I'm really enjoying these. It's great to get a writing "win" in spite of having some writer's block / never-ending pandemic fatigue on my longer articles, and I like getting to share and support other people's work! Wins all around 🥰
 
 ### 1️⃣ **[How I rapidly improved my communications skills at a startup, and you can too](https://tbeb.hashnode.dev/how-i-rapidly-improved-my-communications-skills-at-a-startup-and-you-can-too)** (Wellington Johnson)
 
