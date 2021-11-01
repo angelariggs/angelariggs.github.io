@@ -97,8 +97,8 @@ Some of these risks are just absolutely not knowable in advance - and that’s o
 
 ## Conclusion
 
-You might be saying to yourself, _This seems like a lot of work for just writing out some goals that my company requires_. And you might be right. But here's the thing - the approach here isn't just useful for setting a goal every quarter because you have to.
+You might be saying to yourself, _This seems like a lot of work for just writing out some goals that my company requires_. Well, maybe. But here's the thing - the approach here isn't just about _quarterly goals_. It's about _outcomes_. And as you continue to advance in your career, being able to effectively plan for outcomes is an increasing part of the job.
 
-It's teaching you how to set an outcome, and how to break that down into meaningful, incremental tasks. It's teaching you to think about dependencies. It's teaching you to think about risk - how to plan for known unknowns and how to adapt to unknown unknowns. As you continue to advance in your career, those are all useful skills to have. So while setting goals may be the framework for learning those skills, you'll use them well beyond that scope - writing test plans and technical design docs; project planning and backlog refinement; leading large-scale initiatives; setting your sights on a promotion.
+The structure and approach here is teaching you how to set a desired outcome, and how to break that down into meaningful, incremental tasks. It's teaching you to think about dependencies. It's teaching you to think about risk - how to plan for known unknowns and how to adapt to unknown unknowns. So while setting goals may be the framework for learning those skills, you'll use them well beyond that scope - writing test plans and technical design docs; project planning and backlog refinement; leading large-scale initiatives; setting your sights on a promotion.
 
-_What's your outcome, and how will you get there?_ I hope this guide helps you think about, write, and set better goals for yourself!
+_What's your desired outcome, and how will you get there?_ I hope this guide helps you think about, write, and set better goals and outcomes for yourself!
