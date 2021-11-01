@@ -21,7 +21,7 @@ Individual goals are about an individual person’s growth and impact, and shoul
 
 Okay, on to the good stuff!
 
-## Goals
+## Defining Your Goals
 
 So... what is a goal, anyway?
 
@@ -37,7 +37,7 @@ This is not to say that you’ve failed if you don’t meet your goals. Like my 
 - If it is a current priority, is it already being worked on? You want to be aware of overlap, unnecessary rework, or impinging on someone else’s territory. 
 - Does it require a level of effort, buy-in, social capital, or specialized knowledge that is beyond your current ability to accomplish? 
 
-## Writing Better Goals
+## Writing Structure
 
 My preferred format for writing goals has three main sections: Goal, Key Results, and Risks. We defined Goals in the previous section, so let’s take a look at Key Results and Risks.
 
@@ -78,7 +78,7 @@ And then I like to ask the question again - what else? Well, a test plan would p
 
 Could this get even more specific? Probably. But at some point there’s a trade-off of granularity where the documentation feels onerous compared to actually doing the work. The point of this process is to serve the people doing it - helping you think deeper about what you want to accomplish and what it will take to do so; and helping managers understand their teams' goals, offer coaching as needed, and see how the work is progressing.
 
-## Thinking about Risk
+## Thinking About Risk
 
 I really like using goals to help people cultivate a risk-aware mindset. Knowing what you want to achieve is great! But effective planning also includes understanding the potential risks, so you can factor that into your plan. 
 
