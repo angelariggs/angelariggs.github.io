@@ -84,7 +84,7 @@ _Postponed to 2022_
 # // 2018 //
 
 ## Creating a Culture of Quality Assurance
-### TestBash San Francisco
+### TestBash San Francisco - November 2018
 [Description](https://www.ministryoftesting.com/events/testbash-san-francisco-2018#creating-a-culture-of-quality-assurance) | [Slides](https://speakerdeck.com/angelariggs/creating-a-culture-of-quality-testbash-sf) | [Video](https://www.ministryoftesting.com/dojo/lessons/creating-a-culture-of-quality-assurance-angela-riggs)
 
 ## Automated Visual Regression Testing with BackstopJS
