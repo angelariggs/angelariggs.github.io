@@ -4,7 +4,7 @@ title:  "Improving Our Technical Assessment"
 date:   2021-12-13
 permalink: /articles/improving-technical-assessment
 comments: true
-tags: hiring interviewing series-interview-updates
+tags: hiring interviewing
 ---
 
 Hiring is a constant part of any manager’s job, but I think it can be one of the hardest parts to do well. Thinking about hiring practices usually isn’t a priority until you’re actively hiring. And by the time you’re actively hiring, you’re more likely to use the system in place rather than think about whether that system could be improved.
