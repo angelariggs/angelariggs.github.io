@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Improving Our Technical Assessment"
+title:  "Updating Our Technical Assessment"
 date:   2021-12-13
 permalink: /articles/improving-technical-assessment
 comments: true
@@ -13,7 +13,7 @@ Even if you do make time to proactively think about your hiring processes, you m
 
 But if you are able to prioritize reviewing your hiring practices, and you are empowered to try out some changes to see how they land - what would you do? 
 
-As it happens, I recently had this opportunity! I had the buy-in from my peers to update our technical assessment, and approval from senior leadership to try a different process for panel interviews. For this article I’ll focus on the technical assessment, and follow up with the panel interview changes in a Part 2.
+As it happens, I recently had this opportunity! I had the buy-in from my peers to update our technical assessment, and approval from my leadership to try a different process for panel interviews. For this article I’ll focus on the technical assessment and follow up with the panel interview changes in a Part 2.
 
 ## Previous assessment
 
