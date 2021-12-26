@@ -19,8 +19,11 @@ permalink: /talks
 
 # // 2021 //
 
+## What Whole Team Quality Means in Agile
+### Tech Con panel - October 2021
+
 ## Put Your Own Oxygen Mask on First: Self-Care and Leading by Example
-### STPCon Webinar Series - April 7, 2021
+### STPCon webinar - April 2021
 [Recording](https://www.softwaretestpro.com/put-your-own-oxygen-mask-on-first-self-care-and-leading-by-example/)
 
 &nbsp;
