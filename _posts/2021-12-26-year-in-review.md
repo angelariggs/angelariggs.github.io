@@ -7,7 +7,7 @@ comments: true
 tags: reflection
 ---
 
-As I was thinking back over this past year, I really debated with myself whether to write this. I don’t have a pithy saying to wrap up what this year has been like. I don’t have an overarching theme or lessons learned that I’m grateful for. It has mostly been a very, very tough year for me. I’m generally an optimistic person, but it was really hard to find that part of myself this year.
+As I was thinking back over this year, I really debated with myself whether to write this. I don’t have a pithy saying to wrap up what this year has been like. I don’t have an overarching theme or lessons learned that I’m grateful for. It has mostly been a very, very tough year for me. I ended 2020's year in review wishing everyone a 2021 filled with warmth and light and optimism and love - but I don't really feel like that happened for me. I’m generally an optimist, but it was really hard to find that part of myself this year.
 
 I went through a lot of anxiety, which was a new challenge for me. I get anxious about small things, but this was _wake up and cry before coffee_ anxiety. _Can’t sleep_ anxiety. _Please don’t make me talk to people today_ anxiety. If I do write post and publish this post, it will be mostly so other people who felt that way know they weren’t alone in it. That it was okay to have had a hard year and not much to show for it except making it through. _Resilience_ would probably be most accurate for a 2021 word of the year, but I don’t really want it. I want rest. I want comfort. I want calm.
 
