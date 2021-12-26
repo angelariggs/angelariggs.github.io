@@ -2,7 +2,7 @@
 layout: post
 title:  "2021: Year in Review"
 date:   2021-12-26
-permalink: /articles/2021-year-review
+permalink: /articles/2021-year-in-review
 comments: true
 tags: reflection
 ---
