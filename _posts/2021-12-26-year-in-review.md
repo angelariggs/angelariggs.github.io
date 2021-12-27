@@ -15,7 +15,7 @@ At the beginning of 2021, I was still looking for a job and not having much luck
 
 I was also still dealing with the after-effects of being [fired]({% post_url 2020-10-13-thirty-five-days %}) the previous fall - stress, anxiety, loneliness. Being fired in the pandemic took away a large source of social interaction. I felt isolated. I was sad and angry about feeling lonely, and hurt that some people didn’t really reach out or try to connect.
 
-I continued my pandemic baking, because it felt good to have control over _something_, and it felt good to be creative. I always hope it tastes good when I'm done, but I really like the experimentation and creativity involved in tinkering with recipes. I also [painted](https://www.instagram.com/p/CKxJwj0h_hG/) and briefly set up an [Etsy shop](https://www.etsy.com/shop/studioaviva).
+I continued my pandemic baking, because it felt good to have control over _something_, and it felt good to be creative. I always hope it tastes good when I'm done, but I really like the experimenting and creativity involved in tinkering with recipes. I also [painted](https://www.instagram.com/p/CKxJwj0h_hG/) and briefly set up an [Etsy shop](https://www.etsy.com/shop/studioaviva).
 
 In April, I was hired as a QE manager for a company in Austin, which meant we had to relocate. On the one hand, we felt like it might be time for change. On the other, it felt incredibly hard to leave our friends and family in Portland. We had one last week at our favorite spot on the [coast](https://www.instagram.com/p/COHC33HBH4a), and then we sold our beloved Cyclops house and drove from Oregon to Texas with Frank.
 
