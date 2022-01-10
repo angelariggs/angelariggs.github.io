@@ -101,4 +101,4 @@ You might be saying to yourself, _This seems like a lot of work for just writing
 
 The structure and approach here is teaching you how to set a desired outcome, and how to break that down into meaningful, incremental tasks. It's teaching you to think about dependencies. It's teaching you to think about risk - how to plan for known unknowns and how to adapt to unknown unknowns. So while setting goals may be the framework for learning those skills, you'll use them well beyond that scope - writing test plans and technical design docs; project planning and backlog refinement; leading large-scale initiatives; setting your sights on a promotion.
 
-_What's your desired outcome, and how will you get there?_ I hope this guide helps you think about, write, and set better goals and outcomes for yourself!
+_What's your desired outcome, and how will you get there?_ I hope this guide helps you think about, write, and set better goals for yourself! And if you're interested in related content, I created a slide deck on [Goals and Accomplishments](https://docs.google.com/presentation/d/1LNYG3FWdFXcuDafMXKxC3wjsBH4za9ZyWnKDNs6-dl4/edit?usp=sharing) for my department at work!
