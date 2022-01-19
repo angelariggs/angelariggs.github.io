@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Engineering Metrics: 12 Pitfalls"
-date:   2022-01-18
+date:   2022-01-19
 permalink: /articles/twelve-pitfalls-engineering-metrics
 comments: true
 tags: guest-post metrics
@@ -37,11 +37,9 @@ Some metrics are easier to measure than others (see [Pitfall #3](#pitfall-3-rush
 - Staying away from tough and uncomfortable metrics
 - Focusing only on easy to measure metrics
 
-
 **Why do we fall for this?**
 - We like to measure what is easy, avoiding difficult to measure metrics that may be more valuable 
 Exhaustive approach (depth first)
-
 
 **How can we mitigate it?**
 - Focus on outcomes: what problems are you trying to solve? Which metrics would help?
@@ -50,9 +48,9 @@ Exhaustive approach (depth first)
 
 ## Pitfall #3: Rush to automate and visualize first
 
-[“Premature optimization is the root of all evil.”](https://wiki.c2.com/?PrematureOptimization) - Donal Knuth
+[“Premature optimization is the root of all evil.”](https://wiki.c2.com/?PrematureOptimization) -- Donald Knuth
 
-As engineers and especially as Zapiens we love building the robot, and there can be a propensity to rush to automate collection and visualization of metrics. For some metrics (e.g. a subset of DORA metrics, see below, or some service-level metrics) it is quite easy and indeed convenient to automate collection and visualization. For others (see [Pitfall #2](#pitfall-2-measure-only-1-category)), collection of metrics can be tricky. For these, instead of focusing on their automatic collection, it’s best to start collecting them and then see if the metrics are useful - and only when their collection becomes painful to seek automation. 
+As engineers we love building the robot, and there can be a propensity to rush to automate collection and visualization of metrics. For some metrics (e.g. a subset of DORA metrics, see below, or some service-level metrics) it is quite easy and indeed convenient to automate collection and visualization. For others (see [Pitfall #2](#pitfall-2-measure-only-1-category)), collection of metrics can be tricky. For these, instead of focusing on their automatic collection, it’s best to start collecting them and then see if the metrics are useful - and only when their collection becomes painful to seek automation. 
 
 **What are the symptoms?**
 - Rush to automate collection
@@ -77,14 +75,14 @@ As engineers and especially as Zapiens we love building the robot, and there can
 - Delaying collection and use of metrics while debating the merit of metrics
 
 **Why do we fall for this?**
-- Seek for perfection
+- Seeking perfection
 
 **How can we mitigate it?**
 - Adopt agility: the muscle to learn and iterate wins over the muscle to plan everything in advance
 
 ## Pitfall #5: Dismissing the DORA metrics
 
-It can be difficult for a team to choose the metrics it should measure. Luckily for engineering organizations, [meticulous, peer-reviewed, scientific-based research into metrics has come up with the 4 DORA metrics, published in the book Accelerate](https://www.amazon.ca/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=sr_1_1?gclid=CjwKCAiAlfqOBhAeEiwAYi43FyD7VzpshMGQw8znP5stHcEaAszI3jVvtvEbrs47RgNXuwgTuQdqzRoCYskQAvD_BwE&hvadid=284018215882&hvdev=c&hvlocphy=9000685&hvnetw=g&hvqmt=e&hvrand=13362698529454302654&hvtargid=kwd-307609789829&hydadcr=3289_10310785&keywords=accelerate+book&qid=1641998528&sr=8-1). These are 4 fairly simple metrics that balance velocity with quality, have been shown to correlate with team performance and market share and to have causation with generative engineering culture. So the question for every team should be: why shouldn’t we be using the DORA metrics?
+It can be difficult for a team to choose the metrics it should measure. Luckily for engineering organizations, [meticulous, peer-reviewed, scientific-based research into metrics has come up with the 4 DORA metrics, published in the book Accelerate](https://bookshop.org/books/accelerate-the-science-of-lean-software-and-devops-building-and-scaling-high-performing-technology-organizations-9781942788331/9781942788331). These are 4 fairly simple metrics that balance velocity with quality, have been shown to correlate with team performance and market share and to have causation with generative engineering culture. So the question for every team should be: why shouldn’t we be using the DORA metrics?
 
 **What are the symptoms?**
 - Long search for engineering metric (see Pitfalls [#1](#pitfall-1-measure-all-the-things), [#2](#pitfall-2-measure-only-1-category), and [#4](#pitfall-4-trying-to-find-the-perfect-metrics-or-to-measure-them-perfectly))
@@ -100,7 +98,7 @@ It can be difficult for a team to choose the metrics it should measure. Luckily 
 
 ## Pitfall #6: Demanding the same metrics for all teams
 
-Sometimes engineering organizations mandate that all teams measure the same metrics. Although some metrics are indeed applicable to all/most teams (see DORA metrics above), every team is different in the nature of what it does and its customers (e.g. external customer-focused vs internal or development-focused vs operational), or is in the same place in the ‘metric journey’. It is reasonable to ask that all teams consider the same metrics (e.g. DORA metrics) in their journey but it is best to leave teams to find which metrics help them with the outcomes they are after, given their context. 
+Sometimes engineering organizations mandate that all teams measure the same metrics. Although some metrics are indeed applicable to all/most teams (see DORA metrics above), every team is different in the nature of what it does and its customers (e.g. external customer-focused vs internal or development-focused vs operational), or is in a different place in the ‘metric journey’. It is reasonable to ask that all teams consider the same metrics (e.g. DORA metrics) in their journey but it is best to leave teams to find which metrics help them with the outcomes they are after, given their context. 
 
 **What are the symptoms?**
 - Trying to compare metrics of one team against another
@@ -118,6 +116,7 @@ Sometimes engineering organizations mandate that all teams measure the same metr
 ## Pitfall #7: Not considering audience for the metrics
 
 As a team matures in its ‘metrics journey’, it can find itself having many metrics to track. It is helpful to identify stakeholders/audience groups and tailor the collection and visualization of metrics to them. 
+
 Some metrics are most relevant at the executive level, others for directors, and yet others are for the team and its management. The executive level metrics are typically high level (and lack nuance), are fewer and are collected less often. The team level metrics are typically detailed and there are many of them and can be collected far more often.
 It’s important to choose the collection and visualization form of the metric for the intended audience
 
@@ -137,8 +136,8 @@ It’s important to choose the collection and visualization form of the metric f
 Once a team takes the first (significant) steps in the ‘metrics journey’ and starts to collect metrics, it can sometimes simply stay in the “collection stage”. As a first step, it is good to start collecting but that is not the destination. Using the metrics to help ask questions, to form hypotheses and to help with decision making is the next step. It is a difficult step after collection and that’s why some teams don’t progress past it. 
 
 **What are the symptoms?**
-- Lots and lots of metrics dashboards but no further action
-- Absence of periodic view of metrics
+- Lots and lots of metrics dashboards but no further action based on them
+- Absence of periodic review of metrics
 - Metrics that are not referenced in decisions or in plans
 - Not deprecating metrics (see [Pitfall #9](#pitfall-9-not-reviewing-evolving-and-deprecating-metrics))
 
@@ -149,7 +148,7 @@ Once a team takes the first (significant) steps in the ‘metrics journey’ and
 
 **How can we mitigate it?**
 - Focus on outcomes: what problems did the team intend to solve with a collection of metrics? What questions were the metrics hoping to answer or help ask?
-- Institute a periodic view of metrics (both of what they are supposed to measure and the metrics themselves)
+- Institute a periodic review of metrics (both of what they are supposed to measure and the metrics themselves)
 - Ask tough questions (both of what the metrics are supposed to measure and the metrics themselves)
 
 ## Pitfall #9: Not reviewing, evolving and deprecating metrics
@@ -170,10 +169,11 @@ Just like a team changes and learns along the ‘metric journey’, the metrics 
 
 ## Pitfall #10: Using metric as purely goals
 
-[“A measure that becomes a goal, fails to be a good measure (Goodhart law).”](https://en.wikipedia.org/wiki/Goodhart%27s_law)
+[“A measure that becomes a goal, fails to be a good measure."](https://en.wikipedia.org/wiki/Goodhart%27s_law) -- Goodhart's Law
 
-Once a team gets to the point of having metrics collected and reviewed, there can be a propensity to purely use metrics to set goals. This can be fraught. The primary purpose of metrics is to help a team ask questions, form hypotheses and to help make decisions. It is sometimes good to set goals based on metrics, but that is not the purpose of goals and one must be very careful (see [Pitfall #11](#pitfall-11-tying-metric-goals-to-rewards)). 
-In the analogy of driving a car: think of metrics as the dashboard in the car. The goal is to drive to a destination, and not to reach a particular speed or RPM. One may need to monitor the speedometer for speed and even set a target for a time (e.g. speed limit) but must be aware of Goodhart’s law
+Once a team gets to the point of having metrics collected and reviewed, there can be a propensity to purely use metrics to set goals. This can be fraught. The primary purpose of metrics is to help a team ask questions, form hypotheses and to help make decisions. It is sometimes good to set goals based on metrics, but that is not the purpose of metrics and one must be very careful (see [Pitfall #11](#pitfall-11-tying-metric-goals-to-rewards)). 
+
+In the analogy of driving a car: think of metrics as the dashboard in the car. The goal is to drive to a destination, and not to reach a particular speed or engine RPM. One may need to monitor the speedometer for speed and even set a target for a time (e.g. speed limit) but must be aware of Goodhart’s law
 
 **What are the symptoms?**
 - Metrics are predominantly used by directors and executives to set goals
@@ -182,7 +182,7 @@ In the analogy of driving a car: think of metrics as the dashboard in the car. T
 
 **Why do we fall for this?**
 - Metrics provide an easy convenient mechanism for goal setting (i.e. lazy goal setting)
-- Metric based goals can provide a clear ‘pass/fail’ mechanism
+- Metric-based goals can provide a clear ‘pass/fail’ mechanism
 
 **How can we mitigate it?**
 - Be extremely careful and mindful about setting goals based on metrics
@@ -191,7 +191,7 @@ In the analogy of driving a car: think of metrics as the dashboard in the car. T
 
 ## Pitfall #11: Tying metric goals to rewards
 
-Incentivizing metrics heavily leads to gaming them
+Incentivizing metrics heavily leads to gaming them and typically to poor outcomes over time
 
 **What are the symptoms?**
 - Team and company incentives tied to specific metric goals
@@ -205,6 +205,4 @@ Incentivizing metrics heavily leads to gaming them
 ## Where is pitfall 12?!
 To make a point that numbers don’t tell the full story, there is no 12th pitfall. 12 is an arbitrary number. What is far more important is the conversation around pitfalls, be they 12 or 2. And that can be the 12th pitfall: forgetting the context and nuance around all numbers. 
 
-**Huge thanks to Moj for writing this really thoughtful post! Have you run into any of the pitfalls he mentions here, or do you have some new and exciting pitfalls to share? How did you solve them?**
-
-
+**Huge thanks to Mojtaba for writing this really thoughtful post! Have you run into any of the pitfalls he mentions here, or do you have some new and exciting pitfalls to share? How did you solve them?**
