@@ -33,7 +33,7 @@ I talked with my manager and skip-level to get their feedback, and also brought 
 - Reduces the stress of “unknown unknowns” by allowing candidates to narrow their areas of focus
 - Interview sessions can be more of a collaborative conversation instead of having to follow up with more targeted questions due to verbal wandering
 
-In conversations about the pros and cons and what the process might look like, I realized that my motivation behind this was a little different than other people’s approach. A lot of the discussions were around how sending questions in advance would improve or prevent our ability to hire good candidates - but that wasn’t what was driving this process change. I’ve never worked at a company that sent the interview questions in advance, and we still hired good people - so I’m pretty confident that we can find and hire good candidates without this. My motivation was purely to reduce the pressure and stress of interviewing. 
+In conversations about the pros and cons and what the process might look like, I realized that my motivation behind this was a little different than other people’s approach. A lot of the discussions were around how sending questions in advance would improve or prevent our ability to hire good candidates - but that wasn’t what was driving this process change. I’ve never worked at a company that sent the interview questions in advance and we still hired good people, so I’m pretty confident that we can find and hire good candidates without this. My motivation was purely to reduce the pressure and stress of interviewing. 
 
 ## Iterations
 
