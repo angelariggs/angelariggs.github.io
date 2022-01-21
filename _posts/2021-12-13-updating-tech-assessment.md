@@ -13,7 +13,7 @@ Even if you do make time to proactively think about your hiring processes, you m
 
 But if you are able to prioritize reviewing your hiring practices, and you are empowered to try out some changes to see how they land - what would you do? 
 
-As it happens, I recently had this opportunity! I had the buy-in from my peers to update our technical assessment, and approval from my leadership to try a different process for panel interviews. For this article I’ll focus on the technical assessment and follow up with the panel interview changes in a Part 2.
+As it happens, I recently had this opportunity! I had the buy-in from my peers to update our technical assessment, and approval from my leadership to try a different process for panel interviews. For this article I’ll focus on the technical assessment and follow up with the panel interview changes in a [Part 2]({% post_url 2022-01-21-updating-interview-process %}).
 
 ## Previous assessment
 
