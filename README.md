@@ -1,1 +1,1 @@
-![text](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
+![a small dog popping his head up to say hello, and welcome to my site](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
