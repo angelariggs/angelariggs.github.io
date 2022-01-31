@@ -136,3 +136,12 @@ blockquote {
   margin: 1em 25px;
   padding: 0.3em 15px;
 }
+
+footer {
+  font-family: $sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  border: 3px solid $accent-color;
+  padding: 25px;
+  margin: 25px;
+}
