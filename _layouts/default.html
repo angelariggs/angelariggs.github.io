@@ -14,10 +14,6 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
-    {% if site.google_analytics and jekyll.environment == 'production' %}
-    {% include analytics.html %}
-    {% endif %}
-
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
@@ -48,11 +44,10 @@
       {{ content }}
     </div>
 
-    {% include analytics.html %}
   </body>
   <footer>
     <div id=homepage-footer>
-    👋🏼 While you're here: Take a deep breath. Relax your shoulders, unclench your jaw. Remember that you are cared for and loved. Have a wonderful day 💖
+    👋🏼 While you're here - take a deep breath. Unclench your jaw, your brow. Relax your shoulders. Remember that you are cared for and loved. Have a wonderful day 💖
   </div>
   </footer>
 </html>
