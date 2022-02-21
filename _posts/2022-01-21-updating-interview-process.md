@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "More Inclusive, Less Stress: Updating Our Interview Process"
+title:  "More Inclusive, Less Stress: Updating Panel Interviews"
 date:   2022-01-21
 permalink: /articles/updating-panel-interview-process
 comments: true
@@ -39,7 +39,7 @@ In conversations about the pros and cons and what the process might look like, I
 
 I’ve used this updated process for a few rounds of interviewing now, and overall I was really happy with the changes! Candidates seemed less nervous on the video calls, and we got positive comments about reducing anxiety and feeling better prepared to give thoughtful answers when we asked for feedback about the process. From the interviewing side, I noticed that we were having better conversations with candidates! Previously, we’d often find ourselves having to ask follow-up questions because we weren’t getting enough information to evaluate the candidate well, but now we were getting more meaningful responses that allowed us to have a more conversational approach and find out more about them.
 
-But there were also some experiences that highlighted the gaps in this new process. During an interview, we had a candidate who was reading long-form answers from their computer in response to questions - it seemed like they had over-prepared by writing out all of their answers in advance, and this did make it hard to get a read on their communication style. It actually reduced the conversational format and made follow-up questions difficult because they were so focused on what they had written down that they weren’t always able to extend those answers.
+But there were also some experiences that highlighted the gaps in this new process. During an interview, we had a candidate who seemed to be reading long-form answers from their computer in response to questions - it seemed like they had over-prepared by writing out all of their answers in advance, and this did make it hard to get a read on their communication style. It actually reduced the conversational format and made follow-up questions difficult because they were so focused on what they had written down that they weren’t always able to extend those answers.
 
 There were mixed reactions to this, but I realized that it wasn’t the candidate’s fault for over-preparing and sticking to a script - it was mine, for not setting context and expectations. So I’ve recently added a blurb to the emails we send to candidates, which adds context to the behavioral panel, the technical panel, and the final wrap-up panel. 
 
