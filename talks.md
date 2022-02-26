@@ -17,6 +17,14 @@ permalink: /talks
 &nbsp;
 &nbsp;
 
+# // 2022 //
+
+## Beginner's Guide to the Automation Galaxy
+### Agile Testing Days USA - June 2022
+[Description](https://agiletestingdays.us/session/beginners-guide-to-the-automation-galaxy/)
+
+&nbsp;
+&nbsp;
 # // 2021 //
 
 ## What Whole Team Quality Means in Agile
