@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Manager README"
-date:   2022-03-22
+date:   2022-03-23
 permalink: /articles/manager-readme
 comments: true
 tags: managering
@@ -29,7 +29,7 @@ This document is to help introduce me to you as a manager and as a human. It's i
 
 Writing this helps me set my intentions for how you can rely on me as your manager, and it's a way for me to reflect on who I am and how I want to be as manager. 
 
-This README is not intended to cover my goals for the department, or my expectations for you and your work.
+This README is **not** intended to cover my goals for the department, or my expectations for you and your work.
 
 I intend for this to be a living document. As I change and grow as a manager, so will the information here. There might also be things that are unclear to you as you're reading - I encourage you to call that out so I can adjust it. 
 
@@ -38,16 +38,16 @@ I intend for this to be a living document. As I change and grow as a manager, so
 👋🏼 Hi, hello! As of March 2022, I'm in Austin, Texas but preparing for a move to Portland, Oregon with my husband (Josh) and our dog (Frank). We lived in Oregon for 8 years before relocating for The Zebra, and we are looking forward to being back in the Pacific Northwest! We love having the coast, forest, mountain, and desert all within a couple of hours to explore. 
 
 <div id="blog-photo">
-![Josh is wearing glasses and a baseball cap with a green bill, and he has a reddish-gray beard. Frank is a brindle shepherd mix dog with a gray muzzle. Angela has red hair in a bun and sunglasses with green mirrored lenses. Angela and Josh are holding Frank while she licks Josh's face and Angela grins.](../images/happy-hiking.JPG)</div>
-
+	<img src="../images/happy-hikers.jpg" alt="" width="463.2" height="347.25">
+</div>
 
 ### Art, Baking, and Weightlifting
 
 For better or worse, the pandemic has given me a lot more free time to fill. I think it's mostly for better (the free time, not the pandemic 😅). I've typically been extremely focused on my career, and it's been good for me to take a step back from that and make more time to focus on myself as a human.
 
-I've really enjoyed dabbling in different kinds of art, like loom weaving, clay, and painting. I used to be really into film and digital photography, and I want to pick that up again as we move back to Oregon. It's relaxing and invigorating to find different ways of creating and being creative - as I get back into photography, I also want to try bookbinding so I can make photo books! 
+I've really enjoyed dabbling in different kinds of art, like [loom weaving](https://www.instagram.com/p/CYQPi4GMIFs/), clay, and painting. I used to be really into film and digital [photography](https://angelariggs.exposure.co/), and I want to pick that up again as we move back to Oregon. It's relaxing and invigorating to find different ways of creating and being creative - as I get back into photography, I also want to try bookbinding so I can make photo books! 
 
-I also really like baking. There's a reassurance to the structure of following a recipe and ending up with something delicious, but I also love playing with flavors and experimenting! Of course, being remote means that it's harder to get rid of share the delicious things I bake - which is where weightlifting comes in!
+I also really like [baking](https://www.instagram.com/p/CI9mwpVhzTR/). There's a reassurance to the structure of following a recipe and ending up with something delicious, but I also love playing with flavors and experimenting! Of course, being remote means that it's harder to get rid of share the delicious things I bake - which is where weightlifting comes in!
 
 I'd started weightlifting a few months before the pandemic hit, and I finally decided to start up again in January 2022. I've been working with an awesome trainer who I will miss terribly when we move, but one of the great things about working with her is that she taught me how to create my own workout programs based around heavy compound movements (deadlifts, squats, chest press, etc), and I'm really looking forward to continuing that work once we're settled!
 
@@ -75,7 +75,7 @@ I'm in my third career change - first I was an early childhood teacher, then a q
 
 I've noticed a tendency in myself to over-use mentoring as a support strategy instead of also bringing in coaching. Both are useful for growth and problem-solving, but they are useful in different ways.
 
-Mentoring is where I share my perspective on your challenge and give specific advice on how you can move forward. Coaching, on the other hand, is about me listening and asking you questions that help you reflect so you can figure out what your next steps should be.
+Mentoring is where I share my perspective on your challenge and give specific advice on how you can move forward. [Coaching](https://larahogan.me/blog/coaching-reflections/), on the other hand, is about me listening and asking you questions that help you reflect so you can figure out what your next steps should be.
 
 Mentoring is a useful approach, but it shouldn't be the only approach that I use to help you solve problems - it limits your growth in being able to dig into a challenge and solve it on your own. 
 
@@ -103,7 +103,7 @@ Done right, feedback is extremely valuable for professional growth, personal imp
 
 I will do my best to give you timely, actionable feedback as needed - and ask that you do the same for me. If there's something I'm doing that you wish I would stop or change, or something that you would like to see me start doing, please tell me.
 
-I'll borrow from the writing of a leader I admire who wrote about the three conditions for being able to share feedback:  
+I'll borrow from the [writing](https://medium.com/@royrapoport/why-wont-you-talk-to-me-f30a01a1994c) of a leader I admire who wrote about the three conditions for being able to share feedback:  
 
 - **Safety** (the unlikelihood of being punished for giving feedback; should be high)
 - **Effort** (the amount of work in order to give feedback, also known as "how much do you argue when people give you feedback?"; should be low)
@@ -137,13 +137,14 @@ In all three of my careers, I've enjoyed learning in public and sharing my exper
 
 ### Blogging
 
-As a manager, I've written about iterating my review process to make it more inclusive, learning manager skills through the metaphor of skincare, how to have difficult conversations, and advice for new managers.
+As a manager, I've written about [iterating my review process to make it more inclusive](https://angelariggs.github.io/articles/iterating-my-interview-process), [learning manager skills through the metaphor of skincare](https://angelariggs.github.io/articles/learning-manager-skills-through-skincare-lessons), [how to have difficult conversations](https://angelariggs.github.io/articles/how-to-have-hard-conversations), and [advice for new managers](https://angelariggs.github.io/articles/advice-for-new-managers).
 
-When I was a quality engineer, I wrote about creating a culture of quality, the different "hats" we wear as quality engineers, and change management.
+When I was a quality engineer, I wrote about [creating a culture of quality](https://angelariggs.github.io/articles/creating-culture-quality), [the different "hats" we wear as quality engineers](https://angelariggs.github.io/articles/the-three-hats-of-quality-assurance-engineers), and [change management](https://angelariggs.github.io/articles/static-code-analysis-taught-me-about-change-management).
 
 ### Public Speaking
 
-In spite of the extreme anxiety I get onstage, I really like public speaking! I've spoken at conferences, been on panels and podcasts, and held an AMA. My very favorite talk that I've done is Why is There a Marble in Your Nose, all about how my experience as a teacher made me a better tester.
+In spite of the extreme anxiety I get onstage, I really like public speaking! I've spoken at [conferences](https://agiletestingdays.us/session/beginners-guide-to-the-automation-galaxy/), been on [panels](https://www.softwaretestpro.com/put-your-own-oxygen-mask-on-first-self-care-and-leading-by-example/) and [podcasts](https://www.ministryoftesting.com/dojo/lessons/testers-island-discs-ep41-angela-riggs), and held an [AMA](https://www.testim.io/resources/ask-me-anything-angela-riggs-qa-manager/). My very favorite talk that I've done is [Why is There a Marble in Your Nose](https://speakerdeck.com/angelariggs/stpcon-why-is-there-a-marble-in-your-nose), all about how my experience as a teacher made me a better tester.
 
 ## A Final Note
+
 Thank you for taking the time to read this! If you are on my team, then you have been given comment access to this doc - that is not accidental. If you see things in here that are confusing or unclear, please let me know so I can update the doc. If there is context or information that you think would be helpful to add, please let me know that as well! And if you see intentions in here that I'm not living and practicing as your manager, I hope you will also let me know - I would surely appreciate it 🙂
