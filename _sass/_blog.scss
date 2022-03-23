@@ -95,3 +95,10 @@ a.tag-section {
     font-style: italic;
   }
 }
+
+#blog-photo {
+  max-width: 30%;
+  height: auto;
+  @include mobile {
+  }
+}
