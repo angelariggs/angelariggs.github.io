@@ -4,7 +4,7 @@ title:  "Engineering Metrics: 12 Pitfalls"
 date:   2022-01-19
 permalink: /articles/twelve-pitfalls-engineering-metrics
 comments: true
-tags: guest-post metrics
+tags: guest-post metrics series-managing-metrics
 ---
  
 _[Today's article is a guest post from Mojtaba Hosseini, a Director of Engineering at Zapier!]_ The reasons and motivations for having metrics in engineering are well-known and well-documented, but it may suffice to refer to this quote: “What gets measured, gets managed.” However - the full quote is [“What gets measured gets managed — even when it’s pointless to measure and manage it, and even if it harms the purpose of the organisation to do so”](https://medium.com/centre-for-public-impact/what-gets-measured-gets-managed-its-wrong-and-drucker-never-said-it-fe95886d3df6), something this post will also touch on later. The purpose of this is to share some lessons learned and pitfalls along the “metric journey” for an engineering organization.
