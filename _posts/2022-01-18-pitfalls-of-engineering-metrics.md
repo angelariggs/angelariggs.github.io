@@ -205,4 +205,6 @@ Incentivizing metrics heavily leads to gaming them and typically to poor outcome
 ## Where is pitfall 12?!
 To make a point that numbers don’t tell the full story, there is no 12th pitfall. 12 is an arbitrary number. What is far more important is the conversation around pitfalls, be they 12 or 2. And that can be the 12th pitfall: forgetting the context and nuance around all numbers. 
 
-**Huge thanks to Mojtaba for writing this really thoughtful post! Have you run into any of the pitfalls he mentions here, or do you have some new and exciting pitfalls to share? How did you solve them?**
+_Huge thanks to Mojtaba for writing this really thoughtful post! Starting in March, Mojtaba will be sharing additional guest post "flashback episodes" as he reflects on his metrics journey before Zapier. Join us as drama ensues and see what lessons Mojtaba learned to help guide his new metrics journey at Zapier!_
+
+You can read his [first flashback episode]({% post_url 2022-03-30-metricsep1 %}), and follow along the series with the [series-managing-metrics]({% link tag/series-managing-metrics.md %}) tag!
