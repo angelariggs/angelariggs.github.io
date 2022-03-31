@@ -8,3 +8,4 @@ tags:
 ---
 
 [text]({% post_url 2020-01-16-first-time-manager %})
+[text]({% link tag/series-managing-metrics.md %})
