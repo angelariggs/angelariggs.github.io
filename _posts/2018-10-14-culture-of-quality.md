@@ -5,7 +5,7 @@ title:  "Creating a Culture of Quality"
 date:   2018-10-14
 permalink: /articles/creating-culture-quality
 comments: true
-tags: guest-post culture quality testbash
+tags: cross-post culture quality testbash
 ---
 
 Quality assurance is often assumed to be a narrow slice of work — something that happens in between writing code and getting it deployed to production. 

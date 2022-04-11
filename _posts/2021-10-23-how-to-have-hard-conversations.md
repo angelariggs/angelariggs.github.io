@@ -4,7 +4,7 @@ title:  "Speaking up: How to Have Hard Conversations"
 date:   2021-10-23
 permalink: /articles/how-to-have-hard-conversations
 comments: true
-tags: communication guest-post soft-skills
+tags: communication cross-post soft-skills
 ---
 
 Technology is inherently a people-oriented industry, and doing our jobs well requires constant communication. We communicate all the time in big and little ways, and these collaborative conversations help us to be more successful in our work.

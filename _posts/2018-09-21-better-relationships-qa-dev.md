@@ -5,7 +5,7 @@ title:  "Building Better Relationships Between Developers and QA Engineers"
 date:   2018-09-21
 permalink: /articles/building-relationship-developers-qa
 comments: true
-tags: guest-post culture collaboration
+tags: cross-post culture collaboration
 ---
 
 The relationship between developers and QA engineers is often a work-in-progress. There are some long-lasting stereotypes on both sides that can contribute to tensions – *“Developers just throw the work over a wall”* or *“QA engineers block the work from getting deployed”*. At its core, this way of thinking is a trust issue – neither one of them is trusting that the other has good intentions in how they work and collaborate.

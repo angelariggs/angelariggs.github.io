@@ -5,7 +5,7 @@ title:  "A Beginner's Guide to Test Automation"
 date:   2019-02-20
 permalink: /articles/beginners-guide-test-automation
 comments: true
-tags: guest-post automation
+tags: automation cross-post
 ---
 
 If you’re new to automated testing, you’re probably starting off with a lot of questions: How do I know which tests to automate? Why is automated testing useful for me and my team? How do I choose a tool or framework? The options for automated testing are wide open, and you may feel overwhelmed.
