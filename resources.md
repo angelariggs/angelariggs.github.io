@@ -15,7 +15,9 @@ permalink: /resources
 
 ## Career Growth
 
+- [Brie Wolfson's impact docs](https://review.firstround.com/ditch-your-to-do-list-and-use-these-docs-to-make-more-impact)
 - [Bored People Quit](https://randsinrepose.com/archives/bored-people-quit/)
+- [Managing Your Manager](https://every.to/superorganizers/managing-your-manager)
 - [Your Action Plan to DRI Your Career](https://cate.blog/2021/12/20/your-action-plan-to-dri-your-career/)
 
 ## Career Ladders
