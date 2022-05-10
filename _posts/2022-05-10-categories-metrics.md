@@ -18,7 +18,7 @@ But first, an analogy...
 Think of a car’s main dashboard:
 
 <div id="blog-photo">
-	<img src="https://cdn.zappy.app/11e732ad5dfd5a2172935a9fec29785f.png" alt="" width="400" height="300">
+	<img src="https://cdn.zappy.app/11e732ad5dfd5a2172935a9fec29785f.png" alt="" width="500" height="300">
 </div>
 
 There are many indicators and dials, each helping the driver in different ways:
