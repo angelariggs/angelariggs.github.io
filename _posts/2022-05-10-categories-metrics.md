@@ -9,7 +9,7 @@ tags: guest-post metrics series-metrics-categories
 
 As [Mojtaba Hosseini helps guide Zapier]({% post_url 2022-03-30-metricsep1 %}) toward being a more data- and metrics-driven engineering organization, and as teams continue to add and use metrics, he finds that they sometimes come across this question: _What other metrics should I be looking out for and using?_ 
 
-Let's join Mojtaba in another guest series as he explores the 5 categories of metrics for engineering that can help teams diversify and balance their metrics!
+Let's join Mojtaba in another guest series as he explores the 5 categories of engineering metrics that can help teams diversify and balance their metrics!
 
 But first, an analogy...
 
