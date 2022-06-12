@@ -76,7 +76,7 @@ If Team Workload metrics measure the input of work into a team, Team Performance
 
 [These metrics are typically the ones most in danger of being incorrectly used by management - and at worst weaponized]({% post_url 2022-01-18-pitfalls-of-engineering-metrics %}). When used properly, they are great companion metrics to Team Workload and Customer Metrics.
 
-### 4. Service Metrics
+### 4. Service Level Metrics
 
 Software teams can also measure the health of the services they own. For example:
 
