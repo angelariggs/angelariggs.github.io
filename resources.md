@@ -6,8 +6,8 @@ permalink: /resources
 
 ## 1:1s
 
-- [1:1 question generator](https://one-on-ones.app/)
-- [101 Questions to Ask in 1:1s](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/)
+- [1:1 question generator](https://one-on-ones.app/) - Mike Carter
+- [101 Questions to Ask in 1:1s](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/) - Jason Evanish
 - [Ideas and prompts](https://1on1s.robwhelan.com/) - Rob Whelan
 - [Initial 1:1 questions](https://larahogan.me/blog/first-one-on-one-questions/) - Lara Hogan
 
@@ -28,23 +28,23 @@ permalink: /resources
 
 ## Change Management
 
-- [A playbook for managing & leading in difficult times & crises](https://lenareinhard.com/a-playbook-for-managing-leading-in-difficult-times-crises/)
+- [A playbook for managing & leading in difficult times & crises](https://lenareinhard.com/a-playbook-for-managing-leading-in-difficult-times-crises/) - Lena Reinhard
 - [Becoming Comfortable with Change](https://kathkeating-cto.medium.com/becoming-comfortable-with-change-4a27526fa0a7) - Kathy Keating
 - [Delivering Big/Bad News](https://randsinrepose.com/archives/delivering_bigbad_news/) - Rands in Repose
 - [Managering in Terrible Times](https://larahogan.me/blog/being-a-manager-in-terrible-times/) - Lara Hogan
 
 ## Communication
 
-- [Speaking up: how to have hard conversations](https://leaddev.com/communication-relationships/speaking-how-have-hard-conversations) - Lead Dev
-- [Stop Repeating Yourself](https://marissagoldberg.medium.com/stop-repeating-yourself-374ee2418aa6)
-- [Turn "why" questions into "what" or "where" questions](https://twitter.com/sara_ann_marie/status/1379891106507292674)
+- [Speaking up: how to have hard conversations](https://leaddev.com/communication-relationships/speaking-how-have-hard-conversations) - Lead Dev (me!)
+- [Stop Repeating Yourself](https://marissagoldberg.medium.com/stop-repeating-yourself-374ee2418aa6) - Marissa Goldberg
+- [Turn "why" questions into "what" or "where" questions](https://twitter.com/sara_ann_marie/status/1379891106507292674) - Sara Wachter-Boettcher
 
 ## Feedback
 
 - [5 Tips To Help You Give Good Feedback](https://www.npr.org/2021/08/20/1029652315/5-tips-to-help-you-give-good-feedback) - NPR
 - [Feedback Equation](https://larahogan.me/blog/feedback-equation/) - Lara Hogan
-- [How to give effective feedback](https://www.cultureamp.com/blog/how-to-give-effective-feedback)
-- [How to Give Feedback People Can Actually Use](https://hbr.org/2017/10/how-to-give-feedback-people-can-actually-use)
+- [How to give effective feedback](https://www.cultureamp.com/blog/how-to-give-effective-feedback) - Culture Amp
+- [How to Give Feedback People Can Actually Use](https://hbr.org/2017/10/how-to-give-feedback-people-can-actually-use) - HBR
 - [Some Ad Hoc Thoughts About PIPs](https://docs.google.com/presentation/d/1OEmntzaCKcMhcDySRlFfxG-phrqCM2imJNwqQxftefQ/edit#slide=id.p) - Roy Rapoport
 - [Why Won’t You Talk To Me?](https://medium.com/@royrapoport/why-wont-you-talk-to-me-f30a01a1994c) - Roy Rapoport
 
@@ -57,7 +57,7 @@ permalink: /resources
 
 ## Managing
 
-- [But It’s Not How I Would Do It](https://anothermarkwood.medium.com/but-its-not-how-i-would-do-it-cf933e7f81c8)
+- [But It’s Not How I Would Do It](https://anothermarkwood.medium.com/but-its-not-how-i-would-do-it-cf933e7f81c8) - Mark Wood
 - [How to Run a Department That People Mostly Don’t Hate.](https://matt-schellhas.medium.com/how-to-run-a-department-that-people-mostly-dont-hate-e78c5ce22f59) - Matt Schellhas
 - [Coachability: the overlooked factor in people development](https://leaddev.com/mentoring-coaching-feedback/coachability-overlooked-factor-people-development) - Lead Dev
 - [Things to Figure Out as a New Manager: Part 1, Your Schedule](https://cate.blog/2017/01/05/things-to-figure-out-as-a-new-manager-part-1-your-schedule/) - Cate Huston
