@@ -4,7 +4,7 @@ title:  "The Future of Quality at Instrument was 35 Days Long"
 date:   2020-10-13
 permalink: /articles/thirty-five-days
 comments: true
-tags: learning
+tags: reflection
 ---
 
 ## The Call
@@ -12,7 +12,7 @@ On September 3rd, I got a DM from the VP of Engineering asking me to hop on a qu
 
 I feel pretty confident saying that nobody has ever gotten a DM like that and felt good about it after. On that call, the floor dropped out from under me as the VP of Engineering told me that the shared services model of our engineering team - where developers, strategists, producers, and QA engineers were loaned out to project teams in order to provide more specialized skillsets - wasn’t working out and they were dissolving our team. As a result, my role was being eliminated because I was too senior to “rehome” on another team outside of the shared services model. 
 
-I initially starting writing this as a way to process my feelings at being fired without notice, and processing turned into reflection and trying to understand. There are two potential reasons for what happened - and in either case, the situation was handled extremely poorly.
+I initially starting writing this as a way to process my feelings at being laid off without notice, and processing turned into reflection and trying to understand. There are two potential reasons for what happened - and in either case, the situation was handled extremely poorly.
 
 ## Reason 1A - Hidden Metrics
 
@@ -32,7 +32,7 @@ During my time as QA manager, I was never given any other metrics, objectives & 
 
 ## Reason 1B - Too Senior
 
-With the dissolution of our Shared Services Engineering team, most of my teammates were embedded onto existing project teams. My manager and I were the exceptions, deemed “too senior” to place within any of those teams. This reasoning doesn’t really make sense to me, and of course I have no way to ask questions about it - this topic was only ever presented to me in the conversation where I was fired.
+With the dissolution of our Shared Services Engineering team, most of my teammates were embedded onto existing project teams. My manager and I were the exceptions, deemed “too senior” to place within any of those teams. This reasoning doesn’t really make sense to me, and of course I have no way to ask questions about it - this topic was only ever presented to me in the conversation where I was notified about being laid off.
 
 My title as QA Manager was equivalent to Associate Technical Director on the engineering manager path, and roughly equivalent to Principal on the engineering IC (individual contributor) path. My role as a manager included work at both my own level and the level above mine, since I was the only non-IC person in the QE discipline. I was successfully engaging project teams with new biz, overseeing multiple projects, managing the QA engineer, and coaching throughout the org on various quality topics. I was also doing the work of a QA Engineer for multiple concurrent projects, since the VP of Engineering (and to my understanding, the CEO as well) was requiring a longer period of “proving out” internal QA before committing more budget to continue building out our team.
 
@@ -40,7 +40,7 @@ There was an obvious need and benefit for the work I was doing, and placing me o
 
 ## Reason 2 - Silencing Dissent
 
-The reason that I never heard about any missed goals and why I wasn’t moved to a project team brings me to the second potential reason for being fired: that I was not fired because of challenges with the shared services model or my seniority, but because I was too outspoken on topics of safety, equity, and inclusion - and executive leadership felt threatened by it.
+The reason that I never heard about any missed goals and why I wasn’t moved to a project team brings me to the second potential reason for being laid off: that I was not laid off because of challenges with the shared services model or my seniority, but because I was too outspoken on topics of safety, equity, and inclusion - and executive leadership felt threatened by it.
 
 Like many companies in tech, Instrument went through a reckoning in the spring of 2020. One outcome of that reckoning was the acknowledgment that Instrument and executive leadership were failing their Black employees and failing to offer an inclusive, equitable environment where people felt safe and supported.
 
@@ -60,19 +60,19 @@ We were explicitly told by the CEO that it wasn’t our job to hold him accounta
 
 People across the company used to tell me that they appreciated having someone who spoke up and asked questions, who said the things they were thinking but didn’t feel safe saying - a lack of safety caused directly by the continued behavior and actions of the executive leadership team. I knew the risks of speaking up, and did it anyway because I care. If you don’t know me, I understand that may sound cheesy or dramatic - but I honestly care about the people I work with, and I care about the culture and environment we work in.
 
-I want the company that I work for to be the best version of itself. More, I want it to **want** to be its best self. The executive leadership at Instrument didn’t seem to want that - and potentially, they fired me in order to continue avoiding that call to accountability and to silence what they saw as disruptive dissent. 
+I want the company that I work for to be the best version of itself. More, I want it to **want** to be its best self. The executive leadership at Instrument didn’t seem to want that - and potentially, they laid me off in order to continue avoiding that call to accountability and to silence what they saw as disruptive dissent. 
 
-So those are the two options. Either my team was dissolved and my role was eliminated for not meeting invisible metrics, in spite of my clear impact and success in creating the QE discipline; or I was fired in retaliation for speaking up. Either option is unprincipled; the latter is cowardly and unethical.
+So those are the two options. Either my team was dissolved and my role was eliminated for not meeting invisible metrics, in spite of my clear impact and success in creating the QE discipline; or I was laid off in retaliation for speaking up. Either option is unprincipled; the latter is cowardly and unethical.
 
 ## Closing Thoughts
 
 These are some loosely-related thoughts and considerations that I’m carrying with me as I reflect on my time at Instrument, and consider how I want those experiences to guide my next steps and shape my perspective.
 
-I wrote this up without knowing whether I would publish it. I declined the severance agreement so that I would have the freedom to make that choice, and so I wouldn’t be beholden to Instrument and their non-disclosure, non-disparagement, and release clauses. I feel very fortunate that I was able to make this choice - many people would be dependent on getting the severance pay, and wouldn’t have the option to decline it. Obviously I have chosen to publish this, but not out of grief or anger. I view this as kind of a "learning in public" moment, which isn't so different from other things that I've written about in the past. It's just that this time I'm learning about being fired as a silencing tactic.
+I wrote this up without knowing whether I would publish it. I declined the severance agreement so that I would have the freedom to make that choice, and so I wouldn’t be beholden to Instrument and their non-disclosure, non-disparagement, and release clauses. I feel very fortunate that I was able to make this choice - many people would be dependent on getting the severance pay, and wouldn’t have the option to decline it. Obviously I have chosen to publish this, but not out of grief or anger. I view this as kind of a "learning in public" moment, which isn't so different from other things that I've written about in the past. It's just that this time I'm learning about being laid off as a silencing tactic.
 
-The title of this post is a somewhat cynical jab at an article I previously wrote titled [The Future of Quality at Instrument](https://angelariggs.github.io/articles/future-of-quality-at-instrument) - a mere 35 days before I was fired. I remember how excited I was to write it, thinking about my vision for quality at the company and looking forward to seeing where I’d take it next.
+The title of this post is a somewhat cynical jab at an article I previously wrote titled [The Future of Quality at Instrument](https://angelariggs.github.io/articles/future-of-quality-at-instrument) - a mere 35 days before I was laid off. I remember how excited I was to write it, thinking about my vision for quality at the company and looking forward to seeing where I’d take it next.
 
-I think it’s very telling that when I was first sharing the news that I’d been fired, multiple people asked whether it was in retaliation from leadership for being outspoken about equity and inclusion.
+I think it’s very telling that when I was first sharing the news that I’d been laid off, multiple people asked whether it was in retaliation from leadership for being outspoken about equity and inclusion.
 
 I’ve accepted that I won’t really have closure in this. I have questions that I know will have to go unanswered. I’ll never be able to get to the honest truth behind Instrument’s decision to dissolve the team and fire me - the best thing I can do is use the experience as I move forward.
 
@@ -80,6 +80,6 @@ The experiences I’ve written about here caused me to step back and really refl
 
 The executive leadership team at Instrument created a veneer of [niceness](https://medium.com/@yaholo/stop-being-nice-start-being-kind-ff6177464131). When that veneer is prioritized above everything else, it prevents the kind of authentic, transparent communication that fosters learning, collaboration, and growth. I wasn’t perfect in my advocacy, and I was really grateful when people took the time to call me in and let me know where I was failing or letting them down. And just like I wasn’t perfect, I didn’t expect perfection from executive leadership. But speaking up and asking them to actually be better instead of just paying [lip service](https://www.merriam-webster.com/dictionary/lip%20service) threatened that veneer, and ultimately it was just too thick to get through.
 
-I really want to write up a blog post around the topic of being fired - I don’t think it’s all that uncommon, but it’s something that feels shameful and embarrassing so people don’t really talk about it. Let’s normalize it as something that happens so we can talk about it, and we can share how we’re feeling and we can get the support we need when we’re going through it.
+I really want to write up a blog post around the topic of being [laid off]({% post_url 2022-06-12-talking-about-layoffs %}) - I don’t think it’s all that uncommon, but it’s something that feels shameful and embarrassing so people don’t really talk about it. Let’s normalize it as something that happens so we can talk about it, and we can share how we’re feeling and we can get the support we need when we’re going through it.
 
 And finally - thank you with all my heart to everyone who responded with such kindness when I was sharing the news, who offered support and encouragement, who spoke up, who made connections or sent a job req my way. You all helped make a terrible time a little easier, and I appreciate you so much ❤️
