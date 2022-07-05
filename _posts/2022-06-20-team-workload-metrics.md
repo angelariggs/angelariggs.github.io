@@ -63,4 +63,4 @@ As soon as a team starts to “make work visible” and measure it, it starts to
 
 After ‘making work visible’ and categorizing, a team sometimes needs to do some level of sizing in order to compare more accurately. Sometimes it is enough to rely on the number of items, but sizing will help decision making further. Note that sizing doesn’t need to be very exact, and most times a very simple relative sizing (small, medium, large) will provide the insights needed.
 
-<!-- It bears mentioning that, like for any metric, [a periodic review of metrics is an important aspect of measuring workload](https://async.zapier.com/p/60186/congratulations-now-that-your-team-has-engineering-metrics-what-happens-next). -->
+It bears mentioning that, as with any metric, a periodic review of metrics is an important aspect of measuring workload.
