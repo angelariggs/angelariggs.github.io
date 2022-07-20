@@ -18,7 +18,7 @@ But first, an analogy...
 Think of a car’s main dashboard:
 
 <div id="blog-photo">
-	<img src="https://cdn.zappy.app/11e732ad5dfd5a2172935a9fec29785f.png" alt="" width="500" height="300">
+	<img src="https://cdn.zappy.app/11e732ad5dfd5a2172935a9fec29785f.png" alt="" width="" height="">
 </div>
 
 There are many indicators and dials, each helping the driver in different ways:
@@ -42,7 +42,7 @@ These metrics are focused on gauging how the team’s customers are doing. Metri
 - Service Level Indicators (SLI) around how quickly we respond to customer queries
 
 <div id="blog-photo">
-	<img src="https://cdn.zappy.app/b2d35ad4ca39243465da769d0754ddd9.png" alt="" width="400" height="300">
+	<img src="https://cdn.zappy.app/b2d35ad4ca39243465da769d0754ddd9.png" alt="" width="" height="">
 </div>
 
 These are often considered some of the most important metrics for a team since they are concerned with the team’s customers. However, these metrics can be lagging indicators and may not give a team enough insight into why customers are happy (or not). 
@@ -57,7 +57,7 @@ Some teams find it useful to measure the workload of the team and gain insight i
 - % Tactical vs Strategic work
 
 <div id="blog-photo">
-	<img src="https://cdn.zappy.app/d5639d228ab248ad9ad0bd7bc57ea712.png" alt="" width="400" height="300">
+	<img src="https://cdn.zappy.app/d5639d228ab248ad9ad0bd7bc57ea712.png" alt="" width="" height="">
 </div>
 
 These metrics can help teams understand and articulate their pain-points, and can even sometimes be tied to customer metrics. They can also sometimes reveal issues and bottlenecks outside of the team that impact the workload placed on the team. 
@@ -71,7 +71,7 @@ If Team Workload metrics measure the input of work into a team, Team Performance
 - Team Velocity: the average velocity of completing stories
 
 <div id="blog-photo">
-	<img src="https://cdn.zappy.app/f4d23e2a1750ac50e35ba2f9336f3f29.png" alt="" width="400" height="300">
+	<img src="https://cdn.zappy.app/f4d23e2a1750ac50e35ba2f9336f3f29.png" alt="" width="" height="">
 </div>
 
 [These metrics are typically the ones most in danger of being incorrectly used by management - and at worst weaponized]({% post_url 2022-01-18-pitfalls-of-engineering-metrics %}). When used properly, they are great companion metrics to Team Workload and Customer Metrics.
@@ -97,7 +97,7 @@ Another category of metrics revolves around the team’s engagement and happines
 - Ambiguity of workload and strategy surveys
 
 <div id="blog-photo">
-	<img src="https://cdn.zappy.app/ddbe4496d05302515c3a82e60dfd8e8b.png" alt="" width="450" height="300">
+	<img src="https://cdn.zappy.app/ddbe4496d05302515c3a82e60dfd8e8b.png" alt="" width="" height="">
 </div>
 
 These metrics aim to balance some of the performance, workload, and customer metrics with team engagement. For example, engaged teams often are high-performing teams. 

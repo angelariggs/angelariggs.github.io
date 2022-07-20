@@ -96,9 +96,7 @@ a.tag-section {
   }
 }
 
-#blog-photo {
-  max-width: 30%;
+#blog-photo img {
+  max-width: 80%;
   height: auto;
-  @include mobile {
-  }
 }
