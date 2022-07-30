@@ -7,9 +7,6 @@ comments: true
 tags: guest-post metrics
 ---
 
-[text]({% post_url 2022-07-18-hierarchy-of-metrics %})
-[text]({% link tag/series-managing-metrics.md %})
-
 When deciding to come up with metrics to measure, it is helpful to distinguish between activities and outcomes and their associated metrics. One leads into another and one is best assessed in the context of another. 
 
 ## Summary
@@ -103,3 +100,5 @@ For most activities, there are a set of desired outcomes. It is helpful to disti
 
 
 In the ideal situation, we desire the outcomes and are held accountable to them (by ourselves and/or others). 
+
+_**[ Guest post from Mojtaba Hosseini ]**_
