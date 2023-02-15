@@ -19,9 +19,21 @@ permalink: /talks
 
 # // 2022 //
 
+## Managing with Empathy with Angela Riggs
+### Interview with Lina Zubyte for Quality Bits - October 2022
+[Podcast](https://www.buzzsprout.com/2037134/11479847-managing-with-empathy-with-angela-riggs) (includes transcript)
+
+## How a Leader Made the Interview Process More Collaborative
+### Interview with Suzan Bond for her Leader Conversations series - July 2022
+[Article](https://suzansfieldnotes.substack.com/p/how-a-leader-made-the-interview-process)
+
 ## Beginner's Guide to the Automation Galaxy
 ### Agile Testing Days USA - June 2022
 [Description](https://agiletestingdays.us/session/beginners-guide-to-the-automation-galaxy/)
+
+## - Three Strategies For Speaking Up For Introverts
+### Interview with Jean Lee for Exaltitude - March 2022
+[Article](https://www.exaltitude.io/blogs/three-strategies-for-speaking-up-for-introverts)
 
 &nbsp;
 &nbsp;
