@@ -11,13 +11,13 @@ I often write about things I’ve learned, but this blog post is about how I’v
 
 And how was I feeling, you may ask? In a word: Imposter-y. (We can argue about whether that’s actually a word in the next blog post 😄)
 
-Here’s how the past few years have gone for me: New job. Pandemic. Burnout. Layoff. Anxiety. Trying to find a new job as a manager with less than a year of manager experience. New job. Selling our house and leaving the place we’ve called home for eight years to move to Texas. Move back to Portland. Layoff. Anxiety. New job.
-
-(You may notice that “recover from burnout” doesn’t show up in that timeline.)
-
 I’ve done lots of new things and scary things throughout my life. I dropped out of college and became a self-supporting adult at the age of  20. I went back to school and got my teaching degree. I’ve gone sky-diving. Moved across the country. Changed careers. Changed careers again.
 
 I’ve had spikes of imposter syndrome before, but none that have hit as hard as this fall. Now that I’ve been able to move past it (we’ll get to this, I promise!), I've been thinking about why it hit me so hard.
+
+**Existing stress and burnout.** Here’s how the past few years have gone for me: New job. Pandemic. Burnout. Layoff. Anxiety. Trying to find a new job as a manager with less than a year of manager experience. New job. Selling our house and leaving the place we’ve called home for eight years to move to Texas. Move back to Portland. Layoff. Anxiety. New job.
+
+You may notice that “recover from burnout” doesn’t show up in that timeline. So I came into my new job with a higher baseline of stress, which made everything else even harder to deal with.
 
 **Organizational complexity.** This is one of the bigger companies I’ve worked for, with several distinct orgs within the software engineering org. There have been changes and reorgs over time, so there’s also historical complexity. We have code names and historical names. There’s a ton of cross-team and cross-org dependencies, and sometimes it can be hard to figure out who owns what pieces of work.
 
