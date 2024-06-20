@@ -25,7 +25,7 @@ Sometimes, due to the enthusiasm for metrics and drive for completeness, a team 
 **How can we mitigate it?**
 - Focus on outcomes: what problem would metrics solve? What problem are we trying to solve at this point?
 - Pick a small number of metrics and start measuring
-- Adopt agility: start with some and iterate to add/remove metrics and learn to use some metris before trying to cover all metrics
+- Adopt agility: start with some and iterate to add/remove metrics and learn to use some metrics before trying to cover all metrics
 
 ## Pitfall #2: Measure only 1 category
 
