@@ -10,7 +10,7 @@ tags: managering reflection
 Anyone can hold the helm when the sea is calm.
  -- Publius Syrus
 
-Someone shared this quote recently, and my mind immediately went to the idea of managing in calm seas compared to managing in stormy seas. I’ve often heard the analogy of wartime general / peacetime general when it comes to being a manager in a chaotic dynamic and rapidly changing environment, but I like this one better. 
+Someone shared this quote recently, and my mind immediately went to the idea of managing in calm seas compared to managing in stormy seas. I’ve often heard the analogy of wartime general / peacetime general when it comes to being a manager in a ~~chaotic~~ dynamic and rapidly changing environment, but I like this one better. 
 
 The last several years in tech have been fairly tumultuous - rapid growth followed by rounds of layoffs and reorgs - and many of us have had a front-row seat to the uncertainty, ambiguity, and low morale that comes along with it. This isn’t a challenge unique to my current role, but it’s one I’ve had to learn how to navigate as a manager. So how do I guide my team forward when the seas are stormy?
 
